@@ -27,180 +27,151 @@
 219104,Premier Sports 2 HD,Premier Sports 2
 
 马来西亚Astro
-100.astro,KITA,KITA
-101.astro,TV1,TV1
-102.astro,TV2,TV2
-103.astro,TV3,TV3
-104.astro,RIA HD,RIA HD
-105.astro,PRIMA HD,PRIMA HD
-106.astro,OASIS HD,OASIS HD
-108.astro,CITRA HD,CITRA HD
-112.astro,RANIA HD,RANIA HD
-113.astro,AURA HD,AURA HD
-114.astro,TV ALHIJRAH,TV ALHIJRAH
-116.astro,COLORS HD,COLORS HD
-122.astro,TVS,TVS
-146.astro,TV OKEY,TV OKEY
-147.astro,NTV7,NTV7
-148.astro,8TV,8TV
-149.astro,TV9,TV9
-200.astro,SELF SERVICE,SELF SERVICE
-201.astro,VAANAVIL HD,VAANAVIL HD
-202.astro,VINMEEN HD,VINMEEN HD
-203.astro,Vellithirai HD,Vellithirai HD
-211.astro,SUN TV HD,SUN TV HD
-212.astro,SUN MUSIC HD,SUN MUSIC HD
-214.astro,ADITHYA,ADITHYA
-215.astro,Sun News,Sun News
-216.astro,KTV,KTV
-217.astro,Sun Life,Sun Life
-221.astro,STAR VIJAY HD,STAR VIJAY HD
-222.astro,COLORS TAMIL,COLORS TAMIL
-223.astro,ZEE TAMIL HD,ZEE TAMIL HD
-241.astro,THANGATHIRAI HD,THANGATHIRAI HD
-251.astro,Zee Cinema,Zee Cinema
-300.astro,iQIYI HD,iQIYI HD
-305.astro,TVB CLASSIC HD,TVB CLASSIC HD
-306.astro,AEC HD,AEC HD
-308.astro,QJ HD,QJ HD
-309.astro,CELESTIAL HD,CELESTIAL HD
-310.astro,TVBJ,TVBJ
-311.astro,AOD HD,AOD HD
-316.astro,CTI ASIA HD,CTI ASIA HD
-317.astro,TVB E-NEWS HD,TVB E-NEWS HD
-319.astro,TVB XING HE HD,TVB XING HE HD
-320.astro,TVBS ASIA HD,TVBS ASIA HD
-321.astro,CCM,CCM
-325.astro,PHOENIX HD,PHOENIX HD
-326.astro,PHOENIX NEWS HD,PHOENIX NEWS HD
-333.astro,HUA HEE DAI HD,HUA HEE DAI HD
-335.astro,CCTV4 HD,CCTV4 HD
-392.astro,KBSW HD,KBSW HD
-393.astro,ONE HD,ONE HD
-395.astro,tvN HD,tvN HD
-396.astro,KPLUS,KPLUS
-398.astro,NHK HD,NHK HD
-401.astro,HITS MOVIES HD,HITS MOVIES HD
-404.astro,BOO,BOO
-411.astro,HBO HD,HBO HD
-412.astro,CINEMAX HD,CINEMAX HD
-413.astro,SHOWCASE,SHOWCASE
-414.astro,HBO Family,HBO Family
-415.astro,HBO Hits,HBO Hits
-416.astro,tvN Movies,tvN Movies
-472.astro,FIRST HD,FIRST HD
-473.astro,FIRST HD,FIRST HD
-474.astro,FIRST HD,FIRST HD
-475.astro,FIRST HD,FIRST HD
-476.astro,FIRST HD,FIRST HD
-477.astro,FIRST HD,FIRST HD
-478.astro,FIRST HD,FIRST HD
-479.astro,FIRST HD,FIRST HD
-480.astro,FIRST,FIRST
-482.astro,FIRST HD,FIRST HD
-483.astro,FIRST HD,FIRST HD
-484.astro,FIRST HD,FIRST HD
-485.astro,FIRST HD,FIRST HD
-486.astro,FIRST HD,FIRST HD
-487.astro,FIRST HD,FIRST HD
-488.astro,FIRST HD,FIRST HD
-489.astro,FIRST HD,FIRST HD
-501.astro,AWANI HD,AWANI HD
-502.astro,BERNAMA,BERNAMA
-503.astro,CGTN HD,CGTN HD
-511.astro,CNN HD,CNN HD
-512.astro,BBC News HD,BBC News HD
-513.astro,AL JAZEERA HD,AL JAZEERA HD
-515.astro,CNA HD,CNA HD
-516.astro,CNBC HD,CNBC HD
-517.astro,BLOOMBERG TV HD,BLOOMBERG TV HD
-518.astro,ABC AUSTRALIA,ABC AUSTRALIA
-521.astro,DW HD,DW HD
-522.astro,FRANCE24 HD,FRANCE24 HD
-549.astro,Love Nature 4K,Love Nature 4K
-550.astro,Love Nature,Love Nature
-551.astro,Global Trekker,Global Trekker
-552.astro,DISCOVERY HD,DISCOVERY HD
-553.astro,DISCOVERY ASIA,DISCOVERY ASIA
-554.astro,BBC Earth,BBC Earth
-555.astro,HISTORY HD,HISTORY HD
-603.astro,TUTOR TV,TUTOR TV
-611.astro,CERIA HD,CERIA HD
-615.astro,CARTOON NTWK HD,CARTOON NTWK HD
-616.astro,NICKELODEON HD,NICKELODEON HD
-617.astro,NICK JR,NICK JR
-618.astro,Moonbug Kids,Moonbug Kids
-619.astro,Blippi & Friends,Blippi & Friends
-620.astro,CBeebies,CBeebies
-701.astro,AXN HD,AXN HD
-702.astro,HITS NOW,HITS NOW
-703.astro,Lifetime,Lifetime
-706.astro,HITS HD,HITS HD
-707.astro,TLC HD,TLC HD
-709.astro,AFN HD,AFN HD
-714.astro,CI HD,CI HD
-715.astro,HGTV HD,HGTV HD
-717.astro,BBC Lifestyle,BBC Lifestyle
-718.astro,MTV HD,MTV HD
-801.astro,ARENA HD,ARENA HD
-802.astro,ARENA 2 HD,ARENA 2 HD
-803.astro,ARENA BOLA,ARENA BOLA
-804.astro,ARENA BOLA 2,ARENA BOLA 2
-805.astro,ASTRO UHD,ASTRO UHD
-810.astro,Astro Grandstand,Astro Grandstand
-811.astro,Astro Premier League,Astro Premier League
-812.astro,Astro Premier League 2,Astro Premier League 2
-814.astro,Astro Football,Astro Football
-815.astro,Astro Badminton,Astro Badminton
-817.astro,Astro Sports Plus,Astro Sports Plus
-820.astro,beIN SPORTS,beIN SPORTS
-821.astro,beIN SPORTS 2,beIN SPORTS 2
-822.astro,bEIN SPORTS 3,bEIN SPORTS 3
-823.astro,SPOTV,SPOTV
-824.astro,SPOTV2,SPOTV2
-826.astro,W-Sport,W-Sport
-831.astro,GOLF CHANNEL HD,GOLF CHANNEL HD
-832.astro,ASTRO CRICKET,ASTRO CRICKET
-833.astro,Premier Sports,Premier Sports
-852.astro,HITZ,HITZ
-853.astro,MY,MY
-854.astro,LITE,LITE
-855.astro,MIX,MIX
-856.astro,ERA,ERA
-857.astro,SINAR,SINAR
-858.astro,MELODY,MELODY
-859.astro,RAAGA,RAAGA
-860.astro,CLASSIC ROCK,CLASSIC ROCK
-861.astro,GOLD,GOLD
-862.astro,OPUS,OPUS
-863.astro,GEGAR,GEGAR
-864.astro,INDIA BEAT,INDIA BEAT
-865.astro,JAZZ,JAZZ
-866.astro,OSAI,OSAI
-867.astro,BAYU,BAYU
-868.astro,KENYALANG,KENYALANG
-876.astro,ZAYAN,ZAYAN
-877.astro,GO XUAN,GO XUAN
-900.astro,France 24 (French),France 24 (French)
-494.sooka,Infamous TV,Infamous TV
-497.sooka,Tastemade,Tastemade
-505.sooka,YRF music,YRF music
-509.sooka,Drama Hebat,Drama Hebat
-510.sooka,Filem Mantap,Filem Mantap
-511.sooka,Lawak Sentral,Lawak Sentral
-512.sooka,Drama Hotpot,Drama Hotpot
-513.sooka,Travel & Taste,Travel & Taste
-515.sooka,Jelly Jamm World,Jelly Jamm World
-516.sooka,Pet club,Pet club
-517.sooka,Free Movies,Free Movies
-527.sooka,Jom Ngaji,Jom Ngaji
-528.sooka,Oh My Ceria,Oh My Ceria
-565.sooka,GustoTV HD,GustoTV HD
-569.sooka,KCM,KCM
-575.sooka,wedotv Big stories,wedotv Big stories
-576.sooka,wedotv Movies,wedotv Movies
-578.sooka,wedotv Sports,wedotv Sports
-579.sooka,Horse & Country,Horse & Country
+KITA,KITA,KITA
+TV1,TV1,TV1
+TV2,TV2,TV2
+TV3,TV3,TV3
+AstroRia,Astro Ria,Astro Ria
+AstroPrima,Astro Prima,Astro Prima
+AstroOasis,Astro Oasis,Astro Oasis
+AstroCitra,Astro Citra,Astro Citra
+AstroRania,Astro Rania,Astro Rania
+AstroAura,Astro Aura,Astro Aura
+TVAlhijrah,Al-Hijrah,Al-Hijrah
+ColorsHD,Colors Hindi,Colors Hindi
+TVS,TVS,TVS
+OKEY,TV Okey,TV Okey
+DidikTVKPM,DidikTV KPM,DidikTV KPM
+8TV,8TV,8TV
+TV9,TV9,TV9
+AstroVaanavil,Astro Vaanavil,Astro Vaanavil
+AstroVinmeen,Astro Vinmeen,Astro Vinmeen
+AstroVellithirai,Astro Vellithirai,Astro Vellithirai
+SunTV,Sun TV,Sun TV
+SunMusic,Sun Music,Sun Music
+Adithya,Adithya,Adithya
+SunNews,Sun News,Sun News
+KTV,KTV,KTV
+SunLife,Sun Life,Sun Life
+StarVijay,Star Vijay,Star Vijay
+ColorsTamilHD,Colors Tamil,Colors Tamil
+ZeeTamilHD,Zee Tamil,Zee Tamil
+AstroThangathirai,Astro Thangathirai,Astro Thangathirai
+ZeeCinema,Zee Cinema,Zee Cinema
+iQIYI,iQIYI,iQIYI
+TVBClassic,TVB Classic,TVB Classic
+AstroAEC,Astro AEC,Astro AEC
+AstroQJ,Astro QJ,Astro QJ
+CelestialMovies,Celestial Movies,Celestial Movies
+TVBJade,TVB Jade,TVB Jade
+AstroAOD,Astro AOD,Astro AOD
+CTIAsia,CTI Asia HD,CTI Asia HD
+TVBEntertainmentNews,TVB Entertainment News,TVB Entertainment News
+TVBXingHe,TVB Xing He,TVB Xing He
+TVBSAsia,TVBS Asia,TVBS Asia
+CCM,CCM,CCM
+PhoenixChineseChannel,Phoenix Chinese Channel,Phoenix Chinese Channel
+PhoenixInfoNews,Phoenix Info News,Phoenix Info News
+AstroHuaHeeDai,Astro Hua Hee Dai,Astro Hua Hee Dai
+CCTV4,CCTV4,CCTV4
+KBSWorld,KBS World,KBS World
+ONE,ONE,ONE
+tvN,tvN,tvN
+K-Plus,K-Plus,K-Plus
+NHKWorldPremium,NHK World,NHK World
+HITSMovies,HITS Movies,HITS Movies
+AstroBoo,Boo,Boo
+HBO,HBO,HBO
+Cinemax,CINEMAX,CINEMAX
+AstroShowcase,Astro Showcase,Astro Showcase
+HBOFamily,HBO Family,HBO Family
+HBOHits,HBO Hits,HBO Hits
+tvNMovies,tvN Movies,tvN Movies
+AstroAwani,Astro Awani,Astro Awani
+BernamaTV,BERNAMA,BERNAMA
+CGTN,CGTN,CGTN
+CNN,CNN,CNN
+BBCNews,BBC News,BBC News
+AlJazeeraEnglish,Al Jazeera English,Al Jazeera English
+CNA,CNA,CNA
+CNBCAsia,CNBC Asia,CNBC Asia
+BloombergTV,Bloomberg TV,Bloomberg TV
+ABCAustralia,ABC Australia,ABC Australia
+DW,DW English,DW English
+France24,France24,France24
+LoveNature4K,Love Nature 4K,Love Nature 4K
+LoveNature,Love Nature,Love Nature
+GlobalTrekker,Global Trekker,Global Trekker
+DiscoveryChannel,Discovery Channel HD,Discovery Channel HD
+DiscoveryAsia,Discovery Asia,Discovery Asia
+BBCEarth,BBC Earth,BBC Earth
+History,History,History
+AstroTutorTV,Astro Tutor TV,Astro Tutor TV
+AstroCeria,Astro Ceria,Astro Ceria
+CartoonNetwork,Cartoon Network,Cartoon Network
+Nickelodeon,Nickelodeon,Nickelodeon
+NickJr,Nick Jr,Nick Jr
+MoonbugKids,Moonbug,Moonbug
+BlippiandFriends,Blippi & Friends,Blippi & Friends
+CBeebies,CBeebies,CBeebies
+AXN,AXN,AXN
+HITSNow,HITS Now,HITS Now
+Lifetime,Lifetime,Lifetime
+HITS,HITS,HITS
+TLC,TLC,TLC
+AFN,Asian Food Network,Asian Food Network
+CrimeInvestigation,Crime & Investigation,Crime & Investigation
+HGTV,HGTV,HGTV
+BBCLifestyle,BBC Lifestyle,BBC Lifestyle
+MTVLive,MTV Live,MTV Live
+AstroArena,Astro Arena,Astro Arena
+AstroArena2,Astro Arena 2,Astro Arena 2
+AstroArenaBola,Astro Arena Bola,Astro Arena Bola
+AstroArenaBola2,Astro Arena Bola 2,Astro Arena Bola 2
+AstroSportsPlus2,Astro Sports Plus 2,Astro Sports Plus 2
+AstroSportsUHD,Astro Sports UHD,Astro Sports UHD
+SPOTV2,SPOTV2,SPOTV2
+AstroGrandstand,Astro Grandstand,Astro Grandstand
+AstroPremierLeague,Astro Premier League,Astro Premier League
+AstroPremierLeague2,Astro Premier League 2,Astro Premier League 2
+AstroFootball,Astro Football,Astro Football
+AstroBadminton,Astro Badminton,Astro Badminton
+AstroBadminton2,Astro Badminton 2,Astro Badminton 2
+AstroSportsPlus,Astro Sports Plus,Astro Sports Plus
+W-Sport,W-Sport,W-Sport
+SPOTV,SPOTV,SPOTV
+beINSports2,beIN Sports 2,beIN Sports 2
+beINSports,beIN Sports,beIN Sports
+beINSports3,beIN Sports 3,beIN Sports 3
+GolfChannel,Golf Channel,Golf Channel
+PremierSports,Premier Sports,Premier Sports
+AstroCricket,Astro Cricket,Astro Cricket
+HITZ,HITZ,HITZ
+MY,MY,MY
+LITE,LITE,LITE
+MIX,MIX,MIX
+ERA,ERA,ERA
+SINAR,SINAR,SINAR
+MELODY,MELODY,MELODY
+RAAGA,RAAGA,RAAGA
+ROCK,SYOK CLASSIC ROCK,SYOK CLASSIC ROCK
+GOLD,SYOK GOLD,SYOK GOLD
+OPUS,SYOK OPUS,SYOK OPUS
+GEGAR,GEGAR,GEGAR
+INDIA,SYOK INDIA BEAT,SYOK INDIA BEAT
+JAZZ,SYOK JAZZ,SYOK JAZZ
+OSAI,SYOK OSAI,SYOK OSAI
+BAYU,SYOK BAYU,SYOK BAYU
+SYOK KENYALANG,KENYALANG,KENYALANG
+NASFM,NAS FM,NAS FM
+VFM,V FM,V FM
+WAIFM,WAI FM,WAI FM
+TRAXXFM,TRAXX FM,TRAXX FM
+MINNALFM,MINNAL FM,MINNAL FM
+AIFM,AI FM,AI FM
+ASYIKFM,ASYIK FM,ASYIK FM
+ZAYAN,ZAYAN,ZAYAN
+GOXUAN,GO XUAN,GO XUAN
 
 
 马来西亚MY
