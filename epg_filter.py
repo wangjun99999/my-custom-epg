@@ -10,6 +10,7 @@ CHANNEL_TXT_FILE = "channel_list.txt"
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg_GB.xml",
     "https://epg.v1.mk/fy.xml",
+    "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 ]
 # 输出的自定义EPG文件名
