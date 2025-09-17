@@ -100,7 +100,7 @@ CHC 高清电影,CHC 高清电影,CHC 高清电影
 北京生活,北京生活,北京生活
 北京纪实,北京纪实,北京纪实
 北京纪实科教,北京纪实科教,北京纪实科教
-北京财经,北京财经北京财经
+北京财经,北京财经,北京财经
 卡酷少儿,卡酷少儿,卡酷少儿
 
 之江纪录,之江纪录,之江纪录
@@ -310,6 +310,3 @@ ZAYAN,ZAYAN,ZAYAN
 GOXUAN,GO XUAN,GO XUAN
 
 
-马来西亚MY
-1205,AXN HD,AXN
-1298,Celestial Movies HD,天映频道 Celestial Movies
