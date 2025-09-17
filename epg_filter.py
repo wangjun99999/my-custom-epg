@@ -10,7 +10,7 @@ CHANNEL_TXT_FILE = "channel_list.txt"
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg_GB.xml",
     "https://epg.pw/xmltv/epg_MY.xml",
-    "https://raw.githubusercontent.com/azimabid00/epg/refs/heads/main/astro_epg.xml"
+    "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 ]
 # 输出的自定义EPG文件名
 OUTPUT_FILE = "custom_epg.xml"
