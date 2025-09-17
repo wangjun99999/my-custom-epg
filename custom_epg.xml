@@ -192,6 +192,30 @@
   </channel>
   
   
+  <channel id="219100">
+    
+    
+    <display-name lang="GB">Premier Sports 1 HD</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
+  <channel id="219104">
+    
+    
+    <display-name lang="GB">Premier Sports 2 HD</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
   <channel id="222007">
     
     
@@ -208,6 +232,66 @@
     
     
     <display-name lang="GB">SkySp+</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
+  <channel id="400476">
+    
+    
+    <display-name lang="GB">TNT Sports Ultimate</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
+  <channel id="400477">
+    
+    
+    <display-name lang="GB">TNT Sports 1 HD</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
+  <channel id="400478">
+    
+    
+    <display-name lang="GB">TNT Sports 4 HD</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
+  <channel id="400479">
+    
+    
+    <display-name lang="GB">TNT Sports 3 HD</display-name>
+    
+    
+    <icon src=""/>
+    
+  
+  </channel>
+  
+  
+  <channel id="400480">
+    
+    
+    <display-name lang="GB">TNT Sports 2 HD</display-name>
     
     
     <icon src=""/>
@@ -264,6 +348,21 @@
   </channel>
   
   
+  <channel id="701.astro">
+    
+  
+    <display-name lang="en">AXN HD</display-name>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png"/>
+    
+  
+    <url>https://astro.com.my</url>
+    
+ 
+  </channel>
+  
+ 
   <programme channel="9321" start="20250917000000 +0000" stop="20250917010000 +0000">
     
     
@@ -16104,6 +16203,1110 @@
   </programme>
   
   
+  <programme channel="219104" start="20250917000000 +0000" stop="20250917020000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Real Sociedad v Real Madrid.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917020000 +0000" stop="20250917040000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Celta Vigo v Girona.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917040000 +0000" stop="20250917043000 +0000">
+    
+    
+    <title lang="zh">Bike World</title>
+    
+    
+    <desc>The latest action from the high octane world of two wheels.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917043000 +0000" stop="20250917050000 +0000">
+    
+    
+    <title lang="zh">GP Confidential</title>
+    
+    
+    <desc>All the latest Formula One news.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917050000 +0000" stop="20250917070000 +0000">
+    
+    
+    <title lang="zh">Eredivisie</title>
+    
+    
+    <desc>Heracles Almelo v AZ Alkmaar.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917070000 +0000" stop="20250917090000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union</title>
+    
+    
+    <desc>La Rochelle v Clermont Auvergne.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917090000 +0000" stop="20250917110000 +0000">
+    
+    
+    <title lang="zh">NASCAR Trucks</title>
+    
+    
+    <desc>Action from Bristol Speedway.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917110000 +0000" stop="20250917113000 +0000">
+    
+    
+    <title lang="zh">Bike World</title>
+    
+    
+    <desc>The latest action from the high octane world of two wheels.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917113000 +0000" stop="20250917120000 +0000">
+    
+    
+    <title lang="zh">GP Confidential</title>
+    
+    
+    <desc>All the latest Formula One news.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917120000 +0000" stop="20250917123000 +0000">
+    
+    
+    <title lang="zh">Temples of Sport</title>
+    
+    
+    <desc>Iconic sporting venues.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917123000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">Temples of Sport</title>
+    
+    
+    <desc>Iconic sporting venues from around the globe.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917130000 +0000" stop="20250917150000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Osasuna v Rayo Vallecano.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917150000 +0000" stop="20250917170000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union</title>
+    
+    
+    <desc>Montauban v Lyon.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917170000 +0000" stop="20250917190000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Espanyol v Mallorca.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917190000 +0000" stop="20250917193000 +0000">
+    
+    
+    <title lang="zh">FastZone</title>
+    
+    
+    <desc>Weekly Motorsports highlights show.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917193000 +0000" stop="20250917200000 +0000">
+    
+    
+    <title lang="zh">GP Confidential</title>
+    
+    
+    <desc>All the latest Formula One news.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917200000 +0000" stop="20250917220000 +0000">
+    
+    
+    <title lang="zh">Eredivisie</title>
+    
+    
+    <desc>Feyenoord v SC Heerenveen.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250917220000 +0000" stop="20250918000000 +0000">
+    
+    
+    <title lang="zh">Swedish Speedway</title>
+    
+    
+    <desc>Smederna v Vastervik.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918000000 +0000" stop="20250918003000 +0000">
+    
+    
+    <title lang="zh">Bike World</title>
+    
+    
+    <desc>The latest action from the high octane world of two wheels.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918003000 +0000" stop="20250918010000 +0000">
+    
+    
+    <title lang="zh">FastZone</title>
+    
+    
+    <desc>Weekly Motorsports highlights show.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918010000 +0000" stop="20250918030000 +0000">
+    
+    
+    <title lang="zh">United Rugby Championship</title>
+    
+    
+    <desc>Action from Leinster v Bulls in the Grand Final.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918030000 +0000" stop="20250918033000 +0000">
+    
+    
+    <title lang="zh">GP Confidential</title>
+    
+    
+    <desc>All the latest Formula One news.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918033000 +0000" stop="20250918040000 +0000">
+    
+    
+    <title lang="zh">Football's Greatest</title>
+    
+    
+    <desc>The finest players in history discuss their careers.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918040000 +0000" stop="20250918060000 +0000">
+    
+    
+    <title lang="zh">Coppa Italia</title>
+    
+    
+    <desc>AC Milan v Bari.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918060000 +0000" stop="20250918080000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union</title>
+    
+    
+    <desc>Toulon v Castres.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918080000 +0000" stop="20250918083000 +0000">
+    
+    
+    <title lang="zh">Temples of Sport</title>
+    
+    
+    <desc>Iconic sporting venues from around the globe.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918083000 +0000" stop="20250918103000 +0000">
+    
+    
+    <title lang="zh">Eredivisie</title>
+    
+    
+    <desc>Feyenoord v SC Heerenveen.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918103000 +0000" stop="20250918123000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Celta Vigo v Girona.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918123000 +0000" stop="20250918130000 +0000">
+    
+    
+    <title lang="zh">Football's Greatest</title>
+    
+    
+    <desc>The finest players in history discuss their careers.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918130000 +0000" stop="20250918150000 +0000">
+    
+    
+    <title lang="zh">NASCAR Trucks</title>
+    
+    
+    <desc>Action from Bristol Speedway.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918150000 +0000" stop="20250918153000 +0000">
+    
+    
+    <title lang="zh">Temples of Sport</title>
+    
+    
+    <desc>Iconic sporting venues.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918153000 +0000" stop="20250918160000 +0000">
+    
+    
+    <title lang="zh">Temples of Sport</title>
+    
+    
+    <desc>Iconic sporting venues from around the globe.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918160000 +0000" stop="20250918163000 +0000">
+    
+    
+    <title lang="zh">FastZone</title>
+    
+    
+    <desc>Weekly Motorsports highlights show.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918163000 +0000" stop="20250918170000 +0000">
+    
+    
+    <title lang="zh">GP Confidential</title>
+    
+    
+    <desc>All the latest Formula One news.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918170000 +0000" stop="20250918190000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union</title>
+    
+    
+    <desc>La Rochelle v Clermont Auvergne.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918190000 +0000" stop="20250918193000 +0000">
+    
+    
+    <title lang="zh">Bike World</title>
+    
+    
+    <desc>The latest action from the high octane world of two wheels.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918193000 +0000" stop="20250918200000 +0000">
+    
+    
+    <title lang="zh">Temples of Sport</title>
+    
+    
+    <desc>Iconic sporting venues from around the globe.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918200000 +0000" stop="20250918220000 +0000">
+    
+    
+    <title lang="zh">Eredivisie</title>
+    
+    
+    <desc>Heracles Almelo v AZ Alkmaar.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250918220000 +0000" stop="20250919000000 +0000">
+    
+    
+    <title lang="zh">United Rugby Championship</title>
+    
+    
+    <desc>Action from Leinster v Bulls in the Grand Final.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919000000 +0000" stop="20250919020000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Osasuna v Rayo Vallecano.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919020000 +0000" stop="20250919023000 +0000">
+    
+    
+    <title lang="zh">FastZone</title>
+    
+    
+    <desc>Weekly Motorsports highlights show.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919023000 +0000" stop="20250919030000 +0000">
+    
+    
+    <title lang="zh">Bike World</title>
+    
+    
+    <desc>The latest action from the high octane world of two wheels.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919030000 +0000" stop="20250919050000 +0000">
+    
+    
+    <title lang="zh">LaLiga</title>
+    
+    
+    <desc>Espanyol v Mallorca.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919050000 +0000" stop="20250919053000 +0000">
+    
+    
+    <title lang="zh">Football's Greatest</title>
+    
+    
+    <desc>The finest players in history discuss their careers.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919053000 +0000" stop="20250919060000 +0000">
+    
+    
+    <title lang="zh">Football's Greatest</title>
+    
+    
+    <desc>The finest players in history discuss their careers.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219104" start="20250919060000 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union</title>
+    
+    
+    <desc>Racing 92 v Bordeaux.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
   <programme channel="222007" start="20250917000000 +0000" stop="20250917020000 +0000">
     
     
@@ -17839,6 +19042,5358 @@
     
     
     <desc>Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917000000 +0000" stop="20250917030000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Mikel Arteta's Arsenal kick-off their UEFA Champions League campaign with a trip to face Ernesto Valverde's Athletic Bilbao at San Mames Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917030000 +0000" stop="20250917053000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Real Madrid begin their pursuit of a 16th Champions League trophy as they host Roberto De Zerbi's Marseille at Santiago Bernabeu Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917053000 +0000" stop="20250917060000 +0000">
+    
+    
+    <title lang="zh">Premier League Netbusters</title>
+    
+    
+    <desc>Relive all the best goals and action from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917060000 +0000" stop="20250917063000 +0000">
+    
+    
+    <title lang="zh">Premier League Stories</title>
+    
+    
+    <desc>Flamboyant, fearless, and unforgettable - David Luiz lit up the Premier League with his unique style. From Champions League triumphs at Chelsea to high-stakes drama at Arsenal, his career was packed with silverware and great stories. In this episode, we explore the man behind the headlines: a leader, a teammate, and a born entertainer. Now back in Brazil, Luiz opens up on life after the Premier Le</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917063000 +0000" stop="20250917070000 +0000">
+    
+    
+    <title lang="zh">MLB Lead Off</title>
+    
+    
+    <desc>A look at the upcoming MLB action ahead of Padres @ Mets and Phillies @ Dodgers.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917070000 +0000" stop="20250917100000 +0000">
+    
+    
+    <title lang="zh">Live: Major League Baseball</title>
+    
+    
+    <desc>Action from Major League Baseball as San Diego Padres face New York Mets.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917100000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">Live: Major League Baseball</title>
+    
+    
+    <desc>MLB action as Philadelphia Phillies take on Los Angeles Dodgers.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917130000 +0000" stop="20250917133000 +0000">
+    
+    
+    <title lang="zh">MLB Closer</title>
+    
+    
+    <desc>A look back at the best action from the MLB following Padres @ Mets and Phillies @ Dodgers.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917133000 +0000" stop="20250917153000 +0000">
+    
+    
+    <title lang="zh">English Open Snooker</title>
+    
+    
+    <desc>Highlights from the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917153000 +0000" stop="20250917163000 +0000">
+    
+    
+    <title lang="zh">SailGP</title>
+    
+    
+    <desc>Highlights from the Saint Tropez SailGP on the French Riviera. Quentin Delapierre's Les Bleus will be seeking glory in front of their home crowd.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917163000 +0000" stop="20250917164500 +0000">
+    
+    
+    <title lang="zh">MotoGP Rewind</title>
+    
+    
+    <desc>A look back at the best of the action from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917164500 +0000" stop="20250917174500 +0000">
+    
+    
+    <title lang="zh">Premiership Speedway</title>
+    
+    
+    <desc>Highlights from leg one of the British Speedway ROWE Motor Oil Premiership play-off semi-final between Leicester Lions and Sheffield Tigers at Hydroscand Arena.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917174500 +0000" stop="20250917184500 +0000">
+    
+    
+    <title lang="zh">WRC Review</title>
+    
+    
+    <desc>A look back at the latest action from Rally Chile and the 2025 World Rally Championship.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917184500 +0000" stop="20250917190000 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917190000 +0000" stop="20250917193000 +0000">
+    
+    
+    <title lang="zh">Women's CPL T20</title>
+    
+    
+    <desc>Highlights from the Women's Caribbean Premier League encounter between Barbados Royals and Trinbago Knight Riders.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917193000 +0000" stop="20250917200000 +0000">
+    
+    
+    <title lang="zh">CPL T20</title>
+    
+    
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250917200000 +0000" stop="20250918001500 +0000">
+    
+    
+    <title lang="zh">Live: International T20 Cricket</title>
+    
+    
+    <desc>Action from the first T20 between Ireland and England at The Village in Dublin.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918001500 +0000" stop="20250918011500 +0000">
+    
+    
+    <title lang="zh">Vuelta a España</title>
+    
+    
+    <desc>A review of the best action and stories from the 2025 La Vuelta, one of the leading cycling races in the international calendar.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918011500 +0000" stop="20250918014500 +0000">
+    
+    
+    <title lang="zh">Match Officials Mic'd Up</title>
+    
+    
+    <desc>PGMOL chief Howard Webb reviews the decision-making process for five key incidents in the Premier League, including Josh King's controversial disallowed goal against Chelsea.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918014500 +0000" stop="20250918020000 +0000">
+    
+    
+    <title lang="zh">Under the Lights</title>
+    
+    
+    <desc>Relive the memorable European footballing nights at Anfield, covering the last twenty years of the modern era of Champions League and Europa Cup competitions.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918020000 +0000" stop="20250918053000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Arne Slot's Liverpool start their hunt for a seventh UEFA Champions League crown as they host Diego Simeone's Atlético Madrid at Anfield.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918053000 +0000" stop="20250918063000 +0000">
+    
+    
+    <title lang="zh">TNT Sports Films</title>
+    
+    
+    <desc>20 years on from Liverpool's triumph in the 2005 UEFA Champions League final, we take a look back at the Miracle of Istanbul and one of the greatest comebacks in sporting history.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918063000 +0000" stop="20250918070000 +0000">
+    
+    
+    <title lang="zh">MLB Plays of the Week</title>
+    
+    
+    <desc>This weekly MLB highlights show showcases the most exciting plays from the past week's matches.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918070000 +0000" stop="20250918100000 +0000">
+    
+    
+    <title lang="zh">Live: Major League Baseball</title>
+    
+    
+    <desc>Major League Baseball action as San Diego Padres meet New York Mets at Citi Field.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918100000 +0000" stop="20250918131500 +0000">
+    
+    
+    <title lang="zh">Live: Major League Baseball</title>
+    
+    
+    <desc>Action from Major League Baseball as Philadelphia Phillies take on Los Angeles Dodgers.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918131500 +0000" stop="20250918151500 +0000">
+    
+    
+    <title lang="zh">English Open Snooker</title>
+    
+    
+    <desc>Highlights from the 2025 English Open.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918151500 +0000" stop="20250918161600 +0000">
+    
+    
+    <title lang="zh">International T20 Cricket</title>
+    
+    
+    <desc>Action from the first T20 between Ireland and England at The Village in Dublin.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918161600 +0000" stop="20250918171500 +0000">
+    
+    
+    <title lang="zh">Fishing: On the Bank</title>
+    
+    
+    <desc>Anglers from all over the UK and Ireland gather at Lake of Menteith to compete for the largest cash prize in competition fly fishing in the Greys Lochstyle Team Championship.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918171500 +0000" stop="20250918180000 +0000">
+    
+    
+    <title lang="zh">Sign Up: Into Football</title>
+    
+    
+    <desc>Rolf and Damaris interview Chelsea striker Liam Delap and England hero Hannah Hampton. Enzo Maresca and Sonia Bompastor learn BSL, while Joe Cole reviews the season so far.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918180000 +0000" stop="20250918200000 +0000">
+    
+    
+    <title lang="zh">English Open Snooker</title>
+    
+    
+    <desc>Highlights from the 2025 English Open.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250918200000 +0000" stop="20250919000000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round five and match one of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919000000 +0000" stop="20250919001500 +0000">
+    
+    
+    <title lang="zh">MotoGP Rewind</title>
+    
+    
+    <desc>A look back at the best of the action from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919001500 +0000" stop="20250919003000 +0000">
+    
+    
+    <title lang="zh">The Gruppetto</title>
+    
+    
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919003000 +0000" stop="20250919010000 +0000">
+    
+    
+    <title lang="zh">Serie A Full Impact</title>
+    
+    
+    <desc>All the best moments from matchday three in Serie A, featuring Juventus v Inter, Fiorentina v Napoli, Roma v Torino, and Milan v Bologna.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919010000 +0000" stop="20250919013000 +0000">
+    
+    
+    <title lang="zh">Premier League: The Big Interview</title>
+    
+    
+    <desc>Everton's talismanic forward Iliman Ndiaye shares his fascinating journey from non-league football to making history with the Toffees in the Premier League.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919013000 +0000" stop="20250919014500 +0000">
+    
+    
+    <title lang="zh">Kenny Allstar's Number 1s</title>
+    
+    
+    <desc>Kenny Allstar is joined by Arsenal and France defender William Saliba to discuss his centre-back partnership with Gabriel, the best advice he's received, and his favourite food.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919014500 +0000" stop="20250919020000 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919020000 +0000" stop="20250919053000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Eddie Howe's Newcastle United host five-time UEFA Champions League winners Barcelona in what promises to be a red-hot atmosphere at St James' Park.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919053000 +0000" stop="20250919060000 +0000">
+    
+    
+    <title lang="zh">Match Officials Mic'd Up</title>
+    
+    
+    <desc>PGMOL chief Howard Webb reviews the decision-making process for five key incidents in the Premier League, including Josh King's controversial disallowed goal against Chelsea.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919060000 +0000" stop="20250919063000 +0000">
+    
+    
+    <title lang="zh">CPL T20</title>
+    
+    
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919063000 +0000" stop="20250919070000 +0000">
+    
+    
+    <title lang="zh">MLB: Off The Bat</title>
+    
+    
+    <desc>All the latest action from Major League Baseball wrapped up, featuring the league's top hitters and pitchers.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400477" start="20250919070000 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">Live: Major League Baseball</title>
+    
+    
+    <desc>Action from the MLB as New York Yankees face Baltimore Orioles.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917000000 +0000" stop="20250917010000 +0000">
+    
+    
+    <title lang="zh">UCI WorldTour Cycling</title>
+    
+    
+    <desc>Men's Cycling World Tour action from the 2025 Grand Prix Montreal. This 209km race takes the riders on 17 demanding laps around Mount Royal.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917010000 +0000" stop="20250917020000 +0000">
+    
+    
+    <title lang="zh">Premiership Speedway</title>
+    
+    
+    <desc>Highlights from leg one of the British Speedway ROWE Motor Oil Premiership play-off semi-final between Leicester Lions and Sheffield Tigers at Hydroscand Arena.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917020000 +0000" stop="20250917040000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Action from round three and match nine of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917040000 +0000" stop="20250917060000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round three and match ten of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917060000 +0000" stop="20250917070000 +0000">
+    
+    
+    <title lang="zh">SailGP</title>
+    
+    
+    <desc>Highlights from the Saint Tropez SailGP on the French Riviera. Quentin Delapierre's Les Bleus will be seeking glory in front of their home crowd.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917070000 +0000" stop="20250917073000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Mikel Arteta's Arsenal kick-off their UEFA Champions League campaign with a trip to face Ernesto Valverde's Athletic Bilbao at San Mames Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917073000 +0000" stop="20250917080000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Eredivisie winners PSV welcome Sebastien Pocognoli's Belgian champions Union Saint-Gilloise to Philips Stadion.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917080000 +0000" stop="20250917083000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Real Madrid begin their pursuit of a 16th Champions League trophy as they host Roberto De Zerbi's Marseille at Santiago Bernabeu Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917083000 +0000" stop="20250917090000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Two-time Champions League winners Juventus look to get their European campaign off to a strong start as they face Niko Kovac's Borussia Dortmund at Allianz Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917090000 +0000" stop="20250917093000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Bruno Lage's Benfica face-off against Azerbaijani champions Qarabag at Estadio da Luz.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917093000 +0000" stop="20250917113000 +0000">
+    
+    
+    <title lang="zh">English Open Snooker</title>
+    
+    
+    <desc>Highlights from the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917113000 +0000" stop="20250917123000 +0000">
+    
+    
+    <title lang="zh">Premier League Review</title>
+    
+    
+    <desc>A look back at the best of the action from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917123000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">Premier League: The Big Interview</title>
+    
+    
+    <desc>Claude Makelele looks back on a glittering 20-year career, during which he redefined the role of the defensive midfielder and gained legendary status at Stamford Bridge.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917130000 +0000" stop="20250917140000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as Gloucester Rugby face-off against Sale Sharks at Kingsholm Stadium. Can the Sharks record their fourth league win in a row?</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917140000 +0000" stop="20250917150000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as Leicester Tigers face Exeter Chiefs at Mattioli Woods Welford Road Stadium. Can the Chiefs build on their first league win of the season?</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917150000 +0000" stop="20250917160000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as Saracens clash with Bristol Bears at StoneX Stadium. Both sides will be looking to bounce back from big defeats at the end of 2024.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917160000 +0000" stop="20250917170000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as Northampton Saints face league leaders Bath Rugby at Franklin's Gardens. Bath racked up 108 points in their final two league games of 2024.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917170000 +0000" stop="20250917180000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Action from Gallagher Premiership Rugby as Harlequins face Northampton Saints at Twickenham Stoop. The Saints were 33-29 winners when these teams met in October.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917180000 +0000" stop="20250917190000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Action from Gallagher Premiership Rugby as Gloucester Rugby take on Leicester Tigers at Kingsholm Stadium. Gloucester sit just three points behind Tigers in the table.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917190000 +0000" stop="20250917200000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Action from Gallagher Premiership Rugby as Exeter Chiefs host old rivals Saracens at Sandy Park. The Chiefs are still searching for their second league win of the season.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917200000 +0000" stop="20250917210000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    
+    
+    <desc>A round-up of all the goals from Tuesday's UEFA Champions League fixtures, including Athletic v Arsenal, Spurs v Villareal, and Real Madrid v Marseille.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917210000 +0000" stop="20250917230000 +0000">
+    
+    
+    <title lang="zh">Live: UCI Continental Circuits</title>
+    
+    
+    <desc>Men's Cycling Pro Series action as the 2025 Tour of Slovakia gets underway with a 140km route around the town of Bardejov.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250917230000 +0000" stop="20250918003000 +0000">
+    
+    
+    <title lang="zh">Live: Tour de Luxembourg</title>
+    
+    
+    <desc>Men's Cycling Pro Series action as the 2025 Tour of Luxembourg begins with a 152km route around Luxembourg City, starting at Knuedler and ending at Feschmaart.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918003000 +0000" stop="20250918020000 +0000">
+    
+    
+    <title lang="zh">Ultimate Pool Pairs Cup</title>
+    
+    
+    <desc>Ultimate Pool action from Group 15 of the Pairs Cup.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918020000 +0000" stop="20250918040000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Action from round four and match four of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918040000 +0000" stop="20250918060000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round four and match five of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918060000 +0000" stop="20250918070000 +0000">
+    
+    
+    <title lang="zh">MotoGP Highlights</title>
+    
+    
+    <desc>Highlights from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918070000 +0000" stop="20250918073000 +0000">
+    
+    
+    <title lang="zh">MotoE</title>
+    
+    
+    <desc>All the best action from round 16 of the 2025 MotoE season and the Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918073000 +0000" stop="20250918080000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Cypriot champions Pafos make their UEFA Champions League debut as they travel to face Jose Luis Mendilibar's Olympiacos at Karaiskakis Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918080000 +0000" stop="20250918083000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Czech champions Slavia Prague welcome Kjetil Knutsen's Bodo/Glimt to Fortuna Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918083000 +0000" stop="20250918090000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Arne Slot's Liverpool start their hunt for a seventh UEFA Champions League crown as they host Diego Simeone's Atlético Madrid at Anfield.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918090000 +0000" stop="20250918093000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Bayern Munich take on Chelsea at Allianz Arena in a repeat of the 2012 UEFA Champions League final, which the Blues won in dramatic fashion.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918093000 +0000" stop="20250918100000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Paris Saint-Germain kick-off the defence of their UEFA Champions League crown as they host Ivan Juric's Atalanta at Parc des Princes.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918100000 +0000" stop="20250918103000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>John Heitinga's new-look Ajax side welcome last year's UEFA Champions League runners-up, Inter, to the Johan Cruyff Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918103000 +0000" stop="20250918123000 +0000">
+    
+    
+    <title lang="zh">English Open Snooker</title>
+    
+    
+    <desc>Highlights from the 2025 English Open.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918123000 +0000" stop="20250918130000 +0000">
+    
+    
+    <title lang="zh">Premier League Netbusters</title>
+    
+    
+    <desc>Relive all the best goals and action from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918130000 +0000" stop="20250918140000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as Sale Sharks face-off against league leaders Bath Rugby at Salford Community Stadium. Bath won 40-13 when these sides met in October.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918140000 +0000" stop="20250918150000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Action from Gallagher Premiership Rugby as title contenders Bristol Bears take on bottom side Newcastle Falcons at Ashton Gate Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918150000 +0000" stop="20250918160000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action from the East Midlands derby showdown between Northampton Saints and Leicester Tigers at cinch Stadium at Franklin's Gardens.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918160000 +0000" stop="20250918170000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as bottom side Newcastle Falcons take on Sale Sharks at Kingston Park. Sale won 43-10 in the last league encounter between these sides.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918170000 +0000" stop="20250918180000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as Saracens face-off against London rivals Harlequins at Tottenham Hotspur Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918180000 +0000" stop="20250918190000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Action from Gallagher Premiership Rugby clash between Bristol Bears and Exeter Chiefs at Ashton Gate. The Bears were 40-35 winners when these sides faced off in October.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918190000 +0000" stop="20250918200000 +0000">
+    
+    
+    <title lang="zh">PREM Rugby</title>
+    
+    
+    <desc>Gallagher Premiership Rugby action as table toppers Bath Rugby face Gloucester Rugby at the Recreation Ground. Bath recorded a 55-31 league win over Gloucester back in October.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918200000 +0000" stop="20250918210000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Highlights Show</title>
+    
+    
+    <desc>A round-up of all the goals from Wednesday's UEFA Champions League fixtures, including Bayern v Chelsea, Liverpool v Atletico and PSG v Atalanta.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918210000 +0000" stop="20250918213000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Cypriot champions Pafos make their UEFA Champions League debut as they travel to face Jose Luis Mendilibar's Olympiacos at Karaiskakis Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918213000 +0000" stop="20250918220000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Czech champions Slavia Prague welcome Kjetil Knutsen's Bodo/Glimt to Fortuna Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918220000 +0000" stop="20250918223000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Arne Slot's Liverpool start their hunt for a seventh UEFA Champions League crown as they host Diego Simeone's Atlético Madrid at Anfield.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918223000 +0000" stop="20250918230000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Bayern Munich take on Chelsea at Allianz Arena in a repeat of the 2012 UEFA Champions League final, which the Blues won in dramatic fashion.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918230000 +0000" stop="20250918233000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Paris Saint-Germain kick-off the defence of their UEFA Champions League crown as they host Ivan Juric's Atalanta at Parc des Princes.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250918233000 +0000" stop="20250919000000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>John Heitinga's new-look Ajax side welcome last year's UEFA Champions League runners-up, Inter, to the Johan Cruyff Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250919000000 +0000" stop="20250919010000 +0000">
+    
+    
+    <title lang="zh">Major League Baseball</title>
+    
+    
+    <desc>Highlights from Major League Baseball.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250919010000 +0000" stop="20250919020000 +0000">
+    
+    
+    <title lang="zh">Vuelta a España</title>
+    
+    
+    <desc>A review of the best action and stories from the 2025 La Vuelta, one of the leading cycling races in the international calendar.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250919020000 +0000" stop="20250919040000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round five and match three of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250919040000 +0000" stop="20250919060000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round five and match four of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250919060000 +0000" stop="20250919073000 +0000">
+    
+    
+    <title lang="zh">Ultimate Pool Pairs Cup</title>
+    
+    
+    <desc>Ultimate Pool action from Group 15 of the Pairs Cup.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400478" start="20250919073000 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">MotoGP Highlights</title>
+    
+    
+    <desc>Highlights from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917000000 +0000" stop="20250917004500 +0000">
+    
+    
+    <title lang="zh">Sign Up: Into Football</title>
+    
+    
+    <desc>Rolf and Damaris interview Chelsea striker Liam Delap and England hero Hannah Hampton. Enzo Maresca and Sonia Bompastor learn BSL, while Joe Cole reviews the season so far.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917004500 +0000" stop="20250917024500 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Eredivisie winners PSV welcome Sebastien Pocognoli's Belgian champions Union Saint-Gilloise to Philips Stadion.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917024500 +0000" stop="20250917050000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Two-time Champions League winners Juventus look to get their European campaign off to a strong start as they face Niko Kovac's Borussia Dortmund at Allianz Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917050000 +0000" stop="20250917051500 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917051500 +0000" stop="20250917060000 +0000">
+    
+    
+    <title lang="zh">Sign Up: Into Football</title>
+    
+    
+    <desc>Rolf and Damaris interview Chelsea striker Liam Delap and England hero Hannah Hampton. Enzo Maresca and Sonia Bompastor learn BSL, while Joe Cole reviews the season so far.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917060000 +0000" stop="20250917070000 +0000">
+    
+    
+    <title lang="zh">Premiership Speedway</title>
+    
+    
+    <desc>Highlights from leg one of the British Speedway ROWE Motor Oil Premiership play-off semi-final between Leicester Lions and Sheffield Tigers at Hydroscand Arena.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917070000 +0000" stop="20250917073000 +0000">
+    
+    
+    <title lang="zh">CPL T20</title>
+    
+    
+    <desc>Highlights from the Caribbean Premier League as Guyana Amazon Warriors met Barbados Royals.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917073000 +0000" stop="20250917114500 +0000">
+    
+    
+    <title lang="zh">Live: CPL T20</title>
+    
+    
+    <desc>Action from the Caribbean Premier League.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917114500 +0000" stop="20250917120000 +0000">
+    
+    
+    <title lang="zh">The Gruppetto</title>
+    
+    
+    <desc>Hosted by Rob Hatch, The Gruppetto brings you everything you need to stay up to speed with the world of cycling, from in-depth race reviews to the latest news from the peloton.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917120000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">IFSC Climbing World Cup</title>
+    
+    
+    <desc>Highlights from the IFSC Climbing World Cup in Guiyang, China.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917130000 +0000" stop="20250917140000 +0000">
+    
+    
+    <title lang="zh">Red Bull Cliff Diving World Series Highlights</title>
+    
+    
+    <desc>Action from the iconic Old Bridge in Mostar, Bosnia and Herzegovina, as divers rip into the Neretva River during the third stop of the Red Bull Cliff Diving World Series 2025.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917140000 +0000" stop="20250917150000 +0000">
+    
+    
+    <title lang="zh">UCI WorldTour Cycling</title>
+    
+    
+    <desc>Men's Cycling World Tour action from the 2025 Grand Prix Montreal. This 209km race takes the riders on 17 demanding laps around Mount Royal.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917150000 +0000" stop="20250917163000 +0000">
+    
+    
+    <title lang="zh">Australian Rules</title>
+    
+    
+    <desc>Action from the Australian Football League first semi-final between Adelaide Crows and Hawthorn at Adelaide Oval. The Crows beat the Hawks 101-87 earlier in the season.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917163000 +0000" stop="20250917180000 +0000">
+    
+    
+    <title lang="zh">Australian Rules</title>
+    
+    
+    <desc>Action from the Australian Football League second semi-final between Brisbane Lions and Gold Coast Suns at the Gabba. The Suns beat the Lions 130-64 back in July.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917180000 +0000" stop="20250917200000 +0000">
+    
+    
+    <title lang="zh">English Open Snooker</title>
+    
+    
+    <desc>Highlights from the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917200000 +0000" stop="20250917220000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round four and match two of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250917220000 +0000" stop="20250918000000 +0000">
+    
+    
+    <title lang="zh">Live: English Open Snooker</title>
+    
+    
+    <desc>Round four and match three of the 2025 English Open, part of the Snooker Home Nations Series.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918000000 +0000" stop="20250918010000 +0000">
+    
+    
+    <title lang="zh">FIM Speedway Grand Prix</title>
+    
+    
+    <desc>Highlights from the final round of the 2025 FIM Speedway Grand Prix season at Vojens Speedway Center in Denmark.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918010000 +0000" stop="20250918020000 +0000">
+    
+    
+    <title lang="zh">Major League Baseball</title>
+    
+    
+    <desc>Highlights from Major League Baseball.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918020000 +0000" stop="20250918051500 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Bayern Munich take on Chelsea at Allianz Arena in a repeat of the 2012 UEFA Champions League final, which the Blues won in dramatic fashion.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918051500 +0000" stop="20250918053000 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918053000 +0000" stop="20250918063000 +0000">
+    
+    
+    <title lang="zh">International T20 Cricket</title>
+    
+    
+    <desc>Action from the first T20 between Ireland and England at The Village in Dublin.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918063000 +0000" stop="20250918070000 +0000">
+    
+    
+    <title lang="zh">TNT Sports Reload</title>
+    
+    
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918070000 +0000" stop="20250918073000 +0000">
+    
+    
+    <title lang="zh">CPL T20</title>
+    
+    
+    <desc>Highlights of the T20 cricket action from the Caribbean Premier League.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918073000 +0000" stop="20250918114500 +0000">
+    
+    
+    <title lang="zh">Live: CPL T20</title>
+    
+    
+    <desc>Action from the Caribbean Premier League.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918114500 +0000" stop="20250918124500 +0000">
+    
+    
+    <title lang="zh">International T20 Cricket</title>
+    
+    
+    <desc>Action from the first T20 between Ireland and England at The Village in Dublin.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918124500 +0000" stop="20250918130000 +0000">
+    
+    
+    <title lang="zh">TNT Sports Cricket Reload</title>
+    
+    
+    <desc>A look back at the carnage on the final day of the third Test between West Indies and Australia at Sabina Park, as the hosts slumped to their worst-ever Test innings.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918130000 +0000" stop="20250918131500 +0000">
+    
+    
+    <title lang="zh">TNT Sports Reload</title>
+    
+    
+    <desc>The best bits from TNT Sports over the last week, including exclusive interviews, the best action and so much more.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918131500 +0000" stop="20250918133000 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918133000 +0000" stop="20250918143000 +0000">
+    
+    
+    <title lang="zh">FIM Speedway Grand Prix</title>
+    
+    
+    <desc>Highlights from the final round of the 2025 FIM Speedway Grand Prix season at Vojens Speedway Center in Denmark.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918143000 +0000" stop="20250918153000 +0000">
+    
+    
+    <title lang="zh">MotoGP Highlights</title>
+    
+    
+    <desc>Highlights from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918153000 +0000" stop="20250918160000 +0000">
+    
+    
+    <title lang="zh">MotoE</title>
+    
+    
+    <desc>All the best action from round 16 of the 2025 MotoE season and the Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918160000 +0000" stop="20250918170000 +0000">
+    
+    
+    <title lang="zh">Vuelta a España</title>
+    
+    
+    <desc>A review of the best action and stories from the 2025 La Vuelta, one of the leading cycling races in the international calendar.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918170000 +0000" stop="20250918180000 +0000">
+    
+    
+    <title lang="zh">Tour de Luxembourg</title>
+    
+    
+    <desc>Men's Cycling Pro Series action as the 2025 Tour of Luxembourg begins with a 152km route around Luxembourg City, starting at Knuedler and ending at Feschmaart.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918180000 +0000" stop="20250918190000 +0000">
+    
+    
+    <title lang="zh">UCI Continental Circuits</title>
+    
+    
+    <desc>Men's Cycling Pro Series action as the 2025 Tour of Slovakia gets underway with a 140km route around the town of Bardejov.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918190000 +0000" stop="20250918210000 +0000">
+    
+    
+    <title lang="zh">Live: UCI Continental Circuits</title>
+    
+    
+    <desc>Men's Cycling Pro Series action from stage two of the 2025 Tour of Slovakia. Who will impress on the 170km route from Svidnik to Kosice?</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918210000 +0000" stop="20250918233000 +0000">
+    
+    
+    <title lang="zh">Live: Tour de Luxembourg</title>
+    
+    
+    <desc>Men's Cycling Pro Series action from stage two of the 2025 Tour of Luxembourg, which takes the peloton on a 168km route from Remich to Mamer.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250918233000 +0000" stop="20250919000000 +0000">
+    
+    
+    <title lang="zh">Women's CPL T20</title>
+    
+    
+    <desc>Highlights from the Women's Caribbean Premier League.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919000000 +0000" stop="20250919010000 +0000">
+    
+    
+    <title lang="zh">Women's One-Day International Cricket</title>
+    
+    
+    <desc>Action from the second Women's ODI between India and Australia.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919010000 +0000" stop="20250919020000 +0000">
+    
+    
+    <title lang="zh">International T20 Cricket</title>
+    
+    
+    <desc>Action from the first T20 between Ireland and England at The Village in Dublin.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919020000 +0000" stop="20250919053000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Kevin De Bruyne is set for an emotional return to the Etihad Stadium as his Napoli side face Pep Guardiola's Manchester City.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919053000 +0000" stop="20250919061500 +0000">
+    
+    
+    <title lang="zh">Sign Up: Into Football</title>
+    
+    
+    <desc>Rolf and Damaris interview Chelsea striker Liam Delap and England hero Hannah Hampton. Enzo Maresca and Sonia Bompastor learn BSL, while Joe Cole reviews the season so far.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919061500 +0000" stop="20250919064500 +0000">
+    
+    
+    <title lang="zh">Serie A Full Impact</title>
+    
+    
+    <desc>All the best moments from matchday three in Serie A, featuring Juventus v Inter, Fiorentina v Napoli, Roma v Torino, and Milan v Bologna.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919064500 +0000" stop="20250919070000 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919070000 +0000" stop="20250919073000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Danish champions Copenhagen face-off against Bayer Leverkusen at Parken Stadium.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400480" start="20250919073000 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>After their demolition of Rangers in the play-offs, Club Brugge kick-off their league phase campaign by hosting Adi Hutter's Monaco at Jan Breydel Stadium.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917002500 +0000" stop="20250917005500 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    
+    
+    <desc>Action from the second round of fixtures.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917005500 +0000" stop="20250917030000 +0000">
+    
+    
+    <title lang="zh">Live Swedish Speedway</title>
+    
+    
+    <desc>Smederna v Vastervik (Start-time 6.00pm).</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917030000 +0000" stop="20250917033000 +0000">
+    
+    
+    <title lang="zh">MotorSport</title>
+    
+    
+    <desc>A look at the career of Valentino Rossi.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917033000 +0000" stop="20250917040000 +0000">
+    
+    
+    <title lang="zh">Coppa Italia Show</title>
+    
+    
+    <desc>Highlights from the first round of the Italian cup competition.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917040000 +0000" stop="20250917050000 +0000">
+    
+    
+    <title lang="zh">Scottish Football Social Club</title>
+    
+    
+    <desc>A round-up of the latest news and results.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917050000 +0000" stop="20250917060000 +0000">
+    
+    
+    <title lang="zh">Eredivisie Highlights</title>
+    
+    
+    <desc>Highlights from the Dutch football league.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917060000 +0000" stop="20250917061000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Real Sociedad v Real Madrid.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917061000 +0000" stop="20250917062000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Getafe v Oviedo.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917062000 +0000" stop="20250917063000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Levante v Real Betis.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917063000 +0000" stop="20250917064000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Athletic Bilbao v Alavés.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917064000 +0000" stop="20250917065000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Osasuna v Rayo Vallecano.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917065000 +0000" stop="20250917070000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Barcelona v Valencia.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917070000 +0000" stop="20250917080000 +0000">
+    
+    
+    <title lang="zh">FIM Sidecarcross</title>
+    
+    
+    <desc>Action from the latest round of the season in Vesoul.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917080000 +0000" stop="20250917083000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    
+    
+    <desc>Action from the second round of fixtures.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917083000 +0000" stop="20250917090000 +0000">
+    
+    
+    <title lang="zh">Sporting Greats</title>
+    
+    
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917090000 +0000" stop="20250917100000 +0000">
+    
+    
+    <title lang="zh">NASCAR Highlights</title>
+    
+    
+    <desc>Action from the 2025 Bass Pro Shops Night Race.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917100000 +0000" stop="20250917110000 +0000">
+    
+    
+    <title lang="zh">Scottish Football Social Club</title>
+    
+    
+    <desc>A round-up of the latest news and results.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917110000 +0000" stop="20250917120000 +0000">
+    
+    
+    <title lang="zh">Mass Participation World</title>
+    
+    
+    <desc>Action from the UK Challenge.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917120000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">FIM Sidecarcross</title>
+    
+    
+    <desc>Action from the latest round of the season in Vesoul.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917130000 +0000" stop="20250917140000 +0000">
+    
+    
+    <title lang="zh">Transworld Sport</title>
+    
+    
+    <desc>Informative stories from the world of sport.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917140000 +0000" stop="20250917150000 +0000">
+    
+    
+    <title lang="zh">FIM Sidecarcross</title>
+    
+    
+    <desc>Action from the latest round of the season in Vesoul.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917150000 +0000" stop="20250917160000 +0000">
+    
+    
+    <title lang="zh">LaLiga Specials</title>
+    
+    
+    <desc>Watch LaLiga Specials 2023/24 on Premier Sports.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917160000 +0000" stop="20250917170000 +0000">
+    
+    
+    <title lang="zh">Mass Participation World</title>
+    
+    
+    <desc>Action from the UK Challenge.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917170000 +0000" stop="20250917180000 +0000">
+    
+    
+    <title lang="zh">DTM Highlights</title>
+    
+    
+    <desc>Action from the latest round of the season at Red Bull Ring.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917180000 +0000" stop="20250917190000 +0000">
+    
+    
+    <title lang="zh">Scottish Football Social Club</title>
+    
+    
+    <desc>A round-up of the latest news and results.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917190000 +0000" stop="20250917200000 +0000">
+    
+    
+    <title lang="zh">Eredivisie Highlights</title>
+    
+    
+    <desc>Highlights from the Dutch football league.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917200000 +0000" stop="20250917201000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Barcelona v Valencia.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917201000 +0000" stop="20250917202000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Sevilla v Elche.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917202000 +0000" stop="20250917203000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Levante v Real Betis.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917203000 +0000" stop="20250917204000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Athletic Bilbao v Alavés.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917204000 +0000" stop="20250917205000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Espanyol v Mallorca.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917205000 +0000" stop="20250917210000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Real Sociedad v Real Madrid.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917210000 +0000" stop="20250917220000 +0000">
+    
+    
+    <title lang="zh">NASCAR Highlights</title>
+    
+    
+    <desc>Action from the 2025 Bass Pro Shops Night Race.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917220000 +0000" stop="20250917230000 +0000">
+    
+    
+    <title lang="zh">DTM Highlights</title>
+    
+    
+    <desc>Action from the latest round of the season at Red Bull Ring.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917230000 +0000" stop="20250917233000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    
+    
+    <desc>Action from the second round of fixtures.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250917233000 +0000" stop="20250918003000 +0000">
+    
+    
+    <title lang="zh">Transworld Sport</title>
+    
+    
+    <desc>Informative stories from the world of sport.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918003000 +0000" stop="20250918004500 +0000">
+    
+    
+    <title lang="zh">LaLiga Specials</title>
+    
+    
+    <desc>A look at the best goalkeepers from the 2024/25 season.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918004500 +0000" stop="20250918011500 +0000">
+    
+    
+    <title lang="zh">NHL: This is Hockey</title>
+    
+    
+    <desc>An exhilarating documentary series produced by the NHL that delves into the burgeoning world of hockey across Latin America and the Caribbean.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918011500 +0000" stop="20250918021500 +0000">
+    
+    
+    <title lang="zh">NHL Tonight</title>
+    
+    
+    <desc>Enjoy all the highlights from the previous evening's NHL action and stay informed with comprehensive post-game analysis, scores, interviews and breaking news.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918021500 +0000" stop="20250918051500 +0000">
+    
+    
+    <title lang="zh">Live Elite Ice Hockey League</title>
+    
+    
+    <desc>Glasgow Clan v Manchester Storm (Face-off 7.30pm). Coverage of the match from Braehead Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918051500 +0000" stop="20250918054500 +0000">
+    
+    
+    <title lang="zh">NHL: This is Hockey</title>
+    
+    
+    <desc>An exhilarating documentary series produced by the NHL that delves into the burgeoning world of hockey across Latin America and the Caribbean.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918054500 +0000" stop="20250918064500 +0000">
+    
+    
+    <title lang="zh">NHL Tonight</title>
+    
+    
+    <desc>Enjoy all the highlights from the previous evening's NHL action and stay informed with comprehensive post-game analysis, scores, interviews and breaking news.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918064500 +0000" stop="20250918070000 +0000">
+    
+    
+    <title lang="zh">LaLiga Specials</title>
+    
+    
+    <desc>A look at the best goalkeepers from the 2024/25 season.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918070000 +0000" stop="20250918080000 +0000">
+    
+    
+    <title lang="zh">DTM Highlights</title>
+    
+    
+    <desc>Action from the latest round of the season at Red Bull Ring.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918080000 +0000" stop="20250918090000 +0000">
+    
+    
+    <title lang="zh">Mass Participation World</title>
+    
+    
+    <desc>Action from the UK Challenge.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918090000 +0000" stop="20250918100000 +0000">
+    
+    
+    <title lang="zh">Scottish Football Social Club</title>
+    
+    
+    <desc>A round-up of the latest news and results.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918100000 +0000" stop="20250918110000 +0000">
+    
+    
+    <title lang="zh">LaLiga Specials</title>
+    
+    
+    <desc>Watch LaLiga Specials 2023/24 on Premier Sports.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918110000 +0000" stop="20250918120000 +0000">
+    
+    
+    <title lang="zh">Eredivisie Highlights</title>
+    
+    
+    <desc>Highlights from the Dutch football league.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918120000 +0000" stop="20250918130000 +0000">
+    
+    
+    <title lang="zh">NASCAR Highlights</title>
+    
+    
+    <desc>Action from the 2025 Bass Pro Shops Night Race.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918130000 +0000" stop="20250918140000 +0000">
+    
+    
+    <title lang="zh">DTM Highlights</title>
+    
+    
+    <desc>Action from the latest round of the season at Red Bull Ring.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918140000 +0000" stop="20250918150000 +0000">
+    
+    
+    <title lang="zh">LaLiga Specials</title>
+    
+    
+    <desc>Watch LaLiga Specials 2023/24 on Premier Sports.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918150000 +0000" stop="20250918160000 +0000">
+    
+    
+    <title lang="zh">Mass Participation World</title>
+    
+    
+    <desc>Action from the UK Challenge.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918160000 +0000" stop="20250918170000 +0000">
+    
+    
+    <title lang="zh">FIM Sidecarcross</title>
+    
+    
+    <desc>Action from the latest round of the season in Vesoul.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918170000 +0000" stop="20250918180000 +0000">
+    
+    
+    <title lang="zh">Scottish Football Social Club</title>
+    
+    
+    <desc>A round-up of the latest news and results.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918180000 +0000" stop="20250918190000 +0000">
+    
+    
+    <title lang="zh">Eredivisie Highlights</title>
+    
+    
+    <desc>Highlights from the Dutch football league.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918190000 +0000" stop="20250918191000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Barcelona v Valencia.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918191000 +0000" stop="20250918192000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Sevilla v Elche.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918192000 +0000" stop="20250918193000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Getafe v Oviedo.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918193000 +0000" stop="20250918194000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Levante v Real Betis.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918194000 +0000" stop="20250918195000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Athletic Bilbao v Alavés.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918195000 +0000" stop="20250918200000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Real Sociedad v Real Madrid.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918200000 +0000" stop="20250918210000 +0000">
+    
+    
+    <title lang="zh">NASCAR Highlights</title>
+    
+    
+    <desc>Action from the 2025 Bass Pro Shops Night Race.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918210000 +0000" stop="20250918220000 +0000">
+    
+    
+    <title lang="zh">DTM Highlights</title>
+    
+    
+    <desc>Action from the latest round of the season at Red Bull Ring.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918220000 +0000" stop="20250918223000 +0000">
+    
+    
+    <title lang="zh">Top 14 Rugby Union Highlights</title>
+    
+    
+    <desc>Action from the second round of fixtures.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918223000 +0000" stop="20250918233000 +0000">
+    
+    
+    <title lang="zh">NHL Tonight</title>
+    
+    
+    <desc>Enjoy all the highlights from the previous evening's NHL action and stay informed with comprehensive post-game analysis, scores, interviews and breaking news.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250918233000 +0000" stop="20250919000000 +0000">
+    
+    
+    <title lang="zh">Sporting Greats</title>
+    
+    
+    <desc>Legendary sporting figures discuss their careers.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919000000 +0000" stop="20250919010000 +0000">
+    
+    
+    <title lang="zh">NASCAR Highlights</title>
+    
+    
+    <desc>Action from the 2025 Bass Pro Shops Night Race.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919010000 +0000" stop="20250919020000 +0000">
+    
+    
+    <title lang="zh">Scottish Football Social Club</title>
+    
+    
+    <desc>A round-up of the latest news and results.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919020000 +0000" stop="20250919030000 +0000">
+    
+    
+    <title lang="zh">Eredivisie Highlights</title>
+    
+    
+    <desc>Highlights from the Dutch football league.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919030000 +0000" stop="20250919031000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Athletic Bilbao v Alavés.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919031000 +0000" stop="20250919032000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Real Sociedad v Real Madrid.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919032000 +0000" stop="20250919033000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Espanyol v Mallorca.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919033000 +0000" stop="20250919034000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Sevilla v Elche.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919034000 +0000" stop="20250919035000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Getafe v Oviedo.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919035000 +0000" stop="20250919040000 +0000">
+    
+    
+    <title lang="zh">LaLiga Match Highlights</title>
+    
+    
+    <desc>Barcelona v Valencia.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919040000 +0000" stop="20250919050000 +0000">
+    
+    
+    <title lang="zh">FIM Sidecarcross</title>
+    
+    
+    <desc>Action from the latest round of the season in Vesoul.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919050000 +0000" stop="20250919060000 +0000">
+    
+    
+    <title lang="zh">DTM Highlights</title>
+    
+    
+    <desc>Action from the latest round of the season at Red Bull Ring.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919060000 +0000" stop="20250919070000 +0000">
+    
+    
+    <title lang="zh">NASCAR Highlights</title>
+    
+    
+    <desc>Action from the 2025 Bass Pro Shops Night Race.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="219100" start="20250919070000 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">Mass Participation World</title>
+    
+    
+    <desc>Action from the UK Challenge.</desc>
     
     
     <date>20250919</date>
@@ -22759,6 +29314,1542 @@
     
     
     <desc/>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250917010000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">This Is TNT Sports Ultimate</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250917130000 +0000" stop="20250918020000 +0000">
+    
+    
+    <title lang="zh">This Is TNT Sports Ultimate</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250918020000 +0000" stop="20250918053000 +0000">
+    
+    
+    <title lang="zh">Live UEFA Champions League</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250918053000 +0000" stop="20250918054500 +0000">
+    
+    
+    <title lang="zh">TNT Sports Ultimate Reload</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250918054500 +0000" stop="20250918060000 +0000">
+    
+    
+    <title lang="zh">TNT Sports Ultimate Reload</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250918060000 +0000" stop="20250918130000 +0000">
+    
+    
+    <title lang="zh">This Is TNT Sports Ultimate</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250918130000 +0000" stop="20250919020000 +0000">
+    
+    
+    <title lang="zh">This Is TNT Sports Ultimate</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250919020000 +0000" stop="20250919053000 +0000">
+    
+    
+    <title lang="zh">Live UEFA Champions League</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250919053000 +0000" stop="20250919054500 +0000">
+    
+    
+    <title lang="zh">TNT Sports Ultimate Reload</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400476" start="20250919054500 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">TNT Sports Ultimate Reload</title>
+    
+    
+    <desc/>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917021500 +0000" stop="20250917024500 +0000">
+    
+    
+    <title lang="zh">Onboard</title>
+    
+    
+    <desc>A special onboard look at the Ocean Race, a yacht race around the world.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917024500 +0000" stop="20250917030000 +0000">
+    
+    
+    <title lang="zh">MotoGP Rewind</title>
+    
+    
+    <desc>A look back at the best of the action from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917030000 +0000" stop="20250917050000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Bruno Lage's Benfica face-off against Azerbaijani champions Qarabag at Estadio da Luz.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917050000 +0000" stop="20250917060000 +0000">
+    
+    
+    <title lang="zh">WA World Athletics Championships</title>
+    
+    
+    <desc>Highlights from day four of the 2025 Athletics World Championship in Tokyo, featuring the finals of the Women's 1,500m, Men's Hammer Throw and Men's 110m Hurdles.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917060000 +0000" stop="20250917070000 +0000">
+    
+    
+    <title lang="zh">Red Bull Cliff Diving World Series Highlights</title>
+    
+    
+    <desc>Action from the iconic Old Bridge in Mostar, Bosnia and Herzegovina, as divers rip into the Neretva River during the third stop of the Red Bull Cliff Diving World Series 2025.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917070000 +0000" stop="20250917073000 +0000">
+    
+    
+    <title lang="zh">Crouchy and Cole</title>
+    
+    
+    <desc>Peter Crouch and Joe Cole have been going head-to-head this year, trying their hand at various sports. This is the best of.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917073000 +0000" stop="20250917083000 +0000">
+    
+    
+    <title lang="zh">WNBA Basketball</title>
+    
+    
+    <desc>Game one of the WNBA Playoffs between Atlanta Dream and Indiana Fever at the Gateway Center Arena.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917083000 +0000" stop="20250917093000 +0000">
+    
+    
+    <title lang="zh">WNBA Basketball</title>
+    
+    
+    <desc>Game one of the WNBA Playoffs between Phoenix Mercury and New York Liberty at PHX Arena.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917093000 +0000" stop="20250917113000 +0000">
+    
+    
+    <title lang="zh">Live: WNBA Basketball</title>
+    
+    
+    <desc>Action from the Women's National Basketball Association.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917113000 +0000" stop="20250917123000 +0000">
+    
+    
+    <title lang="zh">Premiership Speedway</title>
+    
+    
+    <desc>Highlights from leg one of the British Speedway ROWE Motor Oil Premiership play-off semi-final between Leicester Lions and Sheffield Tigers at Hydroscand Arena.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917123000 +0000" stop="20250917130000 +0000">
+    
+    
+    <title lang="zh">Onboard</title>
+    
+    
+    <desc>A special onboard look at the Ocean Race, a yacht race around the world.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917130000 +0000" stop="20250917131500 +0000">
+    
+    
+    <title lang="zh">MotoGP Rewind</title>
+    
+    
+    <desc>A look back at the best of the action from the 2025 MotoGP Grand Prix of San Marino at Misano World Circuit Marco Simoncelli.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917131500 +0000" stop="20250917133000 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917133000 +0000" stop="20250917140000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Mikel Arteta's Arsenal kick-off their UEFA Champions League campaign with a trip to face Ernesto Valverde's Athletic Bilbao at San Mames Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917140000 +0000" stop="20250917143000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Eredivisie winners PSV welcome Sebastien Pocognoli's Belgian champions Union Saint-Gilloise to Philips Stadion.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917143000 +0000" stop="20250917150000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Real Madrid begin their pursuit of a 16th Champions League trophy as they host Roberto De Zerbi's Marseille at Santiago Bernabeu Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917150000 +0000" stop="20250917153000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Two-time Champions League winners Juventus look to get their European campaign off to a strong start as they face Niko Kovac's Borussia Dortmund at Allianz Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917153000 +0000" stop="20250917160000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Bruno Lage's Benfica face-off against Azerbaijani champions Qarabag at Estadio da Luz.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917160000 +0000" stop="20250917170000 +0000">
+    
+    
+    <title lang="zh">Serie A Football</title>
+    
+    
+    <desc>Igor Tudor's Juventus aim to make it three wins from three as rivals Inter visit the Allianz Stadium desperate to recover from their setback against Udinese.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917170000 +0000" stop="20250917180000 +0000">
+    
+    
+    <title lang="zh">Serie A Football</title>
+    
+    
+    <desc>Massimiliano Allegri's AC Milan seek their first Serie A home win of the season as they welcome Vincenzo Italiano's Bologna to San Siro.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917180000 +0000" stop="20250917213000 +0000">
+    
+    
+    <title lang="zh">Live: WA World Athletics Championships</title>
+    
+    
+    <desc>Action from day five of the 2025 Athletics World Championship in Tokyo, featuring the finals of the Men's Long Jump, Men's 1,500m and Women's 3,000m Steeplechase.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917213000 +0000" stop="20250917220000 +0000">
+    
+    
+    <title lang="zh">Asia Cup</title>
+    
+    
+    <desc>Highlights from the 2025 Asia Cup as Afghanistan and Bangladesh meet at Zayed Cricket Stadium.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250917220000 +0000" stop="20250918000000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Youth League Football</title>
+    
+    
+    <desc>Action from the UEFA Youth League clash between Liverpool U19 and Atletico Madrid U19.</desc>
+    
+    
+    <date>20250917</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918000000 +0000" stop="20250918001500 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918001500 +0000" stop="20250918004500 +0000">
+    
+    
+    <title lang="zh">Serie A Full Impact</title>
+    
+    
+    <desc>All the best moments from matchday three in Serie A, featuring Juventus v Inter, Fiorentina v Napoli, Roma v Torino, and Milan v Bologna.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918004500 +0000" stop="20250918024500 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Cypriot champions Pafos make their UEFA Champions League debut as they travel to face Jose Luis Mendilibar's Olympiacos at Karaiskakis Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918024500 +0000" stop="20250918050000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>Paris Saint-Germain kick-off the defence of their UEFA Champions League crown as they host Ivan Juric's Atalanta at Parc des Princes.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918050000 +0000" stop="20250918060000 +0000">
+    
+    
+    <title lang="zh">WA World Athletics Championships</title>
+    
+    
+    <desc>Highlights from day five of the 2025 Athletics World Championship in Tokyo, featuring the finals of the Men's Long Jump, Men's 1,500m and Women's 3,000m Steeplechase.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918060000 +0000" stop="20250918070000 +0000">
+    
+    
+    <title lang="zh">UCI Continental Circuits</title>
+    
+    
+    <desc>Men's Cycling Pro Series action as the 2025 Tour of Slovakia gets underway with a 140km route around the town of Bardejov.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918070000 +0000" stop="20250918080000 +0000">
+    
+    
+    <title lang="zh">Tour de Luxembourg</title>
+    
+    
+    <desc>Men's Cycling Pro Series action as the 2025 Tour of Luxembourg begins with a 152km route around Luxembourg City, starting at Knuedler and ending at Feschmaart.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918080000 +0000" stop="20250918083000 +0000">
+    
+    
+    <title lang="zh">Premier League Netbusters</title>
+    
+    
+    <desc>Relive all the best goals and action from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918083000 +0000" stop="20250918090000 +0000">
+    
+    
+    <title lang="zh">Serie A Full Impact</title>
+    
+    
+    <desc>All the best moments from matchday three in Serie A, featuring Juventus v Inter, Fiorentina v Napoli, Roma v Torino, and Milan v Bologna.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918090000 +0000" stop="20250918100000 +0000">
+    
+    
+    <title lang="zh">WNBA Basketball</title>
+    
+    
+    <desc>Action from the Women's National Basketball Association.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918100000 +0000" stop="20250918123000 +0000">
+    
+    
+    <title lang="zh">Live: WNBA Basketball</title>
+    
+    
+    <desc>Action from the Women's National Basketball Association.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918123000 +0000" stop="20250918130000 +0000">
+    
+    
+    <title lang="zh">Onboard</title>
+    
+    
+    <desc>A special onboard look at the Ocean Race, a yacht race around the world.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918130000 +0000" stop="20250918140000 +0000">
+    
+    
+    <title lang="zh">SailGP</title>
+    
+    
+    <desc>Highlights from the Saint Tropez SailGP on the French Riviera. Quentin Delapierre's Les Bleus will be seeking glory in front of their home crowd.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918140000 +0000" stop="20250918143000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Cypriot champions Pafos make their UEFA Champions League debut as they travel to face Jose Luis Mendilibar's Olympiacos at Karaiskakis Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918143000 +0000" stop="20250918150000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Czech champions Slavia Prague welcome Kjetil Knutsen's Bodo/Glimt to Fortuna Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918150000 +0000" stop="20250918153000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Arne Slot's Liverpool start their hunt for a seventh UEFA Champions League crown as they host Diego Simeone's Atlético Madrid at Anfield.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918153000 +0000" stop="20250918160000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Bayern Munich take on Chelsea at Allianz Arena in a repeat of the 2012 UEFA Champions League final, which the Blues won in dramatic fashion.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918160000 +0000" stop="20250918163000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>Paris Saint-Germain kick-off the defence of their UEFA Champions League crown as they host Ivan Juric's Atalanta at Parc des Princes.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918163000 +0000" stop="20250918170000 +0000">
+    
+    
+    <title lang="zh">UEFA Champions League Football</title>
+    
+    
+    <desc>John Heitinga's new-look Ajax side welcome last year's UEFA Champions League runners-up, Inter, to the Johan Cruyff Arena.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918170000 +0000" stop="20250918173000 +0000">
+    
+    
+    <title lang="zh">Serie A Full Impact</title>
+    
+    
+    <desc>All the best moments from matchday three in Serie A, featuring Juventus v Inter, Fiorentina v Napoli, Roma v Torino, and Milan v Bologna.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918173000 +0000" stop="20250918180000 +0000">
+    
+    
+    <title lang="zh">Premier League Netbusters</title>
+    
+    
+    <desc>Relive all the best goals and action from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918180000 +0000" stop="20250918213000 +0000">
+    
+    
+    <title lang="zh">Live: WA World Athletics Championships</title>
+    
+    
+    <desc>Action from day six of the 2025 Athletics World Championship in Tokyo, featuring the Men's and Women's 400m finals and the Women's Triple Jump final.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918213000 +0000" stop="20250918220000 +0000">
+    
+    
+    <title lang="zh">Asia Cup</title>
+    
+    
+    <desc>Highlights from the 2025 Asia Cup group stage as United Arab Emirates went head-to-head with Pakistan at Dubai International Cricket Stadium.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250918220000 +0000" stop="20250919000000 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Youth League Football</title>
+    
+    
+    <desc>Action from the UEFA Youth Cup as Manchester City U19 and Napoli U19 go head-to-head.</desc>
+    
+    
+    <date>20250918</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919000000 +0000" stop="20250919001500 +0000">
+    
+    
+    <title lang="zh">Premier League Reload</title>
+    
+    
+    <desc>A whirlwind catch-up from matchday four of the Premier League, featuring Arsenal v Nottingham Forest, West Ham v Spurs and Man City v Man United.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919001500 +0000" stop="20250919004500 +0000">
+    
+    
+    <title lang="zh">Match Officials Mic'd Up</title>
+    
+    
+    <desc>PGMOL chief Howard Webb reviews the decision-making process for five key incidents in the Premier League, including Josh King's controversial disallowed goal against Chelsea.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919004500 +0000" stop="20250919024500 +0000">
+    
+    
+    <title lang="zh">Live: UEFA Champions League Football</title>
+    
+    
+    <desc>After their demolition of Rangers in the play-offs, Club Brugge kick-off their league phase campaign by hosting Adi Hutter's Monaco at Jan Breydel Stadium.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919024500 +0000" stop="20250919050000 +0000">
+    
+    
+    <title lang="zh">Live: Premiership Speedway</title>
+    
+    
+    <desc>Action from leg two of the British Speedway ROWE Motor Oil Premiership play-off semi-final between Sheffield Tigers and Leicester Lions at Owlerton Stadium.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919050000 +0000" stop="20250919060000 +0000">
+    
+    
+    <title lang="zh">WA World Athletics Championships</title>
+    
+    
+    <desc>Highlights from day six of the 2025 Athletics World Championship in Tokyo, featuring the Men's and Women's 400m finals and the Women's Triple Jump final.</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919060000 +0000" stop="20250919070000 +0000">
+    
+    
+    <title lang="zh">UCI Continental Circuits</title>
+    
+    
+    <desc>Men's Cycling Pro Series action from stage two of the 2025 Tour of Slovakia. Who will impress on the 170km route from Svidnik to Kosice?</desc>
+    
+    
+    <date>20250919</date>
+    
+    
+    <audio>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme channel="400479" start="20250919070000 +0000" stop="20250920000000 +0000">
+    
+    
+    <title lang="zh">Tour de Luxembourg</title>
+    
+    
+    <desc>Men's Cycling Pro Series action from stage two of the 2025 Tour of Luxembourg, which takes the peloton on a 168km route from Remich to Mamer.</desc>
     
     
     <date>20250919</date>
@@ -34800,4 +42891,1429 @@
   </programme>
   
   
+  <programme start="20250916124500 +0800" stop="20250916134000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">NCIS: HAWAI'I S1 Ep8</title>
+    
+  
+    <desc lang="en">When an anti-capitalist protestor is murdered, Jane and the team investigate and find themselves caught in a war between eco-activists and a tech billionaire fighting over a piece of land.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X578279_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916134000 +0800" stop="20250916143000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep5</title>
+    
+  
+    <desc lang="en">Simone and Carter get trapped in the tropics while hunting down a suspect on the run.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916143000 +0800" stop="20250916152500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep1</title>
+    
+  
+    <desc lang="en">This week, our Wipeout teams are THIRSTY. They include a team of PDA-loving first responders and another team begging Jackie Chan to adopt them.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916152500 +0800" stop="20250916162000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep16</title>
+    
+  
+    <desc lang="en">The team has mixed feelings when a familiar face returns hoping to prove himself. Meanwhile, an influencer gets his fans to come after Wesley, and Tim supports Lucy as she prepares for the sergeant's exam.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916162000 +0800" stop="20250916171500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">CORONER S1 Ep5</title>
+    
+  
+    <desc lang="en">Jenny (Serinda Swan) and Ross (Ehren Kassam) host Thanksgiving at home. But when an unidentified body turns up on Jenny's propery, her work life and personal life collide in the worst possible way.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X846841_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916171500 +0800" stop="20250916181000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep6</title>
+    
+  
+    <desc lang="en">When Simone and Carter go undercover to find an international assassin known as The Reaper, a prisoner seeking bail recognizes Carter and nearly blows his cover.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916181000 +0800" stop="20250916190500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI: MOST WANTED S6 Ep17</title>
+    
+  
+    <desc lang="en">A couple known for their home renovation TV show is thrown into the limelight after the wife is found dead and her husband goes on the run. Meanwhile, Barnes reevaluates her life in New York.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891841_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916190500 +0800" stop="20250916200000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep1</title>
+    
+  
+    <desc lang="en">In the aftermath of the night's traumatic events, Andy and Dov try to pull themselves together at an all-night diner, but are caught off-duty and off-guard in a volatile diner hold-up.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916200000 +0800" stop="20250916205500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep17</title>
+    
+  
+    <desc lang="en">The team helps Skip Tracer Randy when his new love interest is kidnapped. Meanwhile, Angela and Nyla enlist their moms to help catch a con artist, and Wesley is threatened to drop a case.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916205500 +0800" stop="20250916215000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep5</title>
+    
+  
+    <desc lang="en">Amy and Sonya endeavor to help a teen in need of a bone marrow transplant and his younger brother whose own health issues jeopardize disability to donate.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916215000 +0800" stop="20250916224500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI S7 Ep20</title>
+    
+  
+    <desc lang="en">When a CEO is killed by a targeted explosion inside his penthouse, the team must work to figure out how someone accessed the highly secure building.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891836_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916224500 +0800" stop="20250916234000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep10</title>
+    
+  
+    <desc lang="en">Hondo's (Shemar Moore) military service comes back to haunt him when a gang of former child soldiers looks to make a fugitive Somali warlord answer for his crimes.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250916234000 +0800" stop="20250917003500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI S7 Ep20</title>
+    
+  
+    <desc lang="en">When a CEO is killed by a targeted explosion inside his penthouse, the team must work to figure out how someone accessed the highly secure building.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891836_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917003500 +0800" stop="20250917013000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep5</title>
+    
+  
+    <desc lang="en">Amy and Sonya endeavor to help a teen in need of a bone marrow transplant and his younger brother whose own health issues jeopardize disability to donate.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917013000 +0800" stop="20250917022500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep6</title>
+    
+  
+    <desc lang="en">When Simone and Carter go undercover to find an international assassin known as The Reaper, a prisoner seeking bail recognizes Carter and nearly blows his cover.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917022500 +0800" stop="20250917032000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep1</title>
+    
+  
+    <desc lang="en">In the aftermath of the night's traumatic events, Andy and Dov try to pull themselves together at an all-night diner, but are caught off-duty and off-guard in a volatile diner hold-up.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917032000 +0800" stop="20250917041500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep1</title>
+    
+  
+    <desc lang="en">This week, our Wipeout teams are THIRSTY. They include a team of PDA-loving first responders and another team begging Jackie Chan to adopt them.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917041500 +0800" stop="20250917051000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep10</title>
+    
+  
+    <desc lang="en">Hondo's (Shemar Moore) military service comes back to haunt him when a gang of former child soldiers looks to make a fugitive Somali warlord answer for his crimes.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917051000 +0800" stop="20250917060500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep17</title>
+    
+  
+    <desc lang="en">The team helps Skip Tracer Randy when his new love interest is kidnapped. Meanwhile, Angela and Nyla enlist their moms to help catch a con artist, and Wesley is threatened to drop a case.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917060500 +0800" stop="20250917065000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep1</title>
+    
+  
+    <desc lang="en">In the aftermath of the night's traumatic events, Andy and Dov try to pull themselves together at an all-night diner, but are caught off-duty and off-guard in a volatile diner hold-up.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917065000 +0800" stop="20250917073500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep10</title>
+    
+  
+    <desc lang="en">Hondo's (Shemar Moore) military service comes back to haunt him when a gang of former child soldiers looks to make a fugitive Somali warlord answer for his crimes.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917073500 +0800" stop="20250917082500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep5</title>
+    
+  
+    <desc lang="en">Amy and Sonya endeavor to help a teen in need of a bone marrow transplant and his younger brother whose own health issues jeopardize disability to donate.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917082500 +0800" stop="20250917092000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep2</title>
+    
+  
+    <desc lang="en">Wiener catchers, washed-up jocks and a pair of very familiar Italian plumbers take on the Wipeout course in hopes of winning $25,000.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917092000 +0800" stop="20250917101000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep6</title>
+    
+  
+    <desc lang="en">When Simone and Carter go undercover to find an international assassin known as The Reaper, a prisoner seeking bail recognizes Carter and nearly blows his cover.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917101000 +0800" stop="20250917110000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep10</title>
+    
+  
+    <desc lang="en">Hondo's (Shemar Moore) military service comes back to haunt him when a gang of former child soldiers looks to make a fugitive Somali warlord answer for his crimes.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917110000 +0800" stop="20250917115500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep17</title>
+    
+  
+    <desc lang="en">The team helps Skip Tracer Randy when his new love interest is kidnapped. Meanwhile, Angela and Nyla enlist their moms to help catch a con artist, and Wesley is threatened to drop a case.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917115500 +0800" stop="20250917125000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep5</title>
+    
+  
+    <desc lang="en">Amy and Sonya endeavor to help a teen in need of a bone marrow transplant and his younger brother whose own health issues jeopardize disability to donate.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917125000 +0800" stop="20250917134000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep6</title>
+    
+  
+    <desc lang="en">When Simone and Carter go undercover to find an international assassin known as The Reaper, a prisoner seeking bail recognizes Carter and nearly blows his cover.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917134000 +0800" stop="20250917143500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep2</title>
+    
+  
+    <desc lang="en">Wiener catchers, washed-up jocks and a pair of very familiar Italian plumbers take on the Wipeout course in hopes of winning $25,000.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917143500 +0800" stop="20250917153000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep17</title>
+    
+  
+    <desc lang="en">The team helps Skip Tracer Randy when his new love interest is kidnapped. Meanwhile, Angela and Nyla enlist their moms to help catch a con artist, and Wesley is threatened to drop a case.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917153000 +0800" stop="20250917162500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep5</title>
+    
+  
+    <desc lang="en">Amy and Sonya endeavor to help a teen in need of a bone marrow transplant and his younger brother whose own health issues jeopardize disability to donate.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917162500 +0800" stop="20250917171500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep10</title>
+    
+  
+    <desc lang="en">Hondo's (Shemar Moore) military service comes back to haunt him when a gang of former child soldiers looks to make a fugitive Somali warlord answer for his crimes.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917171500 +0800" stop="20250917181000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep7</title>
+    
+  
+    <desc lang="en">While searching for a missing scientist in the Angeles National Forest, Simone and Carter uncover an eco-terrorist's plans to detonate dirty bombs across the city.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917181000 +0800" stop="20250917190500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI S7 Ep20</title>
+    
+  
+    <desc lang="en">When a CEO is killed by a targeted explosion inside his penthouse, the team must work to figure out how someone accessed the highly secure building.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891836_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917190500 +0800" stop="20250917200000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep2</title>
+    
+  
+    <desc lang="en">It's a day of firsts as Oliver gets promoted to Acting Staff Sergeant and Andy is tasked with training 15 Division's newest rookie, Duncan Moore.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917200000 +0800" stop="20250917205500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep18</title>
+    
+  
+    <desc lang="en">John and Harper work together to catch Oscar; Angela investigates a bank robbery; Lucy and Tim learn to adapt to her new schedule, and Miles' first date takes an unexpected turn.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917205500 +0800" stop="20250917215000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep6</title>
+    
+  
+    <desc lang="en">It's a race against time as Amy and Jake try to uncover the cause of a unique patient's worsening condition. Gina treats a quirky hypochondriac, and Amy makes a shocking discovery about her love life.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917215000 +0800" stop="20250917224500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI: INTERNATIONAL S4 Ep18</title>
+    
+  
+    <desc lang="en">The Fly Team heads to the country of Georgia to determine the motive behind an attack.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891838_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917224500 +0800" stop="20250917234000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep11</title>
+    
+  
+    <desc lang="en">As S.W.A.T. investigates a series of casino heists overseen by a mysterious kingpin, Street (Alex Russell) is blackmailed into helping his foster brother Nate (Cory Hardrict) get out of a jam.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250917234000 +0800" stop="20250918003500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI: INTERNATIONAL S4 Ep18</title>
+    
+  
+    <desc lang="en">The Fly Team heads to the country of Georgia to determine the motive behind an attack.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891838_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918003500 +0800" stop="20250918013000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep6</title>
+    
+  
+    <desc lang="en">It's a race against time as Amy and Jake try to uncover the cause of a unique patient's worsening condition. Gina treats a quirky hypochondriac, and Amy makes a shocking discovery about her love life.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918013000 +0800" stop="20250918022500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep7</title>
+    
+  
+    <desc lang="en">While searching for a missing scientist in the Angeles National Forest, Simone and Carter uncover an eco-terrorist's plans to detonate dirty bombs across the city.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918022500 +0800" stop="20250918032000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep2</title>
+    
+  
+    <desc lang="en">It's a day of firsts as Oliver gets promoted to Acting Staff Sergeant and Andy is tasked with training 15 Division's newest rookie, Duncan Moore.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918032000 +0800" stop="20250918041500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep2</title>
+    
+  
+    <desc lang="en">Wiener catchers, washed-up jocks and a pair of very familiar Italian plumbers take on the Wipeout course in hopes of winning $25,000.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918041500 +0800" stop="20250918051000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep11</title>
+    
+  
+    <desc lang="en">As S.W.A.T. investigates a series of casino heists overseen by a mysterious kingpin, Street (Alex Russell) is blackmailed into helping his foster brother Nate (Cory Hardrict) get out of a jam.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918051000 +0800" stop="20250918060500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep18</title>
+    
+  
+    <desc lang="en">John and Harper work together to catch Oscar; Angela investigates a bank robbery; Lucy and Tim learn to adapt to her new schedule, and Miles' first date takes an unexpected turn.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918060500 +0800" stop="20250918065500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep2</title>
+    
+  
+    <desc lang="en">It's a day of firsts as Oliver gets promoted to Acting Staff Sergeant and Andy is tasked with training 15 Division's newest rookie, Duncan Moore.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918065500 +0800" stop="20250918074000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep11</title>
+    
+  
+    <desc lang="en">As S.W.A.T. investigates a series of casino heists overseen by a mysterious kingpin, Street (Alex Russell) is blackmailed into helping his foster brother Nate (Cory Hardrict) get out of a jam.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918074000 +0800" stop="20250918082500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep6</title>
+    
+  
+    <desc lang="en">It's a race against time as Amy and Jake try to uncover the cause of a unique patient's worsening condition. Gina treats a quirky hypochondriac, and Amy makes a shocking discovery about her love life.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918082500 +0800" stop="20250918092000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep3</title>
+    
+  
+    <desc lang="en">Cheesy wrestlers, salsa dancers and a pair of 'Fast' brothers take on the legendary Wipeout course, looking to score that $25,000 check.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918092000 +0800" stop="20250918101500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep7</title>
+    
+  
+    <desc lang="en">While searching for a missing scientist in the Angeles National Forest, Simone and Carter uncover an eco-terrorist's plans to detonate dirty bombs across the city.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918101500 +0800" stop="20250918110500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep11</title>
+    
+  
+    <desc lang="en">As S.W.A.T. investigates a series of casino heists overseen by a mysterious kingpin, Street (Alex Russell) is blackmailed into helping his foster brother Nate (Cory Hardrict) get out of a jam.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918110500 +0800" stop="20250918120000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep18</title>
+    
+  
+    <desc lang="en">John and Harper work together to catch Oscar; Angela investigates a bank robbery; Lucy and Tim learn to adapt to her new schedule, and Miles' first date takes an unexpected turn.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918120000 +0800" stop="20250918125000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep6</title>
+    
+  
+    <desc lang="en">It's a race against time as Amy and Jake try to uncover the cause of a unique patient's worsening condition. Gina treats a quirky hypochondriac, and Amy makes a shocking discovery about her love life.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918125000 +0800" stop="20250918134500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep7</title>
+    
+  
+    <desc lang="en">While searching for a missing scientist in the Angeles National Forest, Simone and Carter uncover an eco-terrorist's plans to detonate dirty bombs across the city.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918134500 +0800" stop="20250918144000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep3</title>
+    
+  
+    <desc lang="en">Cheesy wrestlers, salsa dancers and a pair of 'Fast' brothers take on the legendary Wipeout course, looking to score that $25,000 check.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918144000 +0800" stop="20250918153500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE S7 Ep18</title>
+    
+  
+    <desc lang="en">John and Harper work together to catch Oscar; Angela investigates a bank robbery; Lucy and Tim learn to adapt to her new schedule, and Miles' first date takes an unexpected turn.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864238_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918153500 +0800" stop="20250918162500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep6</title>
+    
+  
+    <desc lang="en">It's a race against time as Amy and Jake try to uncover the cause of a unique patient's worsening condition. Gina treats a quirky hypochondriac, and Amy makes a shocking discovery about her love life.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918162500 +0800" stop="20250918171500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep11</title>
+    
+  
+    <desc lang="en">As S.W.A.T. investigates a series of casino heists overseen by a mysterious kingpin, Street (Alex Russell) is blackmailed into helping his foster brother Nate (Cory Hardrict) get out of a jam.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918171500 +0800" stop="20250918181000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep8</title>
+    
+  
+    <desc lang="en">After a father and daughter are kidnapped on Thanksgiving, the team discovers a hostage situation involving police deputies.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918181000 +0800" stop="20250918190500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI: INTERNATIONAL S4 Ep18</title>
+    
+  
+    <desc lang="en">The Fly Team heads to the country of Georgia to determine the motive behind an attack.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891838_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918190500 +0800" stop="20250918200000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep3</title>
+    
+  
+    <desc lang="en">With Fite Nite looming, Inspector Jarvis sends the officers of 15 Division to seize all 'proceeds of crime' -anything purchased with money earned illegally.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918200000 +0800" stop="20250918205500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">AMERICAN NINJA WARRIOR S15 Ep1</title>
+    
+  
+    <desc lang="en">The qualifying rounds begin in L.A., with ninjas from across the country taking on the world's most challenging obstacle course.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914779_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918205500 +0800" stop="20250918215000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep7</title>
+    
+  
+    <desc lang="en">Sonya wrestles with treating a guy from her past and must rely on Amy to help her. Richard (Scott Wolf) deals with a family situation. Jake and TJ debate the moral implications of a diagnosis.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918215000 +0800" stop="20250918222000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">TWISTED METAL S2 Ep5</title>
+    
+  
+    <desc lang="en">The tournament begins. John and Quiet fight to survive in a dangerous qualifier round.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914793_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918222000 +0800" stop="20250918225500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">TWISTED METAL S2 Ep6</title>
+    
+  
+    <desc lang="en">John and Quiet, facing increasingly dire circumstances, form unexpected alliances with some and fuel rivalries with others, navigating a world where trust is as fleeting as danger.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914793_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918225500 +0800" stop="20250918234500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep12</title>
+    
+  
+    <desc lang="en">Now undercover inside Nolan's (Todd Stashwick) operation, Street (Alex Russell) teams up with S.W.A.T. to identify the supplier at the very top.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250918234500 +0800" stop="20250919001500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">TWISTED METAL S2 Ep5</title>
+    
+  
+    <desc lang="en">The tournament begins. John and Quiet fight to survive in a dangerous qualifier round.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914793_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919001500 +0800" stop="20250919005000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">TWISTED METAL S2 Ep6</title>
+    
+  
+    <desc lang="en">John and Quiet, facing increasingly dire circumstances, form unexpected alliances with some and fuel rivalries with others, navigating a world where trust is as fleeting as danger.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914793_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919005000 +0800" stop="20250919014500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep7</title>
+    
+  
+    <desc lang="en">Sonya wrestles with treating a guy from her past and must rely on Amy to help her. Richard (Scott Wolf) deals with a family situation. Jake and TJ debate the moral implications of a diagnosis.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919014500 +0800" stop="20250919023500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep8</title>
+    
+  
+    <desc lang="en">After a father and daughter are kidnapped on Thanksgiving, the team discovers a hostage situation involving police deputies.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919023500 +0800" stop="20250919032500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep3</title>
+    
+  
+    <desc lang="en">With Fite Nite looming, Inspector Jarvis sends the officers of 15 Division to seize all 'proceeds of crime' -anything purchased with money earned illegally.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919032500 +0800" stop="20250919042000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep3</title>
+    
+  
+    <desc lang="en">Cheesy wrestlers, salsa dancers and a pair of 'Fast' brothers take on the legendary Wipeout course, looking to score that $25,000 check.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919042000 +0800" stop="20250919051000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep12</title>
+    
+  
+    <desc lang="en">Now undercover inside Nolan's (Todd Stashwick) operation, Street (Alex Russell) teams up with S.W.A.T. to identify the supplier at the very top.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919051000 +0800" stop="20250919060500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">AMERICAN NINJA WARRIOR S15 Ep1</title>
+    
+  
+    <desc lang="en">The qualifying rounds begin in L.A., with ninjas from across the country taking on the world's most challenging obstacle course.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914779_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919060500 +0800" stop="20250919065000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep3</title>
+    
+  
+    <desc lang="en">With Fite Nite looming, Inspector Jarvis sends the officers of 15 Division to seize all 'proceeds of crime' -anything purchased with money earned illegally.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919065000 +0800" stop="20250919073500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep12</title>
+    
+  
+    <desc lang="en">Now undercover inside Nolan's (Todd Stashwick) operation, Street (Alex Russell) teams up with S.W.A.T. to identify the supplier at the very top.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919073500 +0800" stop="20250919083000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep7</title>
+    
+  
+    <desc lang="en">Sonya wrestles with treating a guy from her past and must rely on Amy to help her. Richard (Scott Wolf) deals with a family situation. Jake and TJ debate the moral implications of a diagnosis.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919083000 +0800" stop="20250919092500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep4</title>
+    
+  
+    <desc lang="en">Each week on Wipeout, teams take on the Qualifier with the goal of completing the course in the fastest time.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919092500 +0800" stop="20250919101500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep8</title>
+    
+  
+    <desc lang="en">After a father and daughter are kidnapped on Thanksgiving, the team discovers a hostage situation involving police deputies.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919101500 +0800" stop="20250919110500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep12</title>
+    
+  
+    <desc lang="en">Now undercover inside Nolan's (Todd Stashwick) operation, Street (Alex Russell) teams up with S.W.A.T. to identify the supplier at the very top.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919110500 +0800" stop="20250919115500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">AMERICAN NINJA WARRIOR S15 Ep1</title>
+    
+  
+    <desc lang="en">The qualifying rounds begin in L.A., with ninjas from across the country taking on the world's most challenging obstacle course.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914779_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919115500 +0800" stop="20250919125000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep7</title>
+    
+  
+    <desc lang="en">Sonya wrestles with treating a guy from her past and must rely on Amy to help her. Richard (Scott Wolf) deals with a family situation. Jake and TJ debate the moral implications of a diagnosis.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919125000 +0800" stop="20250919134000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep8</title>
+    
+  
+    <desc lang="en">After a father and daughter are kidnapped on Thanksgiving, the team discovers a hostage situation involving police deputies.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919134000 +0800" stop="20250919143500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">WIPEOUT S9 Ep4</title>
+    
+  
+    <desc lang="en">Each week on Wipeout, teams take on the Qualifier with the goal of completing the course in the fastest time.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X701202_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919143500 +0800" stop="20250919153000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">AMERICAN NINJA WARRIOR S15 Ep1</title>
+    
+  
+    <desc lang="en">The qualifying rounds begin in L.A., with ninjas from across the country taking on the world's most challenging obstacle course.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914779_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919153000 +0800" stop="20250919162500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep7</title>
+    
+  
+    <desc lang="en">Sonya wrestles with treating a guy from her past and must rely on Amy to help her. Richard (Scott Wolf) deals with a family situation. Jake and TJ debate the moral implications of a diagnosis.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919162500 +0800" stop="20250919171500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">S.W.A.T. S3 Ep12</title>
+    
+  
+    <desc lang="en">Now undercover inside Nolan's (Todd Stashwick) operation, Street (Alex Russell) teams up with S.W.A.T. to identify the supplier at the very top.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X395307_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919171500 +0800" stop="20250919181000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">THE ROOKIE: FEDS S1 Ep9</title>
+    
+  
+    <desc lang="en">When Garza's character comes into question, Simone and team develop their own covert operation to support their boss.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X758347_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919181000 +0800" stop="20250919190500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">FBI: MOST WANTED S6 Ep17</title>
+    
+  
+    <desc lang="en">A couple known for their home renovation TV show is thrown into the limelight after the wife is found dead and her husband goes on the run. Meanwhile, Barnes reevaluates her life in New York.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X891841_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919190500 +0800" stop="20250919200000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">ROOKIE BLUE S5 Ep4</title>
+    
+  
+    <desc lang="en">When a tenement-building shooting leads to the discovery of an executed gang leader, 15 Division must race to find the killer before a gang war breaks out.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X103502_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919200000 +0800" stop="20250919205500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">AMERICAN NINJA WARRIOR S15 Ep2</title>
+    
+  
+    <desc lang="en">The qualifying rounds begin in L.A., with ninjas from across the country taking on the world's most challenging obstacle course.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X914779_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919205500 +0800" stop="20250919215000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">DOC S1 Ep8</title>
+    
+  
+    <desc lang="en">Amy and Richard reconnect while treating a patient whose diagnosis is not at all what it seems. A real life romcom comes to Westside Hospital, bringing love to the forefront of everyone's mind.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X864221_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919215000 +0800" stop="20250919224500 +0800" channel="701.astro">
+    
+  
+    <title lang="en">CORONER S1 Ep6</title>
+    
+  
+    <desc lang="en">After opening several inquests, Jenny (Serinda Swan) is stumped by one particularly troubling case which she quickly realizes is very personal for Detective McAvoy (Roger Cross).</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X846841_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
+  <programme start="20250919224500 +0800" stop="20250920011000 +0800" channel="701.astro">
+    
+  
+    <title lang="en">SPIDER-MAN 2</title>
+    
+  
+    <desc lang="en">Peter Parker is confronted by multi-tentacled menace Dr. Otto Octavius and questions giving up his superhero life as Spider-Man to be with the woman he loves.</desc>
+    
+  
+    <icon src="http://linear-poster.astro.com.my/prod/poster/10000033X853716_IVP_LAND_917x516.jpg"/>
+    
+ 
+  </programme>
+  
+ 
 </tv>
