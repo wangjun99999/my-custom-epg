@@ -1,7 +1,8 @@
 自用EPG
-
 注意：请勿用于商业用途！
 
-英国UK，马来西亚Astro
+EPG Link：https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/custom_epg.xml
+频道列表说明：https://raw.githubusercontent.com/wangjun99999/my-custom-epg/refs/heads/main/channel_list.txt
 
-持续更新中...
+包含：
+英国UK，马来西亚Astro，持续更新中...
