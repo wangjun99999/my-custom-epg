@@ -1,0 +1,25 @@
+# 频道列表格式说明：
+# 1. 国家行：单独一行，格式为"国家名称+国家代码"（如"英国UK"、"中国CN"）
+# 2. 频道行：位于国家行下方，格式为"tvg-id,tvg-name,备注"
+# 3. #开头为注释，空行自动忽略
+# 提示：tvg-id和tvg-name需从原始EPG中复制准确值
+
+英国UK
+9526,SkySpMainEv,Sky Sports Main Event
+9506,SkySp PL,Sky Sports Premier League
+9321,SkySp Fball,Sky Sports Football
+9536,SkySp Action,Sky Sports Action
+9293,SkySp Cricket,Sky Sports Cricket
+9375,SkySp F1,Sky Sports F1
+9413,SkySp Golf,Sky Sports Golf
+9244,SkySp Mix HD,Sky Sports Mix
+9613,SkySp Racing HD,Sky Sports Racing
+222007,SkySp Tennis HD,Sky Sports Tennis
+9612,SkySp News HD,Sky Sports News
+381882,SkySp+,Sky Sports+
+12118,Racing TV,Racing TV
+
+
+马来西亚MY
+1205,AXN HD,AXN
+1298,Celestial Movies HD,天映频道 Celestial Movies
