@@ -39,6 +39,7 @@
 180,CHC动作电影,CHC 动作电影
 181,CHC家庭影院,CHC 家庭影院
 182,CHC影迷电影,CHC 影迷电影
+重温经典频道,重温经典频道,重温经典频道
 
 77,重庆卫视,重庆卫视
 78,四川卫视,四川卫视
@@ -104,6 +105,7 @@
 295,东方影视,东方影视
 170,五星体育,五星体育
 209,哈哈炫动,哈哈炫动
+劲爆体育,劲爆体育,劲爆体育
 
 572,北京IPTV4K超清,北京IPTV4K超清
 137,北京体育休闲,北京体育休闲
@@ -167,11 +169,86 @@
 448,RTHK35,RTHK35
 223,TVB PLus,TVB PLUS
 558,TVB星河,TVB星河
-224,美亚电影,美亞電影
+美亞電影台,美亞電影台,美亞電影台
 225,无线新闻,無綫新聞
-555,千禧经典台,千禧經典台
+千禧經典台,千禧經典台,千禧經典台
 565,黄金翡翠台,黄金翡翠台
-559,PopC,PopC
+PopC,PopC,PopC
+天映经典香港,天映经典香港,天映经典香港
+天映經典頻道,天映經典頻道,天映經典頻道
+翡翠台(超高清),翡翠台(超高清),翡翠台4K
+亞洲劇台,亞洲劇台,亞洲劇台
+Thrill,Thrill,Thrill
+亞洲新聞台,亞洲新聞台,亞洲新聞台
+半島電視台英語頻道,半島電視台英語頻道,半島電視台英語頻道
+viu6,viu6,viu6
+ViuTV,ViuTV,ViuTV
+爆谷台,爆谷台,爆谷台
+Now爆谷星影台,Now爆谷星影台,Now爆谷星影台
+now新聞,now新聞,now新聞
+TVB生活台,TVB生活台,TVB生活台
+TVB功夫台,TVB功夫台,TVB功夫台
+
+澳门MO
+澳視澳門,澳視澳門,澳視澳門
+澳門葡萄牙,澳門葡萄牙,澳門葡萄牙
+澳門資訊,澳門資訊,澳門資訊
+澳門體育,澳門體育,澳門體育
+澳門綜藝,澳門綜藝,澳門綜藝
+澳門衛星,澳門衛星,澳門衛星
+
+台湾TW
+ROCK Action HD,ROCK Action HD,ROCK Action
+ROCK Entertainment,ROCK Entertainment,ROCK Entertainment
+CinemaWorld,CinemaWorld,CinemaWorld
+HITS頻道,HITS頻道,HITS頻道
+TVBS綜藝台,TVBS綜藝台,TVBS綜藝台
+TVBS台劇台,TVBS台劇台,TVBS台劇台
+三立綜合台,三立綜合台,三立綜合台
+三立新聞iNEWS,三立新聞iNEWS,三立新聞iNEWS
+History 歷史頻道,History 歷史頻道,History 歷史頻道
+新唐人亞太台,新唐人亞太台,新唐人亞太台
+LiveABC互動英語頻道,LiveABC互動英語頻道,LiveABC互動英語頻道
+NickJr.,NickJr.,NickJr.兒童頻道
+Nickelodeon Asia尼克兒童頻道,Nickelodeon Asia尼克兒童頻道,Nickelodeon Asia尼克兒童頻道
+DreamWorks 夢工廠動畫,DreamWorks 夢工廠動畫,DreamWorks 夢工廠動畫
+momo親子台,momo親子台,momo親子台
+BloombergTV,BloombergTV,BloombergTV
+Lifetime 娛樂頻道,Lifetime 娛樂頻道,Lifetime 娛樂頻道
+電影原聲台CMusic,電影原聲台CMusic,電影原聲台CMusic
+MTV Live音樂頻道,MTV Live音樂頻道,MTV Live音樂頻道
+INULTRA,INULTRA,INULTRA
+車迷TV,車迷TV,車迷TV
+滾動力rollor,滾動力rollor,滾動力rollor
+GlobalTrekker,GlobalTrekker,GlobalTrekker
+fun探索娛樂台,fun探索娛樂台,fun探索娛樂台
+幸福空間居家台,幸福空間居家台,幸福空間居家台
+LOVENATURE,LOVENATURE,LOVENATURE
+愛爾達生活旅遊台,愛爾達生活旅遊台,愛爾達生活旅遊台
+LUXE TV,LUXE TV,LUXE TV
+TV5MONDE STYLE HD 生活時尚,TV5MONDE STYLE HD 生活時尚,TV5MONDE STYLE HD 生活時尚
+麥哲倫頻道,麥哲倫頻道,麥哲倫頻道
+霹靂布袋戲,霹靂布袋戲,霹靂布袋戲
+金光布袋戲,金光布袋戲,金光布袋戲
+CI 罪案偵查頻道,CI 罪案偵查頻道,CI 罪案偵查頻道
+人間衛視,人間衛視,人間衛視
+半島國際新聞台,半島國際新聞台,半島國際新聞台
+FRANCE24 英文台,FRANCE24 英文台,FRANCE24 英文台
+CNBC Asia 財經台,CNBC Asia 財經台,CNBC Asia 財經台
+SBN全球財經台,SBN全球財經台,SBN全球財經台
+DW德國之聲,DW德國之聲,DW德國之聲
+經典電影台,經典電影台,經典電影台
+經典卡通台,經典卡通台,經典卡通台
+精選動漫台,精選動漫台,精選動漫台
+戲劇免費看 1台,戲劇免費看 1台,戲劇免費看 1台
+龍華戲劇台,龍華戲劇台,龍華戲劇台
+龍華偶像台,龍華偶像台,龍華偶像台
+龍華日韩台,龍華日韩台,龍華日韩台
+龍華經典台,龍華經典台,龍華經典台
+龍華經典,龍華經典,龍華經典
+龍華洋片MOD,龍華洋片MOD,龍華洋片MOD
+龍華電影,龍華電影,龍華電影
+美亞電影台台灣,美亞電影台台灣,美亞電影台台灣
 
 
 英国UK
@@ -362,5 +439,5 @@ AIFM,AI FM,AI FM
 ASYIKFM,ASYIK FM,ASYIK FM
 ZAYAN,ZAYAN,ZAYAN
 GOXUAN,GO XUAN,GO XUAN
-
+天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
 
