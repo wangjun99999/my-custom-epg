@@ -295,6 +295,12 @@ Sky.Thriller.HD.uk,Sky Cinema Thriller UK,Sky Cinema Thriller
 Sky.Drama.HD.uk,Sky Cinema Drama UK,Sky Cinema Drama
 Sky.ScFi/HorHD.uk,Sky Cinema Sci-Fi Horror UK,Sky Cinema Sci-Fi Horror
 
+新加坡SG
+Channel 5,Channel 5,Channel 5
+Channel 8,Channel 8,Channel 8
+Channel U,Channel U,Channel U
+CNA,CNA,CNA
+
 马来西亚Astro
 KITA,KITA,KITA
 TV1,TV1,TV1
