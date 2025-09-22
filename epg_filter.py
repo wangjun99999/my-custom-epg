@@ -10,6 +10,7 @@ CHANNEL_TXT_FILE = "channel_list.txt"
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg.xml",
     "https://vip.erw.cc/e.xml",
+    "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml",
     "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 ]
