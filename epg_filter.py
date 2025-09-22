@@ -8,8 +8,8 @@ import os
 CHANNEL_TXT_FILE = "channel_list.txt"
 # 原始EPG链接
 RAW_EPG_URLS = [
-    "https://epg.pw/xmltv/epg_GB.xml",
-    "https://epg.v1.mk/fy.xml",
+    "https://epg.pw/xmltv/epg.xml",
+    "https://vip.erw.cc/e.xml",
     "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 ]
