@@ -265,6 +265,7 @@ DW德國之聲,DW德國之聲,DW德國之聲
 9244,SkySp Mix HD,Sky Sports Mix
 9613,SkySp Racing HD,Sky Sports Racing
 222007,SkySp Tennis HD,Sky Sports Tennis
+12358,SkySp ArenaHD,Sky Sports Arena
 9612,SkySp News HD,Sky Sports News
 381882,SkySp+,Sky Sports+
 12118,Racing TV,Racing TV
@@ -275,7 +276,9 @@ DW德國之聲,DW德國之聲,DW德國之聲
 400478,TNT Sports 4 HD,TNT Sports 4
 219100,Premier Sports 1 HD,Premier Sports 1
 219104,Premier Sports 2 HD,Premier Sports 2
-
+12160,Viaplay 1 HD,Viaplay Sports 1
+12557,Viaplay 2 HD,Viaplay Sports 2
+12394,Sky Crime,Sky Crime
 Viaplay1(src01).uk,Viaplay Sports 1 UK,Viaplay Sports 1
 Viaplay2(src01).uk,Viaplay Sports 2 UK,Viaplay Sports 2
 ViaplayXtra.uk,Viaplay Xtra UK,Viaplay Xtra
