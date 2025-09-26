@@ -1,0 +1,1 @@
+土耳其TR: https://raw.githubusercontent.com/ahmethascelik/epghost/main/xmltv.xml
