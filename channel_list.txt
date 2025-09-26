@@ -298,6 +298,28 @@ Sky.Comedy.Cinema.uk,Sky Cinema Comedy UK,Sky Cinema Comedy
 Sky.Thriller.HD.uk,Sky Cinema Thriller UK,Sky Cinema Thriller
 Sky.Drama.HD.uk,Sky Cinema Drama UK,Sky Cinema Drama
 Sky.ScFi/HorHD.uk,Sky Cinema Sci-Fi Horror UK,Sky Cinema Sci-Fi Horror
+Film4.HD.uk,Film4 UK,Film4
+Sky.Comedy.HD.uk,Sky Comedy UK,Sky Comedy
+Channel4.uk,Channel 4 UK,Channel 4
+Channel.5.uk,Channel 5 UK,Channel 5
+BBC.World.News.North.America.(BBCWN).us,BBC News Channel HD,BBC News Channel
+ITV1.HD.uk,ITV 1 UK,ITV 1
+ITV2.HD.uk,ITV 2 UK,ITV 2
+ITV3.HD.uk,ITV 3 UK,ITV 3
+ITV4.HD.uk,ITV 4 UK,ITV 4
+12185,Discovery,Discovery
+12354,ID,Investigation Discovery
+12180,Disc.History,Discovery History
+12272,Sky History,History
+12226,Sky History2,H2
+9498,Crime+Inv HD,Crime & Investigation
+12083,Nat Geo Wild,Nat Geo Wild
+12084,Nickelodeon,Nickelodeon
+9234,CBS Justice,CBS Justice
+12163,TLC,TLC
+12164,More4,More4
+12376,POP,POP
+12471,MTV HITS,MTV Hits
 
 新加坡SG
 Channel 5,Channel 5,Channel 5
