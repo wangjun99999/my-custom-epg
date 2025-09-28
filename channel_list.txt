@@ -252,7 +252,22 @@ DW德國之聲,DW德國之聲,DW德國之聲
 龍華洋片MOD,龍華洋片MOD,龍華洋片MOD
 龍華電影,龍華電影,龍華電影
 美亞電影台台灣,美亞電影台台灣,美亞電影台台灣
-
+東森電影台,東森電影台,東森電影台
+東森洋片台,東森洋片台,東森洋片台
+東森新聞台,東森新聞台,東森新聞台
+HBO,HBO,HBO
+AMC電影,AMC電影,AMC電影
+CINEMAX有線,CINEMAX有線,CINEMAX
+ANIMAX,ANIMAX,ANIMAX
+AXN,AXN,AXN
+Warner TV,Warner TV,Warner TV
+Thrill,Thrill,Thrill
+TVBS 新聞台,TVBS 新聞台,TVBS新聞台
+中天新聞台,中天新聞台,中天新聞台
+愛爾達體育1台,愛爾達體育1台,愛爾達體育1台
+愛爾達體育2台,愛爾達體育2台,愛爾達體育2台
+愛爾達體育3台,愛爾達體育3台,愛爾達體育3台
+愛爾達體育4台,愛爾達體育4台,愛爾達體育4台
 
 英国UK
 9526,SkySpMainEv,Sky Sports Main Event
