@@ -190,6 +190,28 @@ Now爆谷星影台,Now爆谷星影台,Now爆谷星影台
 now新聞,now新聞,now新聞
 TVB生活台,TVB生活台,TVB生活台
 TVB功夫台,TVB功夫台,TVB功夫台
+410384,Now Sports 4K 1,Now Sports 4K 1
+410385,Now Sports 4K 2,Now Sports 4K 2
+410386,Now Sports 4K 3,Now Sports 4K 3
+410396,Now Sports 1,Now Sports 1
+410397,Now Sports 2,Now Sports 2
+410398,Now Sports 3,Now Sports 3
+410399,Now Sports 4,Now Sports 4
+410400,Now Sports 5,Now Sports 5
+410401,Now Sports 6,Now Sports 6
+410402,Now Sports 7,Now Sports 7
+410388,Now Sports 英超1台,Now Sports 英超1台
+410389,Now Sports 英超2台,Now Sports 英超2台
+410390,Now Sports 英超3台,Now Sports 英超3台
+410391,Now Sports 英超4台,Now Sports 英超4台
+410392,Now Sports 英超5台,Now Sports 英超5台
+415544,Now Sports 英超6台,Now Sports 英超6台
+415545,Now Sports 英超7台,Now Sports 英超7台
+410406,Now Sports 641,Now Sports 641
+421332,Now Sports 647,Now Sports 647
+410412,Now Sports 651,Now Sports 651
+410413,Now Sports 652,Now Sports 652
+410395,Now Sports 精選,Now Sports 精選
 
 澳门MO
 澳視澳門,澳視澳門,澳視澳門
@@ -342,6 +364,13 @@ Channel 5,Channel 5,Channel 5
 Channel 8,Channel 8,Channel 8
 Channel U,Channel U,Channel U
 CNA,CNA,CNA
+369784,Hub Premier 1,Hub Premier 1
+369822,Hub Premier 2,Hub Premier 2
+369793,Hub Premier 3,Hub Premier 3
+369775,Hub Premier 4,Hub Premier 4
+452962,Hub Premier 5,Hub Premier 5
+455186,Hub Premier 6,Hub Premier 6
+450710,Hub Premier 8,Hub Premier 8
 
 马来西亚Astro
 KITA,KITA,KITA
