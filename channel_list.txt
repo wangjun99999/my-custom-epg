@@ -271,7 +271,7 @@ TVBS 新聞台,TVBS 新聞台,TVBS新聞台
 愛爾達體育4台,愛爾達體育4台,愛爾達體育4台
 
 英国UK
-9526,SkySpMainEv,Sky Sports Main Event
+SkySpMainEv.uk,SkySpMainEv,Sky Sports Main Event
 9506,SkySp PL,Sky Sports Premier League
 9321,SkySp Fball,Sky Sports Football
 9536,SkySp Action,Sky Sports Action
