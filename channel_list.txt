@@ -322,7 +322,7 @@ Viaplay2(src01).uk,Viaplay Sports 2 UK,Viaplay Sports 2
 ViaplayXtra.uk,Viaplay Xtra UK,Viaplay Xtra
 Racing.TV.uk,Racing Tv UK,Racing TV
 Eurosport.2.HD.uk,EuroSport 1 UK,EuroSport 1
-Eurosport.2.HD.uk,EuroSport 1 UK,EuroSport 2
+Eurosport.2.HD.uk,EuroSport 2 UK,EuroSport 2
 LFCTV.HD.uk,Liverpool TV (LFC TV),LFCTV
 MUTV.HD.uk,MUTV UK,MUTV
 Sky.Premiere.uk,Sky Cinema Premiere UK,Sky Cinema Premiere
