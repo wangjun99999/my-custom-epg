@@ -358,6 +358,38 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 12164,More4,More4
 12376,POP,POP
 12471,MTV HITS,MTV Hits
+9206,BBC NEWS HD,BBC NEWS
+9459,BBC Two HD,BBC Two
+9507,BBC Three HD,BBC Three
+9474,BBC Four HD,BBC Four
+
+美国US
+464754,beIN Sports USA HD,beIN Sports USA
+465236,Tennis Channel HD,Tennis Channel
+464783,Golf Channel HD,Golf Channel
+465239,MLB Network HD,MLB Network
+465311,NFL Network HD,NFL Network
+465401,NFL RedZone HD,NFL RedZone
+465344,WWE Network,WWE
+465010,Willow Cricket HD,Willow Cricket
+465198,ESPN HD,ESPN
+465373,ESPN2 HD,ESPN 2
+465410,ESPNEWS HD,ESP NEWS
+465108,ESPNU HD,ESPN U
+464949,ESPN Deportes HD,ESPN Deportes
+465154,Fight Network,Fight Network
+464937,CBS Sports Network HD,CBS Sports Network
+465291,FS1 Fox Sports 1 HD,FS1 Fox Sports 1
+465355,FS2 Fox Sports 2 HD,FS2 Fox Sports 2
+465214,Fox Soccer Plus HD,Fox Soccer Plus
+465156,Fox Deportes HD,Fox Deportes
+465348,NHL Network HD,NHL Network
+465358,World Fishing Network HD (US),World Fishing Network
+464879,ACC Network,ACC Network
+465364,Discovery Channel HD,Discovery Channel
+464838,Discovery Life Channel,Discovery Life
+465372,Fox News Channel HD,Fox News
+464791,CNBC HD,CNBC
 
 新加坡SG
 Channel 5,Channel 5,Channel 5
