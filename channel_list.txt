@@ -390,19 +390,41 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 465348,NHL Network HD,NHL Network
 465358,World Fishing Network HD (US),World Fishing Network
 464879,ACC Network,ACC Network
+465225,New England Sports Network HD,NESN
+464779,NBC Sports 4K,NBC Sports
+465058,CHSN Chicago Sports Network,Chicago Sports Network
+
 465364,Discovery Channel HD,Discovery Channel
 464838,Discovery Life Channel,Discovery Life
 465372,Fox News Channel HD,Fox News
 464791,CNBC HD,CNBC
 
+加拿大CA
+409255,Sportsnet 360 [CA],Sportsnet 360
+
 德国DE
 401577,Sky Sport 1,Sky Sport 1
 448621,Sky Sport 2,Sky Sport 2
+212821,Sky Sport Bundesliga,Sky Sport Bundesliga
+451928,DAZN 1,DAZN 1
 
 西班牙ES
 406588,DAZN LALIGA [ES],DAZN LALIGA
 406530,DAZN LALIGA 2 [ES],DAZN LALIGA 2
 406568,M+ Liga de Campeones [ES],Liga de Campeones
+
+法国FR
+459266,Canal+ Sport,Canal+ Sport
+
+波兰PL
+6338,Eleven Sports 1,Eleven Sports 1
+
+荷兰NL
+406806，Ziggo Sport 1 [NL]，Ziggo Sport 1
+
+挪威NOR
+407577,V Sport+ [NO],V Sport+
+407574,V Sport 1 [NO],V Sport 1
 
 新加坡SG
 Channel 5,Channel 5,Channel 5
