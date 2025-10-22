@@ -438,6 +438,17 @@ CNA,CNA,CNA
 452962,Hub Premier 5,Hub Premier 5
 455186,Hub Premier 6,Hub Premier 6
 450710,Hub Premier 8,Hub Premier 8
+412169,Hub Sports 1 HD,Hub Sports 1
+412154,Hub Sports 2 HD,Hub Sports 2
+412105,Hub Sports 3 HD,Hub Sports 3
+369790,Premier Sports,Premier Sports
+369750,beIN SPORTS (HD),beIN SPORTS
+412129,beIN Sports 2 HD,beIN Sports 2
+412175,beIN Sports 3,beIN Sports 3
+456377,beIN Sports 4,beIN Sports 4
+456376,beIN Sports 5,beIN Sports 5
+412181,SPOTV,SPOTV
+412187,SPOTV2,SPOTV2
 
 马来西亚Astro
 KITA,KITA,KITA
@@ -584,13 +595,22 @@ MINNALFM,MINNAL FM,MINNAL FM
 AIFM,AI FM,AI FM
 ASYIKFM,ASYIK FM,ASYIK FM
 ZAYAN,ZAYAN,ZAYAN
+GOXUAN,GO XUAN,GO XUAN
+天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
 
 拜恩体育beIN
 7370,BeIN Sports 4K,BeIN Sports 4K
 
-
-
-
-GOXUAN,GO XUAN,GO XUAN
-天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
+土耳其TR
+387731,A Spor HD,A Spor
+444115,TRT Spor Yıldız [TR],TRT Spor Yıldız
+444098,S Sport [TR],S Sport
+444123,S Sport 2 [TR],S Sport 2
+411887,Spor Smart TR,Spor Smart
+411899,Spor Smart 2 TR,Spor Smart 2
+409702,Tivibu Spor [TR],Tivibu Spor
+405488,Tivibu Spor 1,Tivibu Spor 1
+405609,Tivibu Spor 2,Tivibu Spor 2
+444097,Tivibu Spor 3 [TR],Tivibu Spor 3
+405679,Sports TV TR,Sports TV
 
