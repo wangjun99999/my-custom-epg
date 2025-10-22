@@ -293,7 +293,10 @@ TVBS 新聞台,TVBS 新聞台,TVBS新聞台
 愛爾達體育4台,愛爾達體育4台,愛爾達體育4台
 
 英国UK
+471315,Sky Sports Ultra HD 1,Sky Sports 1
+471314,Sky Sports Ultra HD 2,Sky Sports 2
 SkySpMainEv.uk,SkySpMainEv,Sky Sports Main Event
+7673,Sky Sports Main Event HD,Sky Sports Main Event
 9506,SkySp PL,Sky Sports Premier League
 9321,SkySp Fball,Sky Sports Football
 9536,SkySp Action,Sky Sports Action
@@ -316,7 +319,6 @@ SkySpMainEv.uk,SkySpMainEv,Sky Sports Main Event
 219104,Premier Sports 2 HD,Premier Sports 2
 12160,Viaplay 1 HD,Viaplay Sports 1
 12557,Viaplay 2 HD,Viaplay Sports 2
-12394,Sky Crime,Sky Crime
 Viaplay1(src01).uk,Viaplay Sports 1 UK,Viaplay Sports 1
 Viaplay2(src01).uk,Viaplay Sports 2 UK,Viaplay Sports 2
 ViaplayXtra.uk,Viaplay Xtra UK,Viaplay Xtra
@@ -325,6 +327,7 @@ Eurosport.2.HD.uk,EuroSport 1 UK,EuroSport 1
 Eurosport.2.HD.uk,EuroSport 2 UK,EuroSport 2
 LFCTV.HD.uk,Liverpool TV (LFC TV),LFCTV
 MUTV.HD.uk,MUTV UK,MUTV
+
 Sky.Premiere.uk,Sky Cinema Premiere UK,Sky Cinema Premiere
 Sky.Cinema.Select.uk,Sky Cinema Select UK,Sky Cinema Select
 Sky.Cinema.Hits.HD.uk,Sky Cinema Hits UK,Sky Cinema Hits
@@ -338,6 +341,7 @@ Sky.Drama.HD.uk,Sky Cinema Drama UK,Sky Cinema Drama
 Sky.ScFi/HorHD.uk,Sky Cinema Sci-Fi Horror UK,Sky Cinema Sci-Fi Horror
 Film4.HD.uk,Film4 UK,Film4
 Sky.Comedy.HD.uk,Sky Comedy UK,Sky Comedy
+12394,Sky Crime,Sky Crime
 Channel4.uk,Channel 4 UK,Channel 4
 Channel.5.uk,Channel 5 UK,Channel 5
 BBC.World.News.North.America.(BBCWN).us,BBC News Channel HD,BBC News Channel
@@ -390,6 +394,15 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 464838,Discovery Life Channel,Discovery Life
 465372,Fox News Channel HD,Fox News
 464791,CNBC HD,CNBC
+
+德国DE
+401577,Sky Sport 1,Sky Sport 1
+448621,Sky Sport 2,Sky Sport 2
+
+西班牙ES
+406588,DAZN LALIGA [ES],DAZN LALIGA
+406530,DAZN LALIGA 2 [ES],DAZN LALIGA 2
+406568,M+ Liga de Campeones [ES],Liga de Campeones
 
 新加坡SG
 Channel 5,Channel 5,Channel 5
@@ -549,6 +562,13 @@ MINNALFM,MINNAL FM,MINNAL FM
 AIFM,AI FM,AI FM
 ASYIKFM,ASYIK FM,ASYIK FM
 ZAYAN,ZAYAN,ZAYAN
+
+拜恩体育beIN
+7370,BeIN Sports 4K,BeIN Sports 4K
+
+
+
+
 GOXUAN,GO XUAN,GO XUAN
 天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
 
