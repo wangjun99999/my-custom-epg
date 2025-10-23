@@ -426,6 +426,9 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 407577,V Sport+ [NO],V Sport+
 407574,V Sport 1 [NO],V Sport 1
 
+瑞典SE
+68288,Viasat Sport HD SE,V Sport
+
 新加坡SG
 Channel 5,Channel 5,Channel 5
 Channel 8,Channel 8,Channel 8
