@@ -340,6 +340,8 @@ Sky.Thriller.HD.uk,Sky Cinema Thriller UK,Sky Cinema Thriller
 Sky.Drama.HD.uk,Sky Cinema Drama UK,Sky Cinema Drama
 Sky.ScFi/HorHD.uk,Sky Cinema Sci-Fi Horror UK,Sky Cinema Sci-Fi Horror
 Film4.HD.uk,Film4 UK,Film4
+9419,GREAT! movies,Great Movies
+9478,Cartoon Net HD,Cartoon Network
 Sky.Comedy.HD.uk,Sky Comedy UK,Sky Comedy
 12394,Sky Crime,Sky Crime
 Channel4.uk,Channel 4 UK,Channel 4
@@ -363,9 +365,11 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 12376,POP,POP
 12471,MTV HITS,MTV Hits
 9206,BBC NEWS HD,BBC NEWS
+76657,BBC One,BBC One
 9459,BBC Two HD,BBC Two
 9507,BBC Three HD,BBC Three
 9474,BBC Four HD,BBC Four
+9460,BBC RB 1 HD,BBC Red Button 1
 
 美国US
 464754,beIN Sports USA HD,beIN Sports USA
@@ -376,6 +380,7 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 465401,NFL RedZone HD,NFL RedZone
 465344,WWE Network,WWE
 465010,Willow Cricket HD,Willow Cricket
+465022,Willow Xtra,Willow Extra
 465198,ESPN HD,ESPN
 465373,ESPN2 HD,ESPN 2
 465410,ESPNEWS HD,ESP NEWS
@@ -394,10 +399,14 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 464779,NBC Sports 4K,NBC Sports
 465058,CHSN Chicago Sports Network,Chicago Sports Network
 
+465249,HBO (Pacific),HBO
+465146,HBO2 (Pacific),HBO2
+465388,Cinemax (Pacific),Cinemax West
 465364,Discovery Channel HD,Discovery Channel
 464838,Discovery Life Channel,Discovery Life
 465372,Fox News Channel HD,Fox News
 464791,CNBC HD,CNBC
+465329,UNIVERSO HD,NBC UNIVERSO
 
 加拿大CA
 409255,Sportsnet 360 [CA],Sportsnet 360
@@ -406,6 +415,7 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 401577,Sky Sport 1,Sky Sport 1
 448621,Sky Sport 2,Sky Sport 2
 212821,Sky Sport Bundesliga,Sky Sport Bundesliga
+76632,DAZN,DAZN
 451928,DAZN 1,DAZN 1
 
 西班牙ES
@@ -603,6 +613,9 @@ GOXUAN,GO XUAN,GO XUAN
 
 拜恩体育beIN
 7370,BeIN Sports 4K,BeIN Sports 4K
+94061,BeIN Sports 1 EN,Bein Sports English 1
+93994,BeIN Sports 2 EN,Bein Sports English 2
+
 
 土耳其TR
 387731,A Spor HD,A Spor
