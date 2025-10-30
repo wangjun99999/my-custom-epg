@@ -9,7 +9,7 @@ CHANNEL_TXT_FILE = "channel_list.txt"
 # 原始EPG链接
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg.xml",
-    "https://vip.erw.cc/e.xml",
+    "https://vip.erw.cc/all.xml",
     "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/4g.xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/hami.xml",
