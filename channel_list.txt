@@ -156,10 +156,10 @@
 
 香港HK
 460917,TVB 翡翠台,翡翠台
-明珠台 (免費),明珠台 (免費),明珠台
-鳳凰衛視中文台 (免費),鳳凰衛視中文台 (免費),鳳凰中文
-鳳凰衛視資訊台 (免費),鳳凰衛視資訊台 (免費),鳳凰資訊
-鳳凰衛視香港台 (免費),鳳凰衛視香港台 (免費),鳳凰香港
+460932,TVB Pearl,明珠台
+368338,鳳凰衛視中文台,鳳凰中文
+368343,鳳凰衛視資訊台,鳳凰資訊
+368372,鳳凰衛視香港台,鳳凰香港
 HOY國際財經,HOY國際財經,HOY76 國際財經
 HOY TV,HOY TV,HOY77
 HOY資訊,HOY資訊,HOY78 資訊
@@ -171,8 +171,8 @@ HOY資訊,HOY資訊,HOY78 資訊
 368361,TVB Plus,TVB PLUS
 TVB星河,TVB星河,TVB星河
 美亞電影台,美亞電影台,美亞電影台
-無綫新聞台 (免費),無綫新聞台 (免費),無綫新聞台
-娛樂新聞台 (免費),娛樂新聞台 (免費),娛樂新聞台
+368359,無綫新聞台,無綫新聞台
+368323,娛樂新聞台,娛樂新聞台
 千禧經典台,千禧經典台,千禧經典台
 黃金翡翠台 (免費),黃金翡翠台 (免費),黄金翡翠台
 PopC,PopC,PopC
@@ -187,7 +187,7 @@ viu6,viu6,viu6
 ViuTV,ViuTV,ViuTV
 爆谷台,爆谷台,爆谷台
 Now爆谷星影台,Now爆谷星影台,Now爆谷星影台
-now新聞,now新聞,now新聞
+410344,Now新聞台,now新聞
 TVB生活台,TVB生活台,TVB生活台
 TVB功夫台,TVB功夫台,TVB功夫台
 410384,Now Sports 4K 1,Now Sports 4K 1
@@ -547,6 +547,7 @@ KITA,KITA,KITA
 TV1,TV1,TV1
 TV2,TV2,TV2
 TV3,TV3,TV3
+370131,TV6,TV6
 AstroRia,Astro Ria,Astro Ria
 AstroPrima,Astro Prima,Astro Prima
 AstroOasis,Astro Oasis,Astro Oasis
@@ -688,6 +689,7 @@ AIFM,AI FM,AI FM
 ASYIKFM,ASYIK FM,ASYIK FM
 ZAYAN,ZAYAN,ZAYAN
 GOXUAN,GO XUAN,GO XUAN
+370133,Sukan RTM,Sukan RTM
 天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
 
 拜恩体育beIN
