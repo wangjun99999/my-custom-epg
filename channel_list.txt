@@ -711,3 +711,17 @@ GOXUAN,GO XUAN,GO XUAN
 444097,Tivibu Spor 3 [TR],Tivibu Spor 3
 405679,Sports TV TR,Sports TV
 
+以色列IS
+6578,Yes Sport 5,Yes Sport 5
+
+印度IN
+464175,ZEE CAFE,Zee Cafe
+463984,STAR MOVIES,Star Movies
+464114,STAR MOVIES SELECT,Star Movies Select
+463905,MOVIES NOW,Movies Now
+464026,and flix,And Flix
+463869,and PRIVE HD,And Prive
+464247,CARTOON NETWORK,Cartoon Network
+463932,SONY PIX HD,Sony Pix
+463835,NATIONAL GEOGRAPHIC,National Geographic
+
