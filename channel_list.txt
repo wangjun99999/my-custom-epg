@@ -292,6 +292,7 @@ ROCK Entertainment,ROCK Entertainment,ROCK Entertainment
 CinemaWorld,CinemaWorld,CinemaWorld
 CINEMAX有線,CINEMAX有線,CINEMAX
 HITS頻道,HITS頻道,HITS頻道
+CatchPlay電影台,CatchPlay電影台,CatchPlay電影台
 好萊塢電影台,好萊塢電影台,好萊塢電影台
 三立綜合台,三立綜合台,三立綜合台
 三立戲劇台,三立戲劇台,三立戲劇台
