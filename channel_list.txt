@@ -395,22 +395,21 @@ ELTV生活英語台,ELTV生活英語台,ELTV生活英語台
 豬哥亮歌廳秀,豬哥亮歌廳秀,豬哥亮歌廳秀
 
 英国UK
-471315,Sky Sports Ultra HD 1,Sky Sports 1
-471314,Sky Sports Ultra HD 2,Sky Sports 2
-SkySpMainEv.uk,SkySpMainEv,Sky Sports Main Event
+431628,Sky Sports 1 UHD [UK],Sky Sports 1
+431627,Sky Sports 2 UHD [UK],Sky Sports 2
 7673,Sky Sports Main Event HD,Sky Sports Main Event
-9506,SkySp PL,Sky Sports Premier League
-9321,SkySp Fball,Sky Sports Football
-9536,SkySp Action,Sky Sports Action
-9293,SkySp Cricket,Sky Sports Cricket
-9375,SkySp F1,Sky Sports F1
-9413,SkySp Golf,Sky Sports Golf
-9244,SkySp Mix HD,Sky Sports Mix
-9613,SkySp Racing HD,Sky Sports Racing
-222007,SkySp Tennis HD,Sky Sports Tennis
-12358,SkySp ArenaHD,Sky Sports Arena
-9612,SkySp News HD,Sky Sports News
-381882,SkySp+,Sky Sports+
+6958,Sky Sports Premier League HD,Sky Sports Premier League
+5791,Sky Sports Football HD,Sky Sports Football
+7214,Sky Sports Action,Sky Sports Action
+6254,Sky Sports Cricket,Sky Sports Cricket
+6317,Sky Sports F1 HD,Sky Sports F1
+6445,Sky Sports Golf,Sky Sports Golf
+6553,Sky Sports Mix HD,Sky Sports Mix
+6681,Sky Sports Racing HD,Sky Sports Racing
+405554,Sky Sports Tennis,Sky Sports Tennis
+454969,Sky Sports NFL,Sky Sports NFL
+6626,Sky Sports News HD,Sky Sports News
+412959,Sky Sports + [UK],Sky Sports+
 12118,Racing TV,Racing TV
 400476,TNT Sports Ultimate,TNT Sports Ultimate (UHD/4K)
 400477,TNT Sports 1 HD,TNT Sports 1
