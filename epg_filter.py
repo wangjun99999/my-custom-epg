@@ -9,12 +9,10 @@ CHANNEL_TXT_FILE = "channel_list.txt"
 # 原始EPG链接
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg.xml",
-    "https://vip.erw.cc/all.xml",
     "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/4g.xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/hami.xml",
     "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml",
-    "https://epg.seaovers.live/epg/856b503e276cc49197dd54aa8a0c740e/8/epg.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
 ]
 # 输出的自定义EPG文件名
