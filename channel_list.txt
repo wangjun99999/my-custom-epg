@@ -154,9 +154,16 @@
 368338,鳳凰衛視中文台,鳳凰中文
 368343,鳳凰衛視資訊台,鳳凰資訊
 368372,鳳凰衛視香港台,鳳凰香港
-HOY國際財經,HOY國際財經,HOY76 國際財經
+HOY 國際財經台,HOY 國際財經台,HOY76 國際財經台
 HOY TV,HOY TV,HOY77
-HOY資訊,HOY資訊,HOY78 資訊
+HOY 資訊台,HOY 資訊台,HOY78 資訊台
+HOY生活台,HOY生活台,HOY91 生活台
+HOY劇集台,HOY劇集台,HOY92 劇集台
+HOY怪談台,HOY怪談台,HOY93 怪谈台
+HOY體育台,HOY體育台,HOY94 體育台
+SportsPlus,SportsPlus,HOY96 SportsPlus
+Travel &amp; Food TV,Travel &amp; Food TV,HOY97 Travel & Food TV
+spot on news,spot on news,HOY98 Spot on news
 368550,港台电视31,RTHK31
 368551,港台电视32,RTHK32
 368552,港台电视33,RTHK33
@@ -184,6 +191,8 @@ Now爆谷星影台,Now爆谷星影台,Now爆谷星影台
 410344,Now新聞台,now新聞
 TVB生活台,TVB生活台,TVB生活台
 TVB功夫台,TVB功夫台,TVB功夫台
+TVB翡翠劇集臺(TVB Drama),TVB翡翠劇集臺(TVB Drama),TVB Drama 翡翠劇集臺
+翡翠一臺(TVB1),翡翠一臺(TVB1),TVB1 翡翠一臺
 410384,Now Sports 4K 1,Now Sports 4K 1
 410385,Now Sports 4K 2,Now Sports 4K 2
 410386,Now Sports 4K 3,Now Sports 4K 3
@@ -351,7 +360,7 @@ ARIRANG阿里郎頻道,ARIRANG阿里郎頻道,ARIRANG阿里郎頻道
 龍華經典台,龍華經典台,龍華經典台
 龍華卡通台,龍華卡通台,龍華卡通台
 龍華經典台,龍華經典台,龍華經典台
-龍華洋片MOD,龍華洋片MOD,龍華洋片MOD
+龍華洋片HD,龍華洋片HD,龍華洋片台
 龍華電影,龍華電影,龍華電影
 美亞電影台台灣,美亞電影台台灣,美亞電影台台灣
 采昌影劇台,采昌影劇台,采昌影劇台
