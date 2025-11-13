@@ -157,13 +157,13 @@
 HOY 國際財經台,HOY 國際財經台,HOY76 國際財經台
 HOY TV,HOY TV,HOY77
 HOY 資訊台,HOY 資訊台,HOY78 資訊台
-HOY生活台,HOY生活台,HOY91 生活台
-HOY劇集台,HOY劇集台,HOY92 劇集台
-HOY怪談台,HOY怪談台,HOY93 怪谈台
-HOY體育台,HOY體育台,HOY94 體育台
-SportsPlus,SportsPlus,HOY96 SportsPlus
-Travel &amp; Food TV,Travel &amp; Food TV,HOY97 Travel & Food TV
-spot on news,spot on news,HOY98 Spot on news
+HOY生活台,HOY生活台,HOY74 生活台
+HOY劇集台,HOY劇集台,HOY73 劇集台
+HOY怪談台,HOY怪談台,HOY72 怪谈台
+HOY體育台,HOY體育台,HOY75 體育台
+SportsPlus,SportsPlus,HOY711 SportsPlus
+Travel & Food TV,Travel & Food TV,HOY720 Travel & Food TV
+spot on news,spot on news,HOY740 Spot on news
 368550,港台电视31,RTHK31
 368551,港台电视32,RTHK32
 368552,港台电视33,RTHK33
