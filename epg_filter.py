@@ -4,7 +4,6 @@ from xml.dom import minidom
 import os
 from datetime import datetime, timedelta
 import re
-import random
 
 # -------------------------- 配置项 --------------------------
 CHANNEL_TXT_FILE = "channel_list.txt"  # 频道列表文件
@@ -18,7 +17,6 @@ RAW_EPG_URLS = [
 ]
 OUTPUT_FILE = "custom_epg.xml"
 # ------------------------------------------------------------
-
 
 def read_channel_list(txt_path):
     """读取频道列表"""
@@ -92,52 +90,12 @@ def filter_channels(epg_root, channel_dict):
     return filtered_channels, filtered_programmes
 
 
-# ---------------- 智能检测时区部分 ----------------
-def detect_epg_time_offset(programmes):
-    """
-    自动检测 EPG 源的时区偏移量
-    通过随机抽样节目时间判断是否为北京时间 (+8) 或 UTC (0)
-    """
-    offsets = []
-    sample = random.sample(programmes, min(len(programmes), 30)) if programmes else []
-    now_local = datetime.utcnow() + timedelta(hours=8)
-
-    for p in sample:
-        start = p.get("start", "")
-        match = re.match(r"(\d{14})\s*([+-]\d{4})?", start)
-        if not match:
-            continue
-        dt_part, tz_part = match.groups()
-        tz_part = tz_part or "+0000"
-        try:
-            dt = datetime.strptime(dt_part, "%Y%m%d%H%M%S")
-        except:
-            continue
-
-        # 判断时区差距
-        diff_hours = (dt - now_local).total_seconds() / 3600.0
-        if abs(diff_hours) < 2:  # 已是北京时间
-            offsets.append(8)
-        elif abs(diff_hours - 8) < 2 or abs(diff_hours + 8) < 2:  # UTC
-            offsets.append(0)
-
-    if not offsets:
-        print("⚠️ 未能确定 EPG 源时区，默认按 UTC 处理。")
-        return 0
-    avg_offset = round(sum(offsets) / len(offsets))
-    print(f"⚙️ 自动检测 EPG 源时区：UTC+{avg_offset}")
-    return avg_offset
-
-
+# ---------------- 强制中国时区 ----------------
 def adjust_programme_time_to_china(programmes):
     """
-    自动检测并转换节目时间为中国时区 (+0800)
+    强制转换节目时间为中国时区 (+0800)
     """
     if not programmes:
-        return
-    detected_offset = detect_epg_time_offset(programmes)
-    if detected_offset == 8:
-        print("✅ 检测到源 EPG 已是北京时间 (+0800)，无需调整。")
         return
 
     for p in programmes:
@@ -155,17 +113,12 @@ def adjust_programme_time_to_china(programmes):
             except ValueError:
                 continue
 
-            sign = 1 if tz_part.startswith("+") else -1
-            offset_hours = int(tz_part[1:3])
-            offset_minutes = int(tz_part[3:])
-            total_offset = sign * (offset_hours + offset_minutes / 60)
-
-            dt_utc = dt - timedelta(hours=total_offset)
-            dt_china = dt_utc + timedelta(hours=8)
+            # 将所有时间统一视为 UTC，再加 8 小时
+            dt_china = dt + timedelta(hours=8)
             new_time = dt_china.strftime("%Y%m%d%H%M%S") + " +0800"
             p.set(attr, new_time)
 
-    print("⏰ 所有节目时间已统一转换为北京时间 (+0800)")
+    print("⏰ 所有节目时间已强制转换为北京时间 (+0800)")
 # ------------------------------------------------------------
 
 
@@ -192,7 +145,7 @@ def generate_custom_epg(filtered_channels, filtered_programmes, epg_root):
 # ---------------- 主程序 ----------------
 if __name__ == "__main__":
     print("="*60)
-    print("开始执行自定义 EPG 生成脚本（含智能时区检测）")
+    print("开始执行自定义 EPG 生成脚本（强制中国时区）")
     print("="*60)
 
     channel_dict = read_channel_list(CHANNEL_TXT_FILE)
@@ -227,7 +180,7 @@ if __name__ == "__main__":
 
     print(f"\n去重后频道 {len(unique_channels)} 个，节目 {len(unique_programmes)} 条")
 
-    # 智能调整时区
+    # 强制调整时区为北京时间
     adjust_programme_time_to_china(unique_programmes)
 
     if first_epg_root:
