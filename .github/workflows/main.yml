@@ -1,61 +1,54 @@
-import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
-import requests
+name: 自定义EPG自动更新
 
-# 确保转换为中国时区（北京时间）
-def adjust_programme_time(root, target_offset=8):
-    """
-    强制将所有节目时间转换为北京时间 (+0800)
-    """
-    for p in root.findall("programme"):
-        for attr in ("start", "stop"):
-            t = p.get(attr)
-            if not t:
-                continue
+# 触发条件：1.每天中国时区6点；2.手动触发（可选）
+on:
+  schedule:
+    # 时区：UTC+8（中国时区），UTC时间22点 = 中国时间6点（因为22+8=30→30-24=6）
+    - cron: '0 22 * * *'   # 这是在每天 UTC 22:00 运行，相当于北京时间 6:00 运行
+  workflow_dispatch:  # 允许手动触发（在Actions页面点击"Run workflow"）
 
-            # 原始格式 20250102030000 或 20250102030000 +0000
-            base = t[:14]
-            dt = datetime.strptime(base, "%Y%m%d%H%M%S")
+# 关键：添加写入权限（允许Actions推送文件）
+permissions:
+  contents: write  # 允许修改仓库内容（包括推送文件）
+  
+# 执行步骤
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest  # 使用Ubuntu服务器运行
+    steps:
+      # 步骤1：拉取当前GitHub仓库代码到服务器
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
 
-            # 如果原来有时区，例如 +0200
-            tz = None
-            if len(t) > 14:
-                tz_str = t[15:].replace("+", "").replace("-", "")
-                tz = int(tz_str) / 100
+      # 步骤2：安装Python环境（确保Python版本与脚本一致）
+      - name: 配置Python环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'  # 使用稳定的Python版本，根据需求调整
 
-            # 全部转为 UTC
-            if tz is not None:
-                dt = dt - timedelta(hours=tz)
+      # 步骤3：安装依赖（requests库，用于请求原始EPG链接）
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-            # 最后统一转为中国时间
-            dt = dt + timedelta(hours=target_offset)
+      # 步骤4：运行筛选脚本，生成自定义EPG
+      - name: 运行EPG筛选脚本
+        run: |
+          python epg_filter.py  # 根据你的实际路径和文件名修改
 
-            p.set(attr, dt.strftime("%Y%m%d%H%M%S") + f" +{target_offset:04d}")
-
-def get_raw_epg_data(url):
-    """从 EPG 源获取数据"""
-    response = requests.get(url)
-    if response.status_code == 200:
-        return ET.fromstring(response.content)
-    else:
-        print("获取 EPG 数据失败")
-        return None
-
-def main():
-    # 获取原始 EPG 数据
-    raw_epg_url = "https://epg.pw/xmltv/epg.xml"  # 根据你的需求替换源链接
-    root = get_raw_epg_data(raw_epg_url)
-    if root is None:
-        print("无法获取 EPG 数据，脚本结束")
-        return
-
-    # 调整节目时间为中国时区
-    adjust_programme_time(root, target_offset=8)
-
-    # 保存生成的自定义 EPG 文件
-    with open("custom_epg.xml", "wb") as f:
-        ET.ElementTree(root).write(f)
-    print("已生成自定义 EPG 文件：custom_epg.xml")
-
-if __name__ == "__main__":
-    main()
+      # 步骤5：将新生成的custom_epg.xml提交到GitHub仓库
+      - name: 提交更新到仓库
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          # 跟踪自定义EPG文件（确保新文件被识别）
+          git add custom_epg.xml
+          # 检查文件是否有修改（modified）或为新文件（new file）
+          if git status | grep -q -E "modified:   custom_epg.xml|new file:   custom_epg.xml"; then
+            git commit -m "Auto update EPG: $(date +'%Y-%m-%d %H:%M:%S %Z')"
+            git push || (echo "首次推送可能需要重试，正在重试..." && git push)
+            echo "✅ EPG文件已提交到仓库（新文件/修改文件）"
+          else
+            echo "ℹ️ EPG文件无新修改，无需提交"
+          fi
