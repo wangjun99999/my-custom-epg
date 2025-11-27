@@ -9,7 +9,7 @@ import re
 CHANNEL_TXT_FILE = "channel_list.txt"  # 频道列表文件
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg.xml",
-    "https://raw.githubusercontent.com/zzq12345/tvepg/refs/heads/main/epgziyong.xml",
+    "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgnew.xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/4g.xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/hami.xml",
     "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml",
