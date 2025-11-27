@@ -188,7 +188,7 @@ viu6,viu6,viu6
 ViuTV,ViuTV,ViuTV
 爆谷台,爆谷台,爆谷台
 Now爆谷星影台,Now爆谷星影台,Now爆谷星影台
-410344,Now新聞台,now新聞
+now新聞,now新聞,now新聞
 TVB生活台,TVB生活台,TVB生活台
 TVB功夫台,TVB功夫台,TVB功夫台
 TVB翡翠劇集臺(TVB Drama),TVB翡翠劇集臺(TVB Drama),TVB Drama 翡翠劇集臺
@@ -401,16 +401,16 @@ ELTV生活英語台,ELTV生活英語台,ELTV生活英語台
 英国UK
 431628,Sky Sports 1 UHD [UK],Sky Sports 1
 431627,Sky Sports 2 UHD [UK],Sky Sports 2
-7673,Sky Sports Main Event HD,Sky Sports Main Event
-6958,Sky Sports Premier League HD,Sky Sports Premier League
-5791,Sky Sports Football HD,Sky Sports Football
-7214,Sky Sports Action,Sky Sports Action
-6254,Sky Sports Cricket,Sky Sports Cricket
-6317,Sky Sports F1 HD,Sky Sports F1
-6445,Sky Sports Golf,Sky Sports Golf
-6553,Sky Sports Mix HD,Sky Sports Mix
-6681,Sky Sports Racing HD,Sky Sports Racing
-405554,Sky Sports Tennis,Sky Sports Tennis
+9415,SkySpMainEvHD,Sky Sports Main Event
+12453,SkySp PL HD,Sky Sports Premier League
+12191,SkySp F'ball HD,Sky Sports Football
+12024,SkySp ActionHD,Sky Sports Action
+12434,SkySpCricket HD,Sky Sports Cricket
+12190,SkySp F1 HD,Sky Sports F1
+12022,SkySp Golf HD,Sky Sports Golf
+12562,SkySp Mix,Sky Sports Mix
+12200,SkySp Racing HD,Sky Sports Racing
+212145,SkySp Tennis HD,Sky Sports Tennis
 454969,Sky Sports NFL,Sky Sports NFL
 6626,Sky Sports News HD,Sky Sports News
 412959,Sky Sports + [UK],Sky Sports+
