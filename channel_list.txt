@@ -37,7 +37,7 @@
 378857,重庆卫视,重庆卫视
 464631,四川卫视,四川卫视
 378861,贵州卫视,贵州卫视
-464610,东方卫视,东方卫视
+东方卫视,东方卫视,东方卫视
 378844,湖南卫视,湖南卫视
 464615,广东卫视,广东卫视
 378851,深圳卫视,深圳卫视
@@ -91,15 +91,15 @@
 476243,青岛都市,青岛都市QTV5
 476361,青岛教育,青岛教育QTV6
 
-457844,上海教育台,上海教育
-458320,上海新闻综合,上海新闻综合
-458407,上海第一财经,上海第一财经
-458370,上海都市,上海都市
+上海教育,上海教育,上海教育
+新闻综合,新闻综合,上海新闻综合
+第一财经,第一财经,上海第一财经
+都市频道,都市频道,上海都市
 457774,上海纪实人文,上海纪实人文
-457609,上视东方影视,东方影视
+东方影视,东方影视,东方影视
 五星体育,五星体育,五星体育
-458075,哈哈炫动,哈哈炫动
-457648,劲爆体育,劲爆体育
+哈哈炫动,哈哈炫动,哈哈炫动
+劲爆体育,劲爆体育,劲爆体育
 
 457765,北京体育休闲,北京体育休闲
 476206,北京国际,北京国际
@@ -289,7 +289,7 @@ Nice TV 靖天歡樂台,Nice TV 靖天歡樂台,靖天歡樂台
 EYE TV戲劇台,EYE TV戲劇台,EYE TV戲劇台
 第1商業台,第1商業台,第1商業台
 鏡電視新聞台,鏡電視新聞台,鏡電視新聞台
-460844,AXN,AXN
+AXN,AXN,AXN
 ROCK Action HD,ROCK Action HD,ROCK Action
 ROCK Entertainment,ROCK Entertainment,ROCK Entertainment
 CinemaWorld,CinemaWorld,CinemaWorld
@@ -300,6 +300,7 @@ CatchPlay電影台,CatchPlay電影台,CatchPlay電影台
 三立綜合台,三立綜合台,三立綜合台
 三立戲劇台,三立戲劇台,三立戲劇台
 三立台灣台,三立台灣台,三立台灣台
+三立都會台,三立都會台,三立都會台
 三立新聞iNEWS,三立新聞iNEWS,三立新聞iNEWS
 視納華仁紀實頻道,視納華仁紀實頻道,視納華仁紀實頻道
 History 歷史頻道,History 歷史頻道,History 歷史頻道
@@ -366,11 +367,10 @@ ARIRANG阿里郎頻道,ARIRANG阿里郎頻道,ARIRANG阿里郎頻道
 采昌影劇台,采昌影劇台,采昌影劇台
 台灣戲劇HD,台灣戲劇HD,台灣戲劇台
 公視戲劇,公視戲劇,公視戲劇
-460893,HBO,HBO
+HBO,HBO,HBO
 amc電影台,amc電影台,amc電影台
 CINEMAX有線,CINEMAX有線,CINEMAX
 ANIMAX,ANIMAX,ANIMAX
-AXN,AXN,AXN
 Warner TV,Warner TV,Warner TV
 Thrill,Thrill,Thrill
 My Cinema Europe HD 我的歐洲電影,My Cinema Europe HD 我的歐洲電影,My Cinema Europe HD 我的歐洲電影
