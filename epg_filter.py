@@ -15,6 +15,12 @@ RAW_EPG_URLS = [
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/hami.xml",
     "https://raw.githubusercontent.com/nightah/daddylive/refs/heads/main/epgs/daddylive-channels-epg.xml",
     "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+    "https://www.open-epg.com/files/unitedkingdom1.xml"
+    "https://www.open-epg.com/files/unitedkingdom4.xml"
+    "https://www.open-epg.com/files/unitedstates10.xml"
+    "https://www.open-epg.com/files/unitedstates11.xml"
+    "https://www.open-epg.com/files/spain1.xml"
+    "https://www.open-epg.com/files/ireland2.xml"
 ]
 OUTPUT_FILE = "custom_epg.xml"
 REQUEST_TIMEOUT = 30
