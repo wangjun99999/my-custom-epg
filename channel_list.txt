@@ -476,6 +476,48 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 9474,BBC Four HD,BBC Four
 9460,BBC RB 1 HD,BBC Red Button 1
 
+TNT Sports 1.uk,TNT Sports 1.uk,TNT Sports 1
+TNT Sports 2.uk,TNT Sports 2.uk,TNT Sports 2
+TNT Sports 3.uk,TNT Sports 3.uk,TNT Sports 3
+TNT Sports 4.uk,TNT Sports 4.uk,TNT Sports 4
+SkySp F1 HD.uk,SkySp F1 HD.uk,Sky Sports F1
+SkySp Fball HD.uk,SkySp Fball HD.uk,Sky Sports Football
+SkySp Golf HD.uk,SkySp Golf HD.uk,Sky Sports Golf
+SkySp Mix.uk,SkySp Mix.uk,Sky Sports Mix
+SkySp News HD.uk,SkySp News HD.uk,Sky Sports News
+SkySp NFL HD.uk,SkySp NFL HD.uk,Sky Sports NFL
+SkySp PL HD.uk,SkySp PL HD.uk,Sky Sports Premier League
+SkySp Racing HD.uk,SkySp Racing HD.uk,Sky Sports Racing
+SkySp Tennis HD.uk,SkySp Tennis HD.uk,Sky Sports Tennis
+SkySp+ HD.uk,SkySp+ HD.uk,Sky Sports+
+SkySpCricket HD.uk,SkySpCricket HD.uk,Sky Sports Cricket
+SkySpMainEvHD.uk,SkySpMainEvHD.uk,Sky Sports Main Event
+Racing TV HD.uk,Racing TV HD.uk,Racing TV
+Eurosport 2.uk,Eurosport 2.uk,Eurosport 2
+MUTV HD.uk,MUTV HD.uk,MUTV
+LFCTV HD.uk,LFCTV HD.uk,LFCTV
+Sky Cinema Comedy HD.uk,Sky Cinema Comedy HD.uk,Sky Cinema Comedy
+Sky Cinema Family HD.uk,Sky Cinema Family HD.uk,Sky Cinema Family
+Sky Cinema Action HD.uk,Sky Cinema Action HD.uk,Sky Cinema Action
+Sky Cinema Animation.uk,Sky Cinema Animation.uk,Sky Cinema Animation
+GREAT! movies.uk,GREAT! movies.uk,GREAT! movies
+Cartoon Net HD.uk,Cartoon Net HD.uk,Cartoon Network
+BBC News HD.uk,BBC News HD.uk,BBC News
+BBC One Lon HD.uk,BBC One Lon HD.uk,BBC One
+BBC Two HD.uk,BBC Two HD.uk,BBC Two
+BBC Three HD.uk,BBC Three HD.uk,BBC Three
+BBC Four HD.uk,BBC Four HD.uk,BBC Four
+BBC RB 1 HD.uk,BBC RB 1 HD.uk,BBC Red Button
+ITV1 HD.uk,ITV1 HD.uk,ITV1
+ITV2 HD.uk,ITV2 HD.uk,ITV2
+ITV3 HD.uk,ITV3 HD.uk,ITV3
+ITV4 HD.uk,ITV4 HD.uk,ITV4
+
+
+爱尔兰IE
+Premier Sports 1.ie,Premier Sports 1.ie,Premier Sports 1
+Premier Sports 2.ie,Premier Sports 2.ie,Premier Sports 2
+
 美国US
 464754,beIN Sports USA HD,beIN Sports USA
 465236,Tennis Channel HD,Tennis Channel
@@ -513,6 +555,39 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 464791,CNBC HD,CNBC
 465329,UNIVERSO HD,NBC UNIVERSO
 
+beIN Sport USA HD.us,beIN Sport USA HD.us,beIN Sport USA
+beIN Sports (English).us,beIN Sports (English).us,beIN Sports English
+ESPN HD.us,ESPN HD.us,ESPN
+ESPN2 HD.us,ESPN2 HD.us,ESPN2
+ESPN News HD.us,ESPN News HD.us,ESPN News
+ESPN U HD.us,ESPN U HD.us,ESPN U
+ESPN Deportes HD.us,ESPN Deportes HD.us,ESPN Deportes
+CBS Sports Network USA HD.us,CBS Sports Network USA HD.us,CBS Sports Network
+Fox Sports 1 HD.us,Fox Sports 1 HD.us,Fox Sports 1
+Fox Sports 2 HD.us,Fox Sports 2 HD.us,Fox Sports 2
+FOX Soccer Plus HD.us,FOX Soccer Plus HD.us,FOX Soccer Plus
+Fox Deportes HD.us,Fox Deportes HD.us,Fox Deportes
+The Tennis Channel HD.us,The Tennis Channel HD.us,The Tennis Channel
+Golf Channel USA HD.us,Golf Channel USA HD.us,Golf Channel
+Willow Cricket HD.us,Willow Cricket HD.us,Willow Cricket
+Willow Xtra.us,Willow Xtra.us,Willow Xtra
+MLB Network HD.us,MLB Network HD.us,MLB Network
+NFL Network HD.us,NFL Network HD.us,NFL Network
+NFL RedZone HD.us,NFL RedZone HD.us,NFL RedZone
+Fight Network USA HD.us,Fight Network USA HD.us,Fight Network
+NHL Network USA HD.us,NHL Network USA HD.us,NHL Network
+WFN World Fishing Network HD.us,WFN World Fishing Network HD.us,WFN World Fishing Network
+ACC Network HD.us,ACC Network HD.us,ACC Network
+HBO1 HD.us,HBO1 HD.us,HBO1
+HBO HD  Pacific Feed.us,HBO HD  Pacific Feed.us,HBO
+HBO 2  Pacific Feed HD.us,HBO 2  Pacific Feed HD.us,HBO 2
+Cinemax  Pacific HD.us,Cinemax  Pacific HD.us,Cinemax
+Discovery HD (US)  Pacific.us,Discovery HD (US)  Pacific.us,Discovery
+Discovery Life Channel HD.us,Discovery Life Channel HD.us,Discovery Life Channel
+Fox News HD.us,Fox News HD.us,Fox News
+CNBC USA HD.us,CNBC USA HD.us,CNBC
+NBC Universo HD  Eastern.us,NBC Universo HD  Eastern.us,NBC Universo
+
 加拿大CA
 409255,Sportsnet 360 [CA],Sportsnet 360
 470446,TSN 1,TSN 1
@@ -532,6 +607,9 @@ ITV4.HD.uk,ITV 4 UK,ITV 4
 406588,DAZN LALIGA [ES],DAZN LALIGA
 406530,DAZN LALIGA 2 [ES],DAZN LALIGA 2
 406568,M+ Liga de Campeones [ES],Liga de Campeones
+
+DAZN 1.es,DAZN 1.es,DAZN 1
+DAZN LALIGA.es,DAZN LALIGA.es,DAZN LALIGA
 
 法国FR
 459266,Canal+ Sport,Canal+ Sport
