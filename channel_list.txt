@@ -32,7 +32,7 @@
 
 457802,CHC动作电影,CHC 动作电影
 458167,CHC家庭影院,CHC 家庭影院
-487932,重温经典,重温经典频道
+重温经典频道,重温经典频道,重温经典频道
 
 378857,重庆卫视,重庆卫视
 464631,四川卫视,四川卫视
@@ -74,15 +74,15 @@
 476302,香港卫视,香港卫视
 418445,三沙卫视,三沙卫视
 
-379038,山东体育,山东体育休闲
-379039,山东农科,山东农科
-379041,山东少儿,山东少儿
-458243,山东教育,山东教育
-476281,山东文旅,山东文旅
-476248,山东新闻,山东新闻
-379044,山东生活,山东生活
-379043,山东综艺,山东综艺
-379037,山东齐鲁,山东齐鲁
+山东体育,山东体育,山东体育休闲
+山东农科,山东农科,山东农科
+山东少儿,山东少儿,山东少儿
+山东教育,山东教育,山东教育
+山东文旅,山东文旅,山东文旅
+山东新闻,山东新闻,山东新闻
+山东生活,山东生活,山东生活
+山东综艺,山东综艺,山东综艺
+山东齐鲁,山东齐鲁,山东齐鲁
 
 476376,青岛新闻综合,青岛新闻综合QTV1
 476215,青岛生活服务,青岛生活服务QTV2
@@ -92,80 +92,88 @@
 476361,青岛教育,青岛教育QTV6
 
 上海教育,上海教育,上海教育
-458320,上海新闻综合,上海新闻综合
-458407,上海第一财经,上海第一财经
-458370,上海都市,上海都市
+上海新闻综合,上海新闻综合,上海新闻综合
+上海第一财经,上海第一财经,上海第一财经
+都市频道,都市频道,上海都市
 457774,上海纪实人文,上海纪实人文
 东方影视,东方影视,东方影视
 五星体育,五星体育,五星体育
 哈哈炫动,哈哈炫动,哈哈炫动
 劲爆体育,劲爆体育,劲爆体育
 
-457765,北京体育休闲,北京体育休闲
-476206,北京国际,北京国际
-457732,北京影视,北京影视
-457784,北京文艺,北京文艺
-457903,北京新闻,北京新闻
-458080,北京生活,北京生活
-458020,北京纪实,北京纪实科教
-458009,北京财经,北京财经
-457696,卡酷少儿,卡酷少儿
+137,北京体育休闲,北京体育休闲
+北京国际,北京国际,北京国际
+北京影视,北京影视,北京影视
+北京文艺,北京文艺,北京文艺
+北京新闻,北京新闻,北京新闻
+北京生活,北京生活,北京生活
+北京科教,北京科教,北京纪实科教
+北京财经,北京财经,北京财经
+卡酷少儿,卡酷少儿,卡酷少儿
 
-487937,之江纪录,之江纪录
-458297,浙江国际,浙江国际
-457758,浙江少儿,浙江少儿
-457919,浙江教科影视,浙江教科影视
-458123,浙江公共新闻,浙江新闻
-457916,浙江教育,浙江教育
-458047,浙江民生,浙江民生休闲
-457588,浙江经济生活,浙江经济生活
-458122,浙江钱江都市,浙江钱江都市
+207,之江纪录,之江纪录
+浙江国际,浙江国际,浙江国际
+浙江少儿,浙江少儿,浙江少儿
+浙江科教,浙江科教,浙江教科影视
+浙江新闻,浙江新闻,浙江公共新闻
+浙江民生,浙江民生,浙江民生休闲
+浙江经济,浙江经济,浙江经济生活
+浙江钱江都市,浙江钱江都市,浙江钱江都市
 
-458010,南京十八,南京十八生活
-458097,南京少儿,南京少儿
-457709,南京教科,南京教科
-476300,南京文旅纪录,南京文旅纪录
-458082,南京新闻综合,南京新闻综合
+江苏体育休闲频道,江苏体育休闲频道,江苏体育休闲
+江苏城市频道,江苏城市频道,江苏城市
+江苏国际,江苏国际,江苏国际
+江苏教育,江苏教育,江苏教育
+江苏影视频道,江苏影视频道,江苏影视
+江苏综艺频道,江苏综艺频道,江苏综艺
+江苏公共新闻频道,江苏公共新闻频道,江苏公共新闻
 
-458328,广东珠江,广东珠江
-458223,广东体育,广东体育
-476375,南国都市4K,南国都市4K
+南京十八频道,南京十八频道,南京十八生活
+460,南京少儿,南京少儿
+南京教科频道,南京教科频道,南京教科
+458,南京文旅纪录,南京文旅纪录
+南京新闻综合频道,南京新闻综合频道,南京新闻综合
+
+广东珠江,广东珠江,广东珠江
+广东体育,广东体育,广东体育
+广州南国都市4K,广州南国都市4K,广州南国都市4K
 广州影视,广州影视,广州影视
-458144,广州新闻,广州新闻
+广州新闻,广州新闻,广州新闻
 广州法治,广州法治,广州法治
-458016,广州综合,广州综合
-457975,广州竞赛,广州竞赛
+广州综合,广州综合,广州综合
+广州竞赛,广州竞赛,广州竞赛
 
-476329,云南娱乐,云南娱乐
-457699,云南康旅,云南康旅
-457750,云南影视,云南影视
-476328,云南都市,云南都市
+云南娱乐,云南娱乐,云南娱乐
+341,云南康旅,云南康旅
+云南影视,云南影视,云南影视
+云南都市,云南都市,云南都市
 
-487922,成都新闻综合,成都新闻综合CDTV1
-488031,成都经济资讯,成都经济资讯CDTV2
-487942,成都都市生活,成都都市生活CDTV3
-488020,成都影视文艺,成都影视文艺CDTV4
-488066,成都公共,成都公共频道CDTV5
+成都新闻,成都新闻,成都新闻综合CDTV1
+成都经济,成都经济,成都经济资讯CDTV2
+470,成都都市生活,成都都市生活CDTV3
+471,成都影视文艺,成都影视文艺CDTV4
+成都公共,成都公共,成都公共频道CDTV5
 488096,成都少儿,成都少儿频道CDTV6
 
 香港HK
-460917,TVB 翡翠台,翡翠台
-460932,TVB Pearl,明珠台
-368361,TVB Plus,TVB Plus
+翡翠台 (免費),翡翠台 (免費),翡翠台
+明珠台 (免費),明珠台 (免費),明珠台
+TVB Plus (免費),TVB Plus (免費),TVB Plus
+TVB翡翠綜合臺(TVBJ1),TVB翡翠綜合臺(TVBJ1),TVB翡翠綜合臺(TVBJ1)
 TVB星河,TVB星河,TVB星河
 TVB生活台,TVB生活台,TVB生活台
 TVB功夫台,TVB功夫台,TVB功夫台
 TVB翡翠劇集臺(TVB Drama),TVB翡翠劇集臺(TVB Drama),TVB Drama 翡翠劇集臺
 翡翠一臺(TVB1),翡翠一臺(TVB1),TVB1 翡翠一臺
 460810,TVB 互動新聞台,TVB 互動新聞台
-368359,無綫新聞台,無綫新聞台
-368323,娛樂新聞台,娛樂新聞台
+無綫新聞台 (免費),無綫新聞台 (免費),無綫新聞台
+娛樂新聞台 (免費),娛樂新聞台 (免費),娛樂新聞台
 千禧經典台,千禧經典台,千禧經典台
 黃金翡翠台 (免費),黃金翡翠台 (免費),黄金翡翠台
 
-368338,鳳凰衛視中文台,鳳凰中文
-368343,鳳凰衛視資訊台,鳳凰資訊
-368372,鳳凰衛視香港台,鳳凰香港
+鳳凰衛視中文台,鳳凰衛視中文台,鳳凰中文
+鳳凰衛視資訊台,鳳凰衛視資訊台,鳳凰資訊
+鳳凰衛視香港台,鳳凰衛視香港台,鳳凰香港
 
 HOY 國際財經台,HOY 國際財經台,HOY76 國際財經台
 HOY TV,HOY TV,HOY77
@@ -187,7 +195,9 @@ spot on news,spot on news,HOY740 Spot on news
 美亞電影台,美亞電影台,美亞電影台
 PopC,PopC,PopC
 天映经典香港,天映经典香港,天映经典香港
-天映經典頻道,天映經典頻道,天映經典頻道
+天映经典马来西亚,天映经典马来西亚,天映经典马来西亚
+天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
+天映频道印尼,天映频道印尼,天映频道印尼
 翡翠台(超高清),翡翠台(超高清),翡翠台4K
 亞洲劇台,亞洲劇台,亞洲劇台
 Thrill,Thrill,Thrill
@@ -200,6 +210,8 @@ ViuTV,ViuTV,ViuTV
 爆谷台,爆谷台,爆谷台
 Now爆谷星影台,Now爆谷星影台,Now爆谷星影台
 now新聞,now新聞,now新聞
+now財經,now財經,now財經
+now直播,now直播,now直播
 410384,Now Sports 4K 1,Now Sports 4K 1
 410385,Now Sports 4K 2,Now Sports 4K 2
 410386,Now Sports 4K 3,Now Sports 4K 3
@@ -221,7 +233,7 @@ now新聞,now新聞,now新聞
 421332,Now Sports 647,Now Sports 647
 410412,Now Sports 651,Now Sports 651
 410413,Now Sports 652,Now Sports 652
-410395,Now Sports 精選,Now Sports 精選
+Now Sports Premier,Now Sports Premier,Now Sports 精選
 
 澳门MO
 澳視澳門,澳視澳門,澳視澳門
@@ -368,8 +380,8 @@ ARIRANG阿里郎頻道,ARIRANG阿里郎頻道,ARIRANG阿里郎頻道
 龍華經典台,龍華經典台,龍華經典台
 龍華卡通台,龍華卡通台,龍華卡通台
 龍華經典台,龍華經典台,龍華經典台
-龍華洋片HD,龍華洋片HD,龍華洋片台
-龍華電影,龍華電影,龍華電影
+龍華洋片台,龍華洋片台,龍華洋片台
+龍華電影台,龍華電影台,龍華電影台
 美亞電影HD,美亞電影HD,美亞電影台台灣
 采昌影劇台,采昌影劇台,采昌影劇台
 台灣戲劇HD,台灣戲劇HD,台灣戲劇台
@@ -422,18 +434,22 @@ ELTV生活英語台,ELTV生活英語台,ELTV生活英語台
 6626,Sky Sports News HD,Sky Sports News
 412959,Sky Sports + [UK],Sky Sports+
 12118,Racing TV,Racing TV
+
 400476,TNT Sports Ultimate,TNT Sports Ultimate (UHD/4K)
 400477,TNT Sports 1 HD,TNT Sports 1
 400480,TNT Sports 2 HD,TNT Sports 2
 400479,TNT Sports 3 HD,TNT Sports 3
 400478,TNT Sports 4 HD,TNT Sports 4
+
 219100,Premier Sports 1 HD,Premier Sports 1
 219104,Premier Sports 2 HD,Premier Sports 2
+
 12160,Viaplay 1 HD,Viaplay Sports 1
 12557,Viaplay 2 HD,Viaplay Sports 2
 Viaplay1(src01).uk,Viaplay Sports 1 UK,Viaplay Sports 1
 Viaplay2(src01).uk,Viaplay Sports 2 UK,Viaplay Sports 2
 ViaplayXtra.uk,Viaplay Xtra UK,Viaplay Xtra
+
 Racing.TV.uk,Racing Tv UK,Racing TV
 Eurosport.2.HD.uk,EuroSport 1 UK,EuroSport 1
 Eurosport.2.HD.uk,EuroSport 2 UK,EuroSport 2
@@ -606,6 +622,8 @@ NBC Universo HD  Eastern.us,NBC Universo HD  Eastern.us,NBC Universo
 德国DE
 401577,Sky Sport 1,Sky Sport 1
 448621,Sky Sport 2,Sky Sport 2
+10675,Sky Sport Top Event,Sky Sport Top Event
+438445,Sky Sport Premier League,Sky Sport Premier League
 212821,Sky Sport Bundesliga,Sky Sport Bundesliga
 76632,DAZN,DAZN
 451928,DAZN 1,DAZN 1
@@ -623,6 +641,8 @@ DAZN LALIGA.es,DAZN LALIGA.es,DAZN LALIGA
 
 波兰PL
 6338,Eleven Sports 1,Eleven Sports 1
+6085,Eurosport 1 PL,Eurosport 1
+7049,Eurosport 2 PL,Eurosport 2
 
 荷兰NL
 406806，Ziggo Sport 1 [NL]，Ziggo Sport 1
@@ -639,174 +659,38 @@ Channel 5,Channel 5,Channel 5
 Channel 8,Channel 8,Channel 8
 Channel U,Channel U,Channel U
 CNA,CNA,CNA
-369784,Hub Premier 1,Hub Premier 1
-369822,Hub Premier 2,Hub Premier 2
-369793,Hub Premier 3,Hub Premier 3
-369775,Hub Premier 4,Hub Premier 4
+412140,Hub Premier 1,Hub Premier 1
+412164,Hub Premier 2 (HD),Hub Premier 2
+450711,Hub Premier 3,Hub Premier 3
+472551,Hub Premier 4,Hub Premier 4
 452962,Hub Premier 5,Hub Premier 5
 455186,Hub Premier 6,Hub Premier 6
+483423,Hub Premier 7,Hub Premier 7
 450710,Hub Premier 8,Hub Premier 8
 412169,Hub Sports 1 HD,Hub Sports 1
 412154,Hub Sports 2 HD,Hub Sports 2
 412105,Hub Sports 3 HD,Hub Sports 3
+412198,Hub Sports 4 HD,Hub Sports 4
+412160,Hub Sports 5 HD,Hub Sports 5
+412182,Hub Sports 6,Hub Sports 6
+455185,Hub Sports 7,Hub Sports 7
+455187,Hub Sports 8,Hub Sports 8
 369790,Premier Sports,Premier Sports
 369750,beIN SPORTS (HD),beIN SPORTS
 412129,beIN Sports 2 HD,beIN Sports 2
 412175,beIN Sports 3,beIN Sports 3
-456377,beIN Sports 4,beIN Sports 4
-456376,beIN Sports 5,beIN Sports 5
+492708,beIN SPORTS 4 HD,beIN Sports 4
+492707,beIN SPORTS 5 HD,beIN Sports 5
 412181,SPOTV,SPOTV
 412187,SPOTV2,SPOTV2
+412165,FIGHT SPORTS HD,FIGHT SPORTS
 
 马来西亚Astro
-KITA,KITA,KITA
-TV1,TV1,TV1
-TV2,TV2,TV2
-TV3,TV3,TV3
-370131,TV6,TV6
-AstroRia,Astro Ria,Astro Ria
-AstroPrima,Astro Prima,Astro Prima
-AstroOasis,Astro Oasis,Astro Oasis
-AstroCitra,Astro Citra,Astro Citra
-AstroRania,Astro Rania,Astro Rania
-AstroAura,Astro Aura,Astro Aura
-TVAlhijrah,Al-Hijrah,Al-Hijrah
-ColorsHD,Colors Hindi,Colors Hindi
-TVS,TVS,TVS
-OKEY,TV Okey,TV Okey
-DidikTVKPM,DidikTV KPM,DidikTV KPM
-8TV,8TV,8TV
-TV9,TV9,TV9
-AstroVaanavil,Astro Vaanavil,Astro Vaanavil
-AstroVinmeen,Astro Vinmeen,Astro Vinmeen
-AstroVellithirai,Astro Vellithirai,Astro Vellithirai
-SunTV,Sun TV,Sun TV
-SunMusic,Sun Music,Sun Music
-Adithya,Adithya,Adithya
-SunNews,Sun News,Sun News
-KTV,KTV,KTV
-SunLife,Sun Life,Sun Life
-StarVijay,Star Vijay,Star Vijay
-ColorsTamilHD,Colors Tamil,Colors Tamil
-ZeeTamilHD,Zee Tamil,Zee Tamil
-AstroThangathirai,Astro Thangathirai,Astro Thangathirai
-ZeeCinema,Zee Cinema,Zee Cinema
-iQIYI,iQIYI,iQIYI
-TVBClassic,TVB Classic,TVB Classic
-AstroAEC,Astro AEC,Astro AEC
-AstroQJ,Astro QJ,Astro QJ
-CelestialMovies,Celestial Movies,Celestial Movies
-TVBJade,TVB Jade,TVB Jade
-AstroAOD,Astro AOD,Astro AOD
-CTIAsia,CTI Asia HD,CTI Asia HD
-TVBEntertainmentNews,TVB Entertainment News,TVB Entertainment News
-TVBXingHe,TVB Xing He,TVB Xing He
-TVBSAsia,TVBS Asia,TVBS Asia
-CCM,CCM,CCM
-PhoenixChineseChannel,Phoenix Chinese Channel,Phoenix Chinese Channel
-PhoenixInfoNews,Phoenix Info News,Phoenix Info News
-AstroHuaHeeDai,Astro Hua Hee Dai,Astro Hua Hee Dai
-CCTV4,CCTV4,CCTV4
-KBSWorld,KBS World,KBS World
-ONE,ONE,ONE
-tvN,tvN,tvN
-K-Plus,K-Plus,K-Plus
-NHKWorldPremium,NHK World,NHK World
-HITSMovies,HITS Movies,HITS Movies
-AstroBoo,Boo,Boo
-HBO,HBO,HBO
-Cinemax,CINEMAX,CINEMAX
-AstroShowcase,Astro Showcase,Astro Showcase
-HBOFamily,HBO Family,HBO Family
-HBOHits,HBO Hits,HBO Hits
-tvNMovies,tvN Movies,tvN Movies
-AstroAwani,Astro Awani,Astro Awani
-BernamaTV,BERNAMA,BERNAMA
-CGTN,CGTN,CGTN
-CNN,CNN,CNN
-BBCNews,BBC News,BBC News
-AlJazeeraEnglish,Al Jazeera English,Al Jazeera English
-CNA,CNA,CNA
-CNBCAsia,CNBC Asia,CNBC Asia
-BloombergTV,Bloomberg TV,Bloomberg TV
-ABCAustralia,ABC Australia,ABC Australia
-DW,DW English,DW English
-France24,France24,France24
-LoveNature4K,Love Nature 4K,Love Nature 4K
-LoveNature,Love Nature,Love Nature
-GlobalTrekker,Global Trekker,Global Trekker
-DiscoveryChannel,Discovery Channel HD,Discovery Channel HD
-DiscoveryAsia,Discovery Asia,Discovery Asia
-BBCEarth,BBC Earth,BBC Earth
-History,History,History
-AstroTutorTV,Astro Tutor TV,Astro Tutor TV
-AstroCeria,Astro Ceria,Astro Ceria
-CartoonNetwork,Cartoon Network,Cartoon Network
-Nickelodeon,Nickelodeon,Nickelodeon
-NickJr,Nick Jr,Nick Jr
-MoonbugKids,Moonbug,Moonbug
-BlippiandFriends,Blippi & Friends,Blippi & Friends
-CBeebies,CBeebies,CBeebies
-AXN,AXN,AXN
-HITSNow,HITS Now,HITS Now
-Lifetime,Lifetime,Lifetime
-HITS,HITS,HITS
-TLC,TLC,TLC
-AFN,Asian Food Network,Asian Food Network
-CrimeInvestigation,Crime & Investigation,Crime & Investigation
-HGTV,HGTV,HGTV
-BBCLifestyle,BBC Lifestyle,BBC Lifestyle
-MTVLive,MTV Live,MTV Live
-AstroArena,Astro Arena,Astro Arena
-AstroArena2,Astro Arena 2,Astro Arena 2
-AstroArenaBola,Astro Arena Bola,Astro Arena Bola
-AstroArenaBola2,Astro Arena Bola 2,Astro Arena Bola 2
-AstroSportsPlus2,Astro Sports Plus 2,Astro Sports Plus 2
-AstroSportsUHD,Astro Sports UHD,Astro Sports UHD
-SPOTV2,SPOTV2,SPOTV2
-AstroGrandstand,Astro Grandstand,Astro Grandstand
-AstroPremierLeague,Astro Premier League,Astro Premier League
-AstroPremierLeague2,Astro Premier League 2,Astro Premier League 2
-AstroFootball,Astro Football,Astro Football
-AstroBadminton,Astro Badminton,Astro Badminton
-AstroBadminton2,Astro Badminton 2,Astro Badminton 2
-AstroSportsPlus,Astro Sports Plus,Astro Sports Plus
-W-Sport,W-Sport,W-Sport
-SPOTV,SPOTV,SPOTV
-beINSports2,beIN Sports 2,beIN Sports 2
-beINSports,beIN Sports,beIN Sports
-beINSports3,beIN Sports 3,beIN Sports 3
-GolfChannel,Golf Channel,Golf Channel
-PremierSports,Premier Sports,Premier Sports
-AstroCricket,Astro Cricket,Astro Cricket
-HITZ,HITZ,HITZ
-MY,MY,MY
-LITE,LITE,LITE
-MIX,MIX,MIX
-ERA,ERA,ERA
-SINAR,SINAR,SINAR
-MELODY,MELODY,MELODY
-RAAGA,RAAGA,RAAGA
-ROCK,SYOK CLASSIC ROCK,SYOK CLASSIC ROCK
-GOLD,SYOK GOLD,SYOK GOLD
-OPUS,SYOK OPUS,SYOK OPUS
-GEGAR,GEGAR,GEGAR
-INDIA,SYOK INDIA BEAT,SYOK INDIA BEAT
-JAZZ,SYOK JAZZ,SYOK JAZZ
-OSAI,SYOK OSAI,SYOK OSAI
-BAYU,SYOK BAYU,SYOK BAYU
-SYOK KENYALANG,KENYALANG,KENYALANG
-NASFM,NAS FM,NAS FM
-VFM,V FM,V FM
-WAIFM,WAI FM,WAI FM
-TRAXXFM,TRAXX FM,TRAXX FM
-MINNALFM,MINNAL FM,MINNAL FM
-AIFM,AI FM,AI FM
-ASYIKFM,ASYIK FM,ASYIK FM
-ZAYAN,ZAYAN,ZAYAN
-GOXUAN,GO XUAN,GO XUAN
-370133,Sukan RTM,Sukan RTM
-天映频道马来西亚,天映频道马来西亚,天映频道马来西亚
+399518,Astro Sports UHD,Astro Sports UHD
+397396,Astro Premier League,Astro Premier League
+397397,Astro Premier League 2,Astro Premier League 2
+399505,Astro Grandstand,Astro Grandstand
+399498,Astro Football,Astro Football
 
 拜恩体育beIN
 7370,BeIN Sports 4K,BeIN Sports 4K
@@ -841,5 +725,5 @@ GOXUAN,GO XUAN,GO XUAN
 463932,SONY PIX HD,Sony Pix
 463835,NATIONAL GEOGRAPHIC,National Geographic
 
-印尼ID
-171864,Thrill,Thrill
+新西兰NZ
+406527,Sky Sport Premier League [NZ],Sky Sport Premier League
