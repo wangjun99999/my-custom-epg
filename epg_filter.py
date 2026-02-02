@@ -10,6 +10,7 @@ import time
 CHANNEL_TXT_FILE = "channel_list.txt"
 RAW_EPG_URLS = [
     "https://epg.pw/xmltv/epg.xml",
+    "https://epg.112114.xyz/pp.xml",
     "https://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/epgziyong.xml",
     "http://epg.cdn.loc.cc/xml",
     "https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/4g.xml",
