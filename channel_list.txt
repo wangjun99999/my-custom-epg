@@ -558,8 +558,8 @@ Premier Sports 2.ie,Premier Sports 2.ie,Premier Sports 2
 464949,ESPN Deportes HD,ESPN Deportes
 465154,Fight Network,Fight Network
 464937,CBS Sports Network HD,CBS Sports Network
-465291,FS1 Fox Sports 1 HD,FS1 Fox Sports 1
-465355,FS2 Fox Sports 2 HD,FS2 Fox Sports 2
+465248,FS1 HD,FS1 Fox Sports 1
+465280,FS2 HD,FS2 Fox Sports 2
 465214,Fox Soccer Plus HD,Fox Soccer Plus
 465156,Fox Deportes HD,Fox Deportes
 465348,NHL Network HD,NHL Network
@@ -568,15 +568,31 @@ Premier Sports 2.ie,Premier Sports 2.ie,Premier Sports 2
 465225,New England Sports Network HD,NESN
 464779,NBC Sports 4K,NBC Sports
 465058,CHSN Chicago Sports Network,Chicago Sports Network
+465010,Willow Cricket HD,Willow Cricket
+464912,NBA TV HD,NBA TV
+465174,TUDN,TUDN
 
+465032,AMC HD,AMC
 465249,HBO (Pacific),HBO
+464745,HBO East,HBO East
+465302,HBO West,HBO West
 465146,HBO2 (Pacific),HBO2
+465104,HBO Zone HD,HBO Zone
+464953,HBO Comedy HD,HBO Comedy
+465279,HBO Signature HD,HBO Signature
+464917,Cinemax HD,Cinemax East
 465388,Cinemax (Pacific),Cinemax West
+465147,5 StarMAX HD East,5 StarMAX East
+465138,SundanceTV HD,SundanceTV
 465364,Discovery Channel HD,Discovery Channel
 464838,Discovery Life Channel,Discovery Life
 465372,Fox News Channel HD,Fox News
 464791,CNBC HD,CNBC
 465329,UNIVERSO HD,NBC UNIVERSO
+465018,ReelzChannel HD,Reelz Channel
+464956,ScreenPix,ScreenPix
+464775,ScreenPix Action,ScreenPix Action
+464869,ScreenPix Westerns,ScreenPix Westerns
 
 beIN Sport USA HD.us,beIN Sport USA HD.us,beIN Sport USA
 beIN Sports (English).us,beIN Sports (English).us,beIN Sports English
@@ -619,14 +635,22 @@ NBC Universo HD  Eastern.us,NBC Universo HD  Eastern.us,NBC Universo
 470730,TSN 4,TSN 4
 470390,TSN 5,TSN 5
 
+巴西BR
+465504,SporTV,SporTV
+465418,SporTV 2,SporTV 2
+465416,SporTV 3,SporTV 3
+
 德国DE
 401577,Sky Sport 1,Sky Sport 1
 448621,Sky Sport 2,Sky Sport 2
 10675,Sky Sport Top Event,Sky Sport Top Event
 438445,Sky Sport Premier League,Sky Sport Premier League
 212821,Sky Sport Bundesliga,Sky Sport Bundesliga
+10785,Sky Sport Mix,Sky Sport Mix
+10634,Sky Sport Tennis,Sky Sport Tennis
 76632,DAZN,DAZN
 451928,DAZN 1,DAZN 1
+438441,sportdigital Fussball,SportDigital FUSSBALL
 
 西班牙ES
 406588,DAZN LALIGA [ES],DAZN LALIGA
@@ -691,6 +715,9 @@ CNA,CNA,CNA
 397397,Astro Premier League 2,Astro Premier League 2
 399505,Astro Grandstand,Astro Grandstand
 399498,Astro Football,Astro Football
+399506,Premier Sports Rugby,Premier Sports Rugby
+399482,beIN SPORTS 1,beIN SPORTS 1
+4008,HBO Family,HBO Family
 
 拜恩体育beIN
 7370,BeIN Sports 4K,BeIN Sports 4K
@@ -710,6 +737,11 @@ CNA,CNA,CNA
 405609,Tivibu Spor 2,Tivibu Spor 2
 444097,Tivibu Spor 3 [TR],Tivibu Spor 3
 405679,Sports TV TR,Sports TV
+
+阿拉伯AR
+431624,FOX Sports HD [AR],FOX Sports
+431621,FOX Sports 2 HD [AR],FOX Sports 2
+431616,FOX Sports 3 HD [AR],FOX Sports 3
 
 以色列IS
 6578,Yes Sport 5,Yes Sport 5
