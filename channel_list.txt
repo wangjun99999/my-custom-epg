@@ -571,6 +571,7 @@ Premier Sports 2.ie,Premier Sports 2.ie,Premier Sports 2
 465010,Willow Cricket HD,Willow Cricket
 464912,NBA TV HD,NBA TV
 465174,TUDN,TUDN
+408644,Fubo Sports Network [US],Fubo Sports
 
 465032,AMC HD,AMC
 465249,HBO (Pacific),HBO
@@ -635,6 +636,13 @@ NBC Universo HD  Eastern.us,NBC Universo HD  Eastern.us,NBC Universo
 470730,TSN 4,TSN 4
 470390,TSN 5,TSN 5
 
+墨西哥MX
+415585,Fox Sports [MX],Fox Sports
+415584,Fox Sports 2 [MX],Fox Sports 2
+415586,Fox Sports 3 [MX],Fox Sports 3
+427680,Sky Sports LaLiga [MX],Sky Sports LaLiga
+427662,Sky Sports [MX],Sky Sports
+
 巴西BR
 465504,SporTV,SporTV
 465418,SporTV 2,SporTV 2
@@ -662,6 +670,12 @@ DAZN LALIGA.es,DAZN LALIGA.es,DAZN LALIGA
 
 法国FR
 459266,Canal+ Sport,Canal+ Sport
+443103,beIN SPORTS MAX 5,beIN SPORTS MAX 5
+55982,beIN SPORTS MAX 6,beIN SPORTS MAX 6
+55920,beIN SPORTS MAX 7,beIN SPORTS MAX 7
+443213,beIN SPORTS MAX 8,beIN SPORTS MAX 8
+55983,beIN SPORTS MAX 9,beIN SPORTS MAX 9
+443150,beIN SPORTS MAX 10,beIN SPORTS MAX 10
 
 波兰PL
 6338,Eleven Sports 1,Eleven Sports 1
@@ -669,7 +683,12 @@ DAZN LALIGA.es,DAZN LALIGA.es,DAZN LALIGA
 7049,Eurosport 2 PL,Eurosport 2
 
 荷兰NL
-406806，Ziggo Sport 1 [NL]，Ziggo Sport 1
+406806,Ziggo Sport 1 [NL],Ziggo Sport 1
+406813,Ziggo Sport 2 [NL],Ziggo Sport 2
+406807,Ziggo Sport 3 [NL],Ziggo Sport 3
+406820,Ziggo Sport 4 [NL],Ziggo Sport 4
+406816,Ziggo Sport 5 [NL],Ziggo Sport 5
+406811,Ziggo Sport 6 [NL],Ziggo Sport 6
 
 挪威NOR
 407577,V Sport+ [NO],V Sport+
@@ -738,7 +757,7 @@ CNA,CNA,CNA
 444097,Tivibu Spor 3 [TR],Tivibu Spor 3
 405679,Sports TV TR,Sports TV
 
-阿拉伯AR
+阿根廷AR
 431624,FOX Sports HD [AR],FOX Sports
 431621,FOX Sports 2 HD [AR],FOX Sports 2
 431616,FOX Sports 3 HD [AR],FOX Sports 3
@@ -759,3 +778,17 @@ CNA,CNA,CNA
 
 新西兰NZ
 406527,Sky Sport Premier League [NZ],Sky Sport Premier League
+
+斯洛伐克SK
+406290,Arena Sport 1 SK,Arena Sport 1
+406291,Arena Sport 2 SK,Arena Sport 2
+
+匈牙利HU
+393930,Sport 1 HU,Sport 1
+449431,Sport 2 [HU],Sport 2
+
+罗马尼亚RO
+6832,Prima Sport 1 HD,Prima Sport 1
+6830,Prima Sport 2 HD,Prima Sport 2
+6831,Prima Sport 3 HD,Prima Sport 3
+6828,Prima Sport 4 HD,Prima Sport 4
