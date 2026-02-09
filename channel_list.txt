@@ -446,6 +446,27 @@ ELTV生活英語台,ELTV生活英語台,ELTV生活英語台
 
 12160,Viaplay 1 HD,Viaplay Sports 1
 12557,Viaplay 2 HD,Viaplay Sports 2
+
+12185,Discovery,Discovery
+12354,ID,Investigation Discovery
+12180,Disc.History,Discovery History
+12272,Sky History,History
+12226,Sky History2,H2
+9498,Crime+Inv HD,Crime & Investigation
+12083,Nat Geo Wild,Nat Geo Wild
+12084,Nickelodeon,Nickelodeon
+9234,CBS Justice,CBS Justice
+12163,TLC,TLC
+12164,More4,More4
+12376,POP,POP
+12471,MTV HITS,MTV Hits
+9206,BBC NEWS HD,BBC NEWS
+76657,BBC One,BBC One
+9459,BBC Two HD,BBC Two
+9507,BBC Three HD,BBC Three
+9474,BBC Four HD,BBC Four
+9460,BBC RB 1 HD,BBC Red Button 1
+
 Viaplay1(src01).uk,Viaplay Sports 1 UK,Viaplay Sports 1
 Viaplay2(src01).uk,Viaplay Sports 2 UK,Viaplay Sports 2
 ViaplayXtra.uk,Viaplay Xtra UK,Viaplay Xtra
@@ -479,25 +500,7 @@ ITV1.HD.uk,ITV 1 UK,ITV 1
 ITV2.HD.uk,ITV 2 UK,ITV 2
 ITV3.HD.uk,ITV 3 UK,ITV 3
 ITV4.HD.uk,ITV 4 UK,ITV 4
-12185,Discovery,Discovery
-12354,ID,Investigation Discovery
-12180,Disc.History,Discovery History
-12272,Sky History,History
-12226,Sky History2,H2
-9498,Crime+Inv HD,Crime & Investigation
-12083,Nat Geo Wild,Nat Geo Wild
-12084,Nickelodeon,Nickelodeon
-9234,CBS Justice,CBS Justice
-12163,TLC,TLC
-12164,More4,More4
-12376,POP,POP
-12471,MTV HITS,MTV Hits
-9206,BBC NEWS HD,BBC NEWS
-76657,BBC One,BBC One
-9459,BBC Two HD,BBC Two
-9507,BBC Three HD,BBC Three
-9474,BBC Four HD,BBC Four
-9460,BBC RB 1 HD,BBC Red Button 1
+
 
 TNT Sports 1.uk,TNT Sports 1.uk,TNT Sports 1
 TNT Sports 2.uk,TNT Sports 2.uk,TNT Sports 2
@@ -664,12 +667,16 @@ NBC Universo HD  Eastern.us,NBC Universo HD  Eastern.us,NBC Universo
 406588,DAZN LALIGA [ES],DAZN LALIGA
 406530,DAZN LALIGA 2 [ES],DAZN LALIGA 2
 406568,M+ Liga de Campeones [ES],Liga de Campeones
+LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,Dazn Laliga Hypermotion
 
 DAZN 1.es,DAZN 1.es,DAZN 1
 DAZN LALIGA.es,DAZN LALIGA.es,DAZN LALIGA
 
 法国FR
 459266,Canal+ Sport,Canal+ Sport
+55773,beIN SPORTS 1,beIN SPORTS 1
+443147,beIN SPORTS 2,beIN SPORTS 2
+54963,beIN SPORTS 3,beIN SPORTS 3
 443103,beIN SPORTS MAX 5,beIN SPORTS MAX 5
 55982,beIN SPORTS MAX 6,beIN SPORTS MAX 6
 55920,beIN SPORTS MAX 7,beIN SPORTS MAX 7
@@ -792,3 +799,30 @@ CNA,CNA,CNA
 6830,Prima Sport 2 HD,Prima Sport 2
 6831,Prima Sport 3 HD,Prima Sport 3
 6828,Prima Sport 4 HD,Prima Sport 4
+
+捷克CZ
+6263,Nova Sport 1,Nova Sport 1
+7410,Nova Sport 2,Nova Sport 2
+
+菲律宾
+399720,Cgnl Nba,NBA TV Philippines
+322482,Pbarush Hd,PBA Rush
+322490,Onesports,One Sports
+322515,Onesportsplus Hd,One Sports Plus
+322530,Tap Sports,Tap Sports
+322516,Premier Tennishd,Premier Tennis
+374489,PREMIERSPORTS2,Premier Sports 2
+12650,SPOTV HD,SpoTV
+322441,Spotv Hd2,SpoTV 2
+
+格鲁吉亚GE
+410320,Setanta Sports 1 Georgia,Setanta Sports 1
+410319,Setanta Sports 2 Georgia,Setanta Sports 2
+
+
+
+
+
+
+
+
