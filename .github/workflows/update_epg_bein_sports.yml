@@ -2,7 +2,8 @@ name: Update beIN Sports EPG
 
 on:
   schedule:
-    - cron: "30 21 * * *"   # UTC 21:30 = 北京 05:30
+    # UTC 21:30 = 北京时间 05:30
+    - cron: "30 21 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,29 +14,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
+      - name: Fix shell script format
+        run: |
+          sed -i 's/\r$//' bein_sports_grab.sh
+          chmod +x bein_sports_grab.sh
+
       - name: Grab beIN Sports EPG
         run: |
-          bash bein_sports_grab.sh
+          ./bein_sports_grab.sh
 
       - name: Map channel IDs
         run: |
-          python bein_sports_map_ids.py bein_sports_raw.xml bein_sports_mapped.xml
+          python3 bein_sports_map_ids.py bein_sports_raw.xml bein_sports_mapped.xml
 
       - name: Fix timezone to +0800
         run: |
-          python bein_sports_tz_fix.py bein_sports_mapped.xml epg_bein_sports.xml
+          python3 bein_sports_tz_fix.py bein_sports_mapped.xml epg_bein_sports.xml
 
-      - name: Commit
+      - name: Validate EPG output
+        run: |
+          if [ ! -s epg_bein_sports.xml ]; then
+            echo "❌ epg_bein_sports.xml is empty – aborting"
+            exit 1
+          fi
+          echo "✅ EPG file looks valid"
+
+      - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
