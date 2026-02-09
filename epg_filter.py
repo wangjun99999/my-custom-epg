@@ -24,6 +24,10 @@ MAX_RETRIES = 2
 # ------------------------------------------------------------
 
 
+CHINA_TZ = timezone(timedelta(hours=8))
+
+
+# ---------------- 读取频道列表 ----------------
 def read_channel_list(txt_path):
     channel_dict = {}
     channel_id_map = {}
@@ -36,7 +40,7 @@ def read_channel_list(txt_path):
     with open(txt_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
-    for line_num, line in enumerate(lines, 1):
+    for line in lines:
         line = line.strip()
         if not line or line.startswith("#"):
             continue
@@ -65,6 +69,7 @@ def read_channel_list(txt_path):
     return channel_dict, channel_id_map
 
 
+# ---------------- 拉取EPG ----------------
 def get_epg_data(url):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
@@ -78,6 +83,7 @@ def get_epg_data(url):
     return None
 
 
+# ---------------- 频道过滤 ----------------
 def filter_channels(epg_root, channel_dict, channel_id_map):
     filtered_channels = []
     filtered_programmes = []
@@ -103,14 +109,13 @@ def filter_channels(epg_root, channel_dict, channel_id_map):
     return filtered_channels, filtered_programmes
 
 
-def adjust_programme_time_to_china(programmes):
+# ---------------- 核心：时间统一到 +0800 ----------------
+def normalize_programme_times(programmes):
     """
-    严格按照 XMLTV 标准：
-    1. 解析原始时间 + 原始时区
-    2. 转为 UTC
-    3. 再转为中国时区 +0800
+    规则：
+    - 带 +ZZZZ → 严格按原时区转成 +0800
+    - 不带时区 → 本来就是北京时间，只补 +0800
     """
-    china_tz = timezone(timedelta(hours=8))
     count = 0
 
     for p in programmes:
@@ -119,30 +124,34 @@ def adjust_programme_time_to_china(programmes):
             if not raw:
                 continue
 
+            # 情况1：带时区
             m = re.match(r"(\d{14})\s*([+-]\d{4})", raw)
-            if not m:
-                continue
-
-            dt_part, tz_part = m.groups()
-
-            try:
+            if m:
+                dt_part, tz_part = m.groups()
                 base_dt = datetime.strptime(dt_part, "%Y%m%d%H%M%S")
-            except ValueError:
+
+                sign = 1 if tz_part[0] == "+" else -1
+                hh = int(tz_part[1:3])
+                mm = int(tz_part[3:5])
+                src_tz = timezone(timedelta(hours=sign * hh, minutes=sign * mm))
+
+                dt = base_dt.replace(tzinfo=src_tz)
+                dt_cn = dt.astimezone(CHINA_TZ)
+
+                p.set(attr, dt_cn.strftime("%Y%m%d%H%M%S +0800"))
+                count += 1
                 continue
 
-            tz_h = int(tz_part[:3])
-            tz_m = int(tz_part[0] + tz_part[3:])
-            src_tz = timezone(timedelta(hours=tz_h, minutes=tz_m))
+            # 情况2：不带时区（已是北京时间）
+            m2 = re.match(r"(\d{14})", raw)
+            if m2:
+                p.set(attr, m2.group(1) + " +0800")
+                count += 1
 
-            dt = base_dt.replace(tzinfo=src_tz)
-            dt_cn = dt.astimezone(china_tz)
-
-            p.set(attr, dt_cn.strftime("%Y%m%d%H%M%S +0800"))
-            count += 1
-
-    print(f"⏰ 时区已规范化：{count} 个时间字段 → +0800")
+    print(f"⏰ 时间统一完成：{count} 个字段 → +0800")
 
 
+# ---------------- 去重 ----------------
 def remove_duplicate_channels(channels):
     uniq = {}
     for ch in channels:
@@ -168,10 +177,13 @@ def remove_duplicate_programmes(programmes):
     return uniq
 
 
+# ---------------- 生成最终XML ----------------
 def generate_custom_epg(channels, programmes):
     tv = ET.Element("tv")
     tv.set("generator-info-name", "my-custom-epg")
-    tv.set("generated-on", datetime.utcnow().strftime("%Y%m%d%H%M%S +0000"))
+
+    # 🔥 关键修复：generated-on 也必须是 +0800
+    tv.set("generated-on", datetime.now(CHINA_TZ).strftime("%Y%m%d%H%M%S +0800"))
 
     for ch in channels:
         tv.append(ch)
@@ -189,8 +201,9 @@ def generate_custom_epg(channels, programmes):
     print(f"✅ 已生成 {OUTPUT_FILE}")
 
 
+# ---------------- 主流程 ----------------
 def main():
-    print("🚀 开始生成自定义 EPG（统一中国时区）")
+    print("🚀 开始生成自定义 EPG（统一中国时区 +0800）")
 
     channel_dict, channel_id_map = read_channel_list(CHANNEL_TXT_FILE)
     if not channel_dict:
@@ -216,11 +229,10 @@ def main():
     all_channels = remove_duplicate_channels(all_channels)
     all_programmes = remove_duplicate_programmes(all_programmes)
 
-    adjust_programme_time_to_china(all_programmes)
-
+    normalize_programme_times(all_programmes)
     generate_custom_epg(all_channels, all_programmes)
 
-    print("🎉 完成，EPG 时间已全部对齐中国时区 (+0800)")
+    print("🎉 完成，EPG 时间已 100% 对齐北京时间")
 
 
 if __name__ == "__main__":
