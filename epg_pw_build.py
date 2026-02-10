@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
+import os
 
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 
@@ -33,7 +34,6 @@ for ch in root.findall("channel"):
             for d in ch.findall("display-name"):
                 ET.SubElement(new, "display-name").text = d.text
 
-            # 加备注名
             ET.SubElement(new, "display-name").text = note
             valid.add(cid)
 
@@ -44,16 +44,17 @@ def bj(t):
     dt += timedelta(hours=8)
     return dt.strftime("%Y%m%d%H%M%S") + " +0800"
 
-# 处理节目
 for p in root.findall("programme"):
     if p.attrib["channel"] in valid:
         new = ET.SubElement(out, "programme")
         new.attrib["channel"] = p.attrib["channel"]
         new.attrib["start"] = bj(p.attrib["start"])
         new.attrib["stop"] = bj(p.attrib["stop"])
-
         for c in p:
             new.append(c)
+
+# ⭐ 关键修复
+os.makedirs("output", exist_ok=True)
 
 ET.ElementTree(out).write("output/epg_pw.xml", encoding="utf-8", xml_declaration=True)
 print("Done.")
