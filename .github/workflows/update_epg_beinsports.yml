@@ -24,7 +24,7 @@ jobs:
           python-version: "3.x"
 
       - run: npm install -g epg-grabber
-             npm install axios
+             npm install -g axios
 
       - name: Grab beIN EPG
         run: node epg_beinsports_grab.js
