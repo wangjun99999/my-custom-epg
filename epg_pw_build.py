@@ -15,17 +15,16 @@ with open("epg_pw_channels.txt", "r", encoding="utf-8") as f:
             continue
         parts = line.split(",", 2)
         if len(parts) == 3:
-            tvg_id = parts[0].strip()
-            tvg_name = parts[1].strip().lower()
-            note = parts[2].strip()
-            wanted.append((tvg_id, tvg_name, note))
+            epg_id = parts[0].strip()
+            real_name = parts[1].strip()
+            note = parts[2].strip()   # 仅备注，不进入 XML
+            wanted.append((epg_id, real_name))
 
 print("Loading epg.pw...")
 xml = requests.get(EPG_URL, timeout=60).content
 root = ET.fromstring(xml)
 
 out = ET.Element("tv")
-valid = {}
 
 # 建立 epg.pw 索引
 epg_by_id = {}
@@ -38,19 +37,21 @@ for ch in root.findall("channel"):
     for n in names:
         epg_by_name[n.lower()] = cid
 
-# 匹配频道
-for src_id, src_name, note in wanted:
-    if src_id in epg_by_id:
-        valid[src_id] = note
-    elif src_name in epg_by_name:
-        valid[epg_by_name[src_name]] = note
+# 匹配
+valid = {}   # cid -> real_name
+
+for epg_id, real_name in wanted:
+    if epg_id in epg_by_id:
+        valid[epg_id] = real_name
+    elif real_name.lower() in epg_by_name:
+        valid[epg_by_name[real_name.lower()]] = real_name
 
 print("Matched channels:", len(valid))
 
-# 输出频道（只使用你给的备注名）
-for cid, note in valid.items():
+# 输出 channel（只输出 epg.pw 的真实名）
+for cid, real_name in valid.items():
     ch = ET.SubElement(out, "channel", id=cid)
-    ET.SubElement(ch, "display-name").text = note
+    ET.SubElement(ch, "display-name").text = real_name
 
 # UTC → 北京时间
 def bj(t):
@@ -66,11 +67,10 @@ for p in root.findall("programme"):
         new.attrib["channel"] = cid
         new.attrib["start"] = bj(p.attrib["start"])
         new.attrib["stop"] = bj(p.attrib["stop"])
-
         for c in p:
             new.append(c)
 
-# 输出文件
+# 写文件
 os.makedirs("output", exist_ok=True)
 ET.ElementTree(out).write("output/epg_pw.xml", encoding="utf-8", xml_declaration=True)
 
