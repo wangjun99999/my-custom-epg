@@ -1,6 +1,5 @@
 import sys
 import xml.etree.ElementTree as ET
-import re
 
 src, out = sys.argv[1], sys.argv[2]
 
@@ -56,20 +55,42 @@ NAME_MAP = {
     "beIN SPORTS FR 2": "beINSportsFR2.qa@SD",
 }
 
-# Build UUID → real id map
+# ========================
+# STEP 1 – Build safe map
+# ========================
+
+used_targets = set()
 uuid_map = {}
 
-for ch in root.findall("channel"):
+for ch in list(root.findall("channel")):
     name = ch.findtext("display-name")
-    if name in NAME_MAP:
-        uuid_map[ch.get("id")] = NAME_MAP[name]
-        ch.set("id", NAME_MAP[name])
+    if name not in NAME_MAP:
+        continue
 
-# Rewrite programme channel ids
+    target_id = NAME_MAP[name]
+
+    # If this IPTV id already used → delete duplicate source channel
+    if target_id in used_targets:
+        root.remove(ch)
+        continue
+
+    used_targets.add(target_id)
+
+    uuid_map[ch.get("id")] = target_id
+    ch.set("id", target_id)
+
+# ========================
+# STEP 2 – Rewrite programmes
+# ========================
+
 for p in root.findall("programme"):
-    cid = p.get("channel")
-    if cid in uuid_map:
-        p.set("channel", uuid_map[cid])
+    old = p.get("channel")
+    if old in uuid_map:
+        p.set("channel", uuid_map[old])
+
+# ========================
+# STEP 3 – Write result
+# ========================
 
 tree.write(out, encoding="utf-8", xml_declaration=True)
-print("Mapped →", out)
+print("Mapped & deduplicated →", out)
