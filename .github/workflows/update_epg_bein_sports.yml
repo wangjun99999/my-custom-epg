@@ -40,12 +40,10 @@ jobs:
           python3 bein_sports_tz_fix.py bein_sports_relinked.xml epg_bein_sports.xml
 
       # 4️⃣ 提交并推送到 GitHub
-      - name: Commit and push
+      - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-          git pull --rebase
 
           git add epg_bein_sports.xml
           git commit -m "Auto update beIN Sports EPG" || echo "No changes"
