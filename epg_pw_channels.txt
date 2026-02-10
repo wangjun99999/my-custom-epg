@@ -1,0 +1,3 @@
+beinsports1.qa | beIN Sports 1 | 卡塔尔 beIN1
+beinsports1.fr | beIN Sports 1 | 法国 beIN1
+skyspremiereleague.uk | Sky Sports Premier League | 英国 EPL
