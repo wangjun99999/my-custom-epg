@@ -1,4 +1,4 @@
-name: Update beIN Sports EPG
+name: beIN Sports
 
 on:
   schedule:
@@ -27,13 +27,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 安装 epg-grabber
-      - name: Install epg-grabber
-        run: npm install -g epg-grabber
-
-      # ★关键：修复你现在卡死的 axios 报错
-      - name: Install axios
-        run: npm install axios
+      - name: Install epg-grabber and deps
+        run: |
+          npm install -g epg-grabber
+          npm install axios dayjs
 
       # 运行 beIN 抓取
       - name: Run beIN grabber
