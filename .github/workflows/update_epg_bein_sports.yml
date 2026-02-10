@@ -1,50 +1,76 @@
-name: Update beIN Sports EPG
+name: Update beIN SPORTS EPG
 
 on:
   schedule:
-    # 北京时间每天 05:30 运行
+    # 每天北京时间 05:30 运行（UTC 21:30）
     - cron: "30 21 * * *"
   workflow_dispatch:
 
 jobs:
-  update:
+  update-bein-sports-epg:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
         run: |
-          pip install lxml requests pytz
+          python -m pip install --upgrade pip
+          pip install requests lxml pytz
 
-      # 1️⃣ 从 beinsports.com 抓官方 EPG（UUID 频道）
-      - name: Grab beIN Sports EPG
+      - name: Create working folders
         run: |
-          chmod +x bein_sports_grab.sh
-          ./bein_sports_grab.sh
+          mkdir -p data
+          mkdir -p output
+          mkdir -p logs
 
-      # 2️⃣ UUID → MENA IPTV频道ID 重新绑定
-      - name: Relink UUID → beIN MENA channels
+      # ① 生成频道映射（从你贴的 XML 解析）
+      - name: Build beIN channel mapping
         run: |
-          python3 bein_sports_uuid_relink.py bein_sports_raw.xml bein_sports_relinked.xml
+          python scripts/bein_sports_build_channels.py \
+            --input data/bein_sports_channels.xml \
+            --output data/bein_sports_channels.json
 
-      # 3️⃣ 时区统一为中国 +0800
-      - name: Fix timezone to +0800
+      # ② 抓取 beIN 官方 EPG API
+      - name: Fetch beIN SPORTS raw EPG
         run: |
-          python3 bein_sports_tz_fix.py bein_sports_relinked.xml epg_bein_sports.xml
+          python scripts/bein_sports_fetch_epg.py \
+            --channels data/bein_sports_channels.json \
+            --days 7 \
+            --output data/bein_sports_raw.json
 
-      # 4️⃣ 提交并推送到 GitHub
-      - name: Commit & push
+      # ③ 转换为 XMLTV
+      - name: Convert to XMLTV
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          python scripts/bein_sports_epg_to_xmltv.py \
+            --input data/bein_sports_raw.json \
+            --channels data/bein_sports_channels.json \
+            --timezone Asia/Shanghai \
+            --output output/bein_sports_epg.xml
 
-          git add epg_bein_sports.xml
-          git commit -m "Auto update beIN Sports EPG" || echo "No changes"
+      # ④ 格式化 & 去重
+      - name: Normalize XML
+        run: |
+          python scripts/bein_sports_cleanup_xml.py \
+            --input output/bein_sports_epg.xml \
+            --output output/bein_sports_epg.xml
+
+      # ⑤ 生成 gzip（给 IPTV 用）
+      - name: Compress
+        run: |
+          gzip -f output/bein_sports_epg.xml
+
+      # ⑥ 提交到 GitHub
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add output/bein_sports_epg.xml.gz data/*.json logs || true
+          git commit -m "beIN SPORTS EPG auto update $(date -u '+%Y-%m-%d %H:%M')" || exit 0
           git push
