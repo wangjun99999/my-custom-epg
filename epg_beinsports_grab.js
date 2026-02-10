@@ -24,4 +24,5 @@ for (const r of regions) {
   )
 }
 
-execSync(`epg-grabber merge "tmp/*.xml" > output/epg_beinsports_raw.xml`, { stdio: 'inherit' })
+execSync(`npx epg-merge tmp/*.xml > output/epg_beinsports.xml`, { stdio: 'inherit' })
+
