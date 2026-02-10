@@ -1,0 +1,40 @@
+name: Update beIN Sports EPG
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # UTC 22:00 = 北京 06:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - run: npm install -g epg-grabber
+
+      - name: Grab beIN EPG
+        run: node epg_beinsports_grab.js
+
+      - name: Fix timezone
+        run: python3 epg_beinsports_tz.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/epg_beinsports.xml
+          git commit -m "Auto update beIN Sports EPG" || true
+          git push
