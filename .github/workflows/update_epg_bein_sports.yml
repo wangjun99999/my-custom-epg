@@ -2,68 +2,49 @@ name: Update beIN Sports EPG
 
 on:
   schedule:
-    # UTC 21:30 = 北京时间 05:30
+    # 北京时间每天 05:30 运行
     - cron: "30 21 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.11"
 
-      - name: Fix shell script format
+      - name: Install dependencies
         run: |
-          sed -i 's/\r$//' bein_sports_grab.sh
-          chmod +x bein_sports_grab.sh
+          pip install lxml requests pytz
 
+      # 1️⃣ 从 beinsports.com 抓官方 EPG（UUID 频道）
       - name: Grab beIN Sports EPG
         run: |
+          chmod +x bein_sports_grab.sh
           ./bein_sports_grab.sh
 
-      - name: Clean old mapped file
+      # 2️⃣ UUID → MENA IPTV频道ID 重新绑定
+      - name: Relink UUID → beIN MENA channels
         run: |
-          rm -f bein_sports_mapped.xml
-          rm -f epg_bein_sports.xml
+          python3 bein_sports_uuid_relink.py bein_sports_raw.xml bein_sports_relinked.xml
 
-      - name: Map channel IDs
-        run: |
-          python3 bein_sports_map_ids.py bein_sports_raw.xml bein_sports_mapped.xml
-
+      # 3️⃣ 时区统一为中国 +0800
       - name: Fix timezone to +0800
         run: |
-          python3 bein_sports_tz_fix.py bein_sports_mapped.xml epg_bein_sports.xml
+          python3 bein_sports_tz_fix.py bein_sports_relinked.xml epg_bein_sports.xml
 
-      - name: Validate EPG output
-        run: |
-          if [ ! -s epg_bein_sports.xml ]; then
-            echo "❌ epg_bein_sports.xml is empty – aborting"
-            exit 1
-          fi
-          echo "✅ EPG file looks valid"
-
-      - name: Commit & push
+      # 4️⃣ 提交并推送到 GitHub
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-          # 丢弃 grab.sh 的 sed/chmod 修改
-          git checkout -- bein_sports_grab.sh
-
           git add epg_bein_sports.xml
-          git commit -m "Auto update beIN Sports EPG" || true
-
-          git pull --rebase origin main
-          git push origin main
-
-
+          git commit -m "Auto update beIN Sports EPG" || echo "No changes"
+          git pull --rebase
+          git push
