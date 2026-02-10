@@ -52,15 +52,13 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # 丢弃非 EPG 文件的本地修改（比如 CRLF 修正、chmod）
-          git restore --staged .
-          git restore .
+          # 丢弃 grab.sh 的 sed/chmod 修改
+          git checkout -- bein_sports_grab.sh
 
-          # 添加并提交 EPG
           git add epg_bein_sports.xml
           git commit -m "Auto update beIN Sports EPG" || true
 
-          # 拉取远端再推
           git pull --rebase origin main
           git push origin main
+
 
