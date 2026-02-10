@@ -1,0 +1,32 @@
+name: Update epg_pw
+
+on:
+  schedule:
+    # UTC 22:00 = 北京时间 06:00
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r epg_pw_requirements.txt
+
+      - run: python epg_pw_build.py
+
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/epg_pw.xml
+          git commit -m "Update epg_pw" || echo "No change"
+          git push
