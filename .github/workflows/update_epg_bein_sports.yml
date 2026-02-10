@@ -31,6 +31,11 @@ jobs:
         run: |
           ./bein_sports_grab.sh
 
+      - name: Clean old mapped file
+        run: |
+          rm -f bein_sports_mapped.xml
+          rm -f epg_bein_sports.xml
+
       - name: Map channel IDs
         run: |
           python3 bein_sports_map_ids.py bein_sports_raw.xml bein_sports_mapped.xml
