@@ -1,3 +1,332 @@
-beinsports1.qa | beIN Sports 1 | 卡塔尔 beIN1
-beinsports1.fr | beIN Sports 1 | 法国 beIN1
-skyspremiereleague.uk | Sky Sports Premier League | 英国 EPL
+# 香港HK
+410384,Now Sports 4K 1,Now Sports 4K 1
+410385,Now Sports 4K 2,Now Sports 4K 2
+410386,Now Sports 4K 3,Now Sports 4K 3
+410396,Now Sports 1,Now Sports 1
+410397,Now Sports 2,Now Sports 2
+410398,Now Sports 3,Now Sports 3
+410399,Now Sports 4,Now Sports 4
+410400,Now Sports 5,Now Sports 5
+410401,Now Sports 6,Now Sports 6
+410402,Now Sports 7,Now Sports 7
+410388,Now Sports 英超1台,Now Sports 英超1台
+410389,Now Sports 英超2台,Now Sports 英超2台
+410390,Now Sports 英超3台,Now Sports 英超3台
+410391,Now Sports 英超4台,Now Sports 英超4台
+410392,Now Sports 英超5台,Now Sports 英超5台
+415544,Now Sports 英超6台,Now Sports 英超6台
+415545,Now Sports 英超7台,Now Sports 英超7台
+410406,Now Sports 641,Now Sports 641
+421332,Now Sports 647,Now Sports 647
+410412,Now Sports 651,Now Sports 651
+410413,Now Sports 652,Now Sports 652
+368550,港台电视31,RTHK31
+368551,港台电视32,RTHK32
+368552,港台电视33,RTHK33
+368553,港台电视34,RTHK34
+368554,港台电视35,RTHK35
+
+# 英国UK
+431628,Sky Sports 1 UHD [UK],Sky Sports 1
+431627,Sky Sports 2 UHD [UK],Sky Sports 2
+9415,SkySpMainEvHD,Sky Sports Main Event
+12453,SkySp PL HD,Sky Sports Premier League
+12191,SkySp F'ball HD,Sky Sports Football
+12024,SkySp ActionHD,Sky Sports Action
+12434,SkySpCricket HD,Sky Sports Cricket
+12190,SkySp F1 HD,Sky Sports F1
+12022,SkySp Golf HD,Sky Sports Golf
+12562,SkySp Mix,Sky Sports Mix
+12200,SkySp Racing HD,Sky Sports Racing
+212145,SkySp Tennis HD,Sky Sports Tennis
+454969,Sky Sports NFL,Sky Sports NFL
+6626,Sky Sports News HD,Sky Sports News
+412959,Sky Sports + [UK],Sky Sports+
+12118,Racing TV,Racing TV
+
+400476,TNT Sports Ultimate,TNT Sports Ultimate (UHD/4K)
+400477,TNT Sports 1 HD,TNT Sports 1
+400480,TNT Sports 2 HD,TNT Sports 2
+400479,TNT Sports 3 HD,TNT Sports 3
+400478,TNT Sports 4 HD,TNT Sports 4
+
+219100,Premier Sports 1 HD,Premier Sports 1
+219104,Premier Sports 2 HD,Premier Sports 2
+
+12160,Viaplay 1 HD,Viaplay Sports 1
+12557,Viaplay 2 HD,Viaplay Sports 2
+
+12185,Discovery,Discovery
+12354,ID,Investigation Discovery
+12180,Disc.History,Discovery History
+12272,Sky History,History
+12226,Sky History2,H2
+12394,Sky Crime,Sky Crime
+9498,Crime+Inv HD,Crime & Investigation
+12083,Nat Geo Wild,Nat Geo Wild
+12084,Nickelodeon,Nickelodeon
+9234,CBS Justice,CBS Justice
+12163,TLC,TLC
+12164,More4,More4
+12376,POP,POP
+12471,MTV HITS,MTV Hits
+9206,BBC NEWS HD,BBC NEWS
+76657,BBC One,BBC One
+9459,BBC Two HD,BBC Two
+9507,BBC Three HD,BBC Three
+9474,BBC Four HD,BBC Four
+9460,BBC RB 1 HD,BBC Red Button 1
+9419,GREAT! movies,Great Movies
+9478,Cartoon Net HD,Cartoon Network
+
+# 美国US
+464754,beIN Sports USA HD,beIN Sports USA
+465236,Tennis Channel HD,Tennis Channel
+464783,Golf Channel HD,Golf Channel
+465239,MLB Network HD,MLB Network
+465311,NFL Network HD,NFL Network
+465401,NFL RedZone HD,NFL RedZone
+465344,WWE Network,WWE
+465010,Willow Cricket HD,Willow Cricket
+465022,Willow Xtra,Willow Extra
+465198,ESPN HD,ESPN
+465373,ESPN2 HD,ESPN 2
+465410,ESPNEWS HD,ESP NEWS
+465108,ESPNU HD,ESPN U
+464949,ESPN Deportes HD,ESPN Deportes
+465154,Fight Network,Fight Network
+464937,CBS Sports Network HD,CBS Sports Network
+465248,FS1 HD,FS1 Fox Sports 1
+465280,FS2 HD,FS2 Fox Sports 2
+465214,Fox Soccer Plus HD,Fox Soccer Plus
+465156,Fox Deportes HD,Fox Deportes
+465348,NHL Network HD,NHL Network
+465358,World Fishing Network HD (US),World Fishing Network
+464879,ACC Network,ACC Network
+465225,New England Sports Network HD,NESN
+464779,NBC Sports 4K,NBC Sports
+465058,CHSN Chicago Sports Network,Chicago Sports Network
+465010,Willow Cricket HD,Willow Cricket
+464912,NBA TV HD,NBA TV
+465174,TUDN,TUDN
+408644,Fubo Sports Network [US],Fubo Sports
+
+465032,AMC HD,AMC
+465249,HBO (Pacific),HBO
+464745,HBO East,HBO East
+465302,HBO West,HBO West
+465146,HBO2 (Pacific),HBO2
+465104,HBO Zone HD,HBO Zone
+464953,HBO Comedy HD,HBO Comedy
+465279,HBO Signature HD,HBO Signature
+464917,Cinemax HD,Cinemax East
+465388,Cinemax (Pacific),Cinemax West
+465147,5 StarMAX HD East,5 StarMAX East
+465138,SundanceTV HD,SundanceTV
+465364,Discovery Channel HD,Discovery Channel
+464838,Discovery Life Channel,Discovery Life
+465372,Fox News Channel HD,Fox News
+464791,CNBC HD,CNBC
+465329,UNIVERSO HD,NBC UNIVERSO
+465018,ReelzChannel HD,Reelz Channel
+464956,ScreenPix,ScreenPix
+464775,ScreenPix Action,ScreenPix Action
+464869,ScreenPix Westerns,ScreenPix Westerns
+
+
+# 加拿大CA
+409255,Sportsnet 360 [CA],Sportsnet 360
+470446,TSN 1,TSN 1
+470550,TSN 2,TSN 2
+470888,TSN 3,TSN 3
+470730,TSN 4,TSN 4
+470390,TSN 5,TSN 5
+
+# 墨西哥MX
+415585,Fox Sports [MX],Fox Sports
+415584,Fox Sports 2 [MX],Fox Sports 2
+415586,Fox Sports 3 [MX],Fox Sports 3
+427680,Sky Sports LaLiga [MX],Sky Sports LaLiga
+427662,Sky Sports [MX],Sky Sports
+
+# 巴西BR
+465504,SporTV,SporTV
+465418,SporTV 2,SporTV 2
+465416,SporTV 3,SporTV 3
+
+# 德国DE
+401577,Sky Sport 1,Sky Sport 1
+448621,Sky Sport 2,Sky Sport 2
+10675,Sky Sport Top Event,Sky Sport Top Event
+438445,Sky Sport Premier League,Sky Sport Premier League
+212821,Sky Sport Bundesliga,Sky Sport Bundesliga
+10785,Sky Sport Mix,Sky Sport Mix
+10634,Sky Sport Tennis,Sky Sport Tennis
+76632,DAZN,DAZN
+451928,DAZN 1,DAZN 1
+438441,sportdigital Fussball,SportDigital FUSSBALL
+
+# 西班牙ES
+406588,DAZN LALIGA [ES],DAZN LALIGA
+406530,DAZN LALIGA 2 [ES],DAZN LALIGA 2
+406568,M+ Liga de Campeones [ES],Liga de Campeones
+
+
+# 法国FR
+459266,Canal+ Sport,Canal+ Sport
+55773,beIN SPORTS 1,beIN SPORTS 1
+443147,beIN SPORTS 2,beIN SPORTS 2
+54963,beIN SPORTS 3,beIN SPORTS 3
+443103,beIN SPORTS MAX 5,beIN SPORTS MAX 5
+55982,beIN SPORTS MAX 6,beIN SPORTS MAX 6
+55920,beIN SPORTS MAX 7,beIN SPORTS MAX 7
+443213,beIN SPORTS MAX 8,beIN SPORTS MAX 8
+55983,beIN SPORTS MAX 9,beIN SPORTS MAX 9
+443150,beIN SPORTS MAX 10,beIN SPORTS MAX 10
+
+# 波兰PL
+6338,Eleven Sports 1,Eleven Sports 1
+6085,Eurosport 1 PL,Eurosport 1
+7049,Eurosport 2 PL,Eurosport 2
+
+# 荷兰NL
+406806,Ziggo Sport 1 [NL],Ziggo Sport 1
+406813,Ziggo Sport 2 [NL],Ziggo Sport 2
+406807,Ziggo Sport 3 [NL],Ziggo Sport 3
+406820,Ziggo Sport 4 [NL],Ziggo Sport 4
+406816,Ziggo Sport 5 [NL],Ziggo Sport 5
+406811,Ziggo Sport 6 [NL],Ziggo Sport 6
+
+# 挪威NOR
+407577,V Sport+ [NO],V Sport+
+407574,V Sport 1 [NO],V Sport 1
+
+# 瑞典SE
+68288,Viasat Sport HD SE,V Sport
+
+# 新加坡SG
+412140,Hub Premier 1,Hub Premier 1
+412164,Hub Premier 2 (HD),Hub Premier 2
+450711,Hub Premier 3,Hub Premier 3
+472551,Hub Premier 4,Hub Premier 4
+452962,Hub Premier 5,Hub Premier 5
+455186,Hub Premier 6,Hub Premier 6
+483423,Hub Premier 7,Hub Premier 7
+450710,Hub Premier 8,Hub Premier 8
+412169,Hub Sports 1 HD,Hub Sports 1
+412154,Hub Sports 2 HD,Hub Sports 2
+412105,Hub Sports 3 HD,Hub Sports 3
+412198,Hub Sports 4 HD,Hub Sports 4
+412160,Hub Sports 5 HD,Hub Sports 5
+412182,Hub Sports 6,Hub Sports 6
+455185,Hub Sports 7,Hub Sports 7
+455187,Hub Sports 8,Hub Sports 8
+369790,Premier Sports,Premier Sports
+369750,beIN SPORTS (HD),beIN SPORTS
+412129,beIN Sports 2 HD,beIN Sports 2
+412175,beIN Sports 3,beIN Sports 3
+492708,beIN SPORTS 4 HD,beIN Sports 4
+492707,beIN SPORTS 5 HD,beIN Sports 5
+412181,SPOTV,SPOTV
+412187,SPOTV2,SPOTV2
+412165,FIGHT SPORTS HD,FIGHT SPORTS
+
+马来西亚Astro
+399518,Astro Sports UHD,Astro Sports UHD
+397396,Astro Premier League,Astro Premier League
+397397,Astro Premier League 2,Astro Premier League 2
+399505,Astro Grandstand,Astro Grandstand
+399498,Astro Football,Astro Football
+399506,Premier Sports Rugby,Premier Sports Rugby
+399482,beIN SPORTS 1,beIN SPORTS 1
+4008,HBO Family,HBO Family
+
+拜恩体育beIN
+7370,BeIN Sports 4K,BeIN Sports 4K
+94061,BeIN Sports 1 EN,Bein Sports English 1
+93994,BeIN Sports 2 EN,Bein Sports English 2
+
+
+土耳其TR
+387731,A Spor HD,A Spor
+444115,TRT Spor Yıldız [TR],TRT Spor Yıldız
+444098,S Sport [TR],S Sport
+444123,S Sport 2 [TR],S Sport 2
+411887,Spor Smart TR,Spor Smart
+411899,Spor Smart 2 TR,Spor Smart 2
+409702,Tivibu Spor [TR],Tivibu Spor
+405488,Tivibu Spor 1,Tivibu Spor 1
+405609,Tivibu Spor 2,Tivibu Spor 2
+444097,Tivibu Spor 3 [TR],Tivibu Spor 3
+405679,Sports TV TR,Sports TV
+
+阿根廷AR
+431624,FOX Sports HD [AR],FOX Sports
+431621,FOX Sports 2 HD [AR],FOX Sports 2
+431616,FOX Sports 3 HD [AR],FOX Sports 3
+
+以色列IS
+6578,Yes Sport 5,Yes Sport 5
+
+印度IN
+464175,ZEE CAFE,Zee Cafe
+463984,STAR MOVIES,Star Movies
+464114,STAR MOVIES SELECT,Star Movies Select
+463905,MOVIES NOW,Movies Now
+464026,and flix,And Flix
+463869,and PRIVE HD,And Prive
+464247,CARTOON NETWORK,Cartoon Network
+463932,SONY PIX HD,Sony Pix
+463835,NATIONAL GEOGRAPHIC,National Geographic
+
+新西兰NZ
+406527,Sky Sport Premier League [NZ],Sky Sport Premier League
+
+斯洛伐克SK
+406290,Arena Sport 1 SK,Arena Sport 1
+406291,Arena Sport 2 SK,Arena Sport 2
+
+匈牙利HU
+393930,Sport 1 HU,Sport 1
+449431,Sport 2 [HU],Sport 2
+
+罗马尼亚RO
+6832,Prima Sport 1 HD,Prima Sport 1
+6830,Prima Sport 2 HD,Prima Sport 2
+6831,Prima Sport 3 HD,Prima Sport 3
+6828,Prima Sport 4 HD,Prima Sport 4
+
+捷克CZ
+6263,Nova Sport 1,Nova Sport 1
+7410,Nova Sport 2,Nova Sport 2
+
+菲律宾
+399720,Cgnl Nba,NBA TV Philippines
+322482,Pbarush Hd,PBA Rush
+322490,Onesports,One Sports
+322515,Onesportsplus Hd,One Sports Plus
+322530,Tap Sports,Tap Sports
+322516,Premier Tennishd,Premier Tennis
+374489,PREMIERSPORTS2,Premier Sports 2
+12650,SPOTV HD,SpoTV
+322441,Spotv Hd2,SpoTV 2
+
+格鲁吉亚GE
+410320,Setanta Sports 1 Georgia,Setanta Sports 1
+410319,Setanta Sports 2 Georgia,Setanta Sports 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
