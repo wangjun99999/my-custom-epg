@@ -1,28 +1,49 @@
-import sys
 import xml.etree.ElementTree as ET
+import sys
 
-src, out = sys.argv[1], sys.argv[2]
+epg_in = sys.argv[1]      # sites epg (UUID channels)
+map_file = sys.argv[2]   # channel map xml
+epg_out = sys.argv[3]    # final epg
 
-tree = ET.parse(src)
+# 1. 读取映射：UUID -> [xmltv_id, xmltv_id, ...]
+uuid_map = {}
+
+tree = ET.parse(map_file)
 root = tree.getroot()
 
-UUID_TO_MENA = {
-    "5824C394-7211-4004-AC46-35BD58B9D1EE": "beINSports1.qa@MENA",
-    "90E69FC7-AA8C-40F2-B35F-EBD174495F76": "beINSports3.qa@MENA",
-    "D0546ED7-9DB2-4924-9E32-C4F077E7BFC7": "beINSports4.qa@MENA",
-    "A5A48DB1-C00B-4DB9-9FC6-5E5F25C18830": "beINSports5.qa@MENA",
-    "E56B0905-F99F-4DB1-931E-E6002B530867": "beINSports6.qa@MENA",
-    "831591C8-DA65-4528-B837-0E5A147887FB": "beINSports7.qa@MENA",
-    "9A424246-EC89-43C3-9239-AA3A40540F94": "beINSports8.qa@MENA",
-    "1ACADCF1-DFAC-480B-872C-53D51FE1B45D": "beINSportsXtra1.qa@SD"
-}
+for ch in root.findall("channel"):
+    uuid = ch.get("site_id")
+    xmltv = ch.get("xmltv_id")
+    if uuid and xmltv:
+        uuid_map.setdefault(uuid, []).append(xmltv)
 
-fixed = 0
-for p in root.findall("programme"):
-    cid = p.get("channel")
-    if cid in UUID_TO_MENA:
-        p.set("channel", UUID_TO_MENA[cid])
-        fixed += 1
+print(f"Loaded {len(uuid_map)} UUID mappings")
 
-tree.write(out, encoding="utf-8", xml_declaration=True)
-print(f"Relinked {fixed} programmes →", out)
+# 2. 读取 EPG
+epg_tree = ET.parse(epg_in)
+tv = epg_tree.getroot()
+
+new_programmes = []
+
+for p in tv.findall("programme"):
+    old = p.get("channel")
+    if old in uuid_map:
+        for new_id in uuid_map[old]:
+            np = ET.fromstring(ET.tostring(p))
+            np.set("channel", new_id)
+            new_programmes.append(np)
+    else:
+        # 没映射的直接丢掉
+        pass
+
+# 3. 删除原有 programme
+for p in tv.findall("programme"):
+    tv.remove(p)
+
+# 4. 写入新的 programme
+for p in new_programmes:
+    tv.append(p)
+
+epg_tree.write(epg_out, encoding="utf-8", xml_declaration=True)
+
+print("UUID relink done →", epg_out)
