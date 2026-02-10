@@ -15,7 +15,13 @@ if (!fs.existsSync('output')) fs.mkdirSync('output')
 
 for (const r of regions) {
   console.log('Fetching', r)
-  execSync(`npx epg-grabber --site=beinsports.com --channels=epg_beinsports/${r}.channels.xml --output=tmp/${r}.xml`, { stdio: 'inherit' })
+  execSync(
+    `npx epg-grabber ` +
+    `--config=epg_beinsports/beinsports.com.config.js ` +
+    `--channels=epg_beinsports/${r}.channels.xml ` +
+    `--output=tmp/${r}.xml`,
+    { stdio: 'inherit' }
+  )
 }
 
 execSync(`npx epg-grabber merge "tmp/*.xml" > output/epg_beinsports_raw.xml`)
