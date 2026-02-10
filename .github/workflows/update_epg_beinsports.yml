@@ -24,7 +24,10 @@ jobs:
           python-version: "3.x"
 
       - run: npm install -g epg-grabber
-             npm install -g axios
+             npm install axios
+
+      - name: Fix NODE_PATH
+        run: echo "NODE_PATH=$(pwd)/node_modules" >> $GITHUB_ENV
 
       - name: Grab beIN EPG
         run: node epg_beinsports_grab.js
