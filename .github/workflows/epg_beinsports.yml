@@ -41,13 +41,13 @@ jobs:
 
       # 压缩
       - name: Gzip output
-        run: gzip -f output/epg_beinsports.xml
+        run: gzip -f output/epg_beinsports.xml > output/epg_beinsports.xml.gz
 
       # 提交
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add output/epg_beinsports.xml.gz
+          git add output/epg_beinsports.xml output/epg_beinsports.xml.gz
           git commit -m "Update beIN Sports EPG" || exit 0
           git push
