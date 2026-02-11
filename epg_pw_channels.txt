@@ -132,7 +132,9 @@
 464956,ScreenPix,ScreenPix
 464775,ScreenPix Action,ScreenPix Action
 464869,ScreenPix Westerns,ScreenPix Westerns
-
+465349,Disney Channel HD,Disney Channel
+465320,Disney Junior HD,Disney Junior
+464755,Boomerang,Boomerang
 
 # 加拿大CA
 409255,Sportsnet 360 [CA],Sportsnet 360
@@ -318,12 +320,12 @@
 410320,Setanta Sports 1 Georgia,Setanta Sports 1
 410319,Setanta Sports 2 Georgia,Setanta Sports 2
 
+# 印尼ID
+171930,Nickelodeon,Nickelodeon
+412009,Nick Junior,Nick Junior
 
-
-
-
-
-
+# 俄罗斯RU
+7218,JimJam,JimJam
 
 
 
