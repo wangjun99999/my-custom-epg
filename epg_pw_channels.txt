@@ -171,6 +171,9 @@
 406530,DAZN LALIGA 2 [ES],DAZN LALIGA 2
 406568,M+ Liga de Campeones [ES],Liga de Campeones
 
+# 意大利IT
+406906,Sky Sport 24 [IT],Sky Sport 24
+
 
 # 法国FR
 459266,Canal+ Sport,Canal+ Sport
@@ -231,7 +234,7 @@
 412187,SPOTV2,SPOTV2
 412165,FIGHT SPORTS HD,FIGHT SPORTS
 
-马来西亚Astro
+# 马来西亚Astro
 399518,Astro Sports UHD,Astro Sports UHD
 397396,Astro Premier League,Astro Premier League
 397397,Astro Premier League 2,Astro Premier League 2
@@ -241,13 +244,13 @@
 399482,beIN SPORTS 1,beIN SPORTS 1
 4008,HBO Family,HBO Family
 
-拜恩体育beIN
+# 拜恩体育beIN
 7370,BeIN Sports 4K,BeIN Sports 4K
 94061,BeIN Sports 1 EN,Bein Sports English 1
 93994,BeIN Sports 2 EN,Bein Sports English 2
 
 
-土耳其TR
+# 土耳其TR
 387731,A Spor HD,A Spor
 444115,TRT Spor Yıldız [TR],TRT Spor Yıldız
 444098,S Sport [TR],S Sport
@@ -260,15 +263,15 @@
 444097,Tivibu Spor 3 [TR],Tivibu Spor 3
 405679,Sports TV TR,Sports TV
 
-阿根廷AR
+# 阿根廷AR
 431624,FOX Sports HD [AR],FOX Sports
 431621,FOX Sports 2 HD [AR],FOX Sports 2
 431616,FOX Sports 3 HD [AR],FOX Sports 3
 
-以色列IS
+# 以色列IS
 6578,Yes Sport 5,Yes Sport 5
 
-印度IN
+# 印度IN
 464175,ZEE CAFE,Zee Cafe
 463984,STAR MOVIES,Star Movies
 464114,STAR MOVIES SELECT,Star Movies Select
@@ -279,28 +282,28 @@
 463932,SONY PIX HD,Sony Pix
 463835,NATIONAL GEOGRAPHIC,National Geographic
 
-新西兰NZ
+# 新西兰NZ
 406527,Sky Sport Premier League [NZ],Sky Sport Premier League
 
-斯洛伐克SK
+# 斯洛伐克SK
 406290,Arena Sport 1 SK,Arena Sport 1
 406291,Arena Sport 2 SK,Arena Sport 2
 
-匈牙利HU
+# 匈牙利HU
 393930,Sport 1 HU,Sport 1
 449431,Sport 2 [HU],Sport 2
 
-罗马尼亚RO
+# 罗马尼亚RO
 6832,Prima Sport 1 HD,Prima Sport 1
 6830,Prima Sport 2 HD,Prima Sport 2
 6831,Prima Sport 3 HD,Prima Sport 3
 6828,Prima Sport 4 HD,Prima Sport 4
 
-捷克CZ
+# 捷克CZ
 6263,Nova Sport 1,Nova Sport 1
 7410,Nova Sport 2,Nova Sport 2
 
-菲律宾
+# 菲律宾PH
 399720,Cgnl Nba,NBA TV Philippines
 322482,Pbarush Hd,PBA Rush
 322490,Onesports,One Sports
@@ -311,7 +314,7 @@
 12650,SPOTV HD,SpoTV
 322441,Spotv Hd2,SpoTV 2
 
-格鲁吉亚GE
+# 格鲁吉亚GE
 410320,Setanta Sports 1 Georgia,Setanta Sports 1
 410319,Setanta Sports 2 Georgia,Setanta Sports 2
 
