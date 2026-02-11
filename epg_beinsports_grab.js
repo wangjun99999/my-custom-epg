@@ -1,13 +1,18 @@
 const { execSync } = require('child_process')
 const fs = require('fs')
 
-// --- 自动安装依赖 ---
-try {
-  require.resolve('axios')
-} catch (e) {
-  console.log('axios 不存在，正在安装...')
-  execSync('npm install axios', { stdio: 'inherit' })
+function ensure(pkg) {
+  try {
+    require.resolve(pkg)
+  } catch (e) {
+    console.log(pkg, '不存在，正在安装...')
+    execSync(`npm install ${pkg}`, { stdio: 'inherit' })
+  }
 }
+
+// 这些是 beinsports.com.config.js 用到的
+ensure('axios')
+ensure('dayjs')
 
 const regions = [
   'beinsports.com_mena-en',
@@ -21,7 +26,6 @@ const regions = [
 if (!fs.existsSync('tmp')) fs.mkdirSync('tmp')
 if (!fs.existsSync('output')) fs.mkdirSync('output')
 
-// 抓各区
 for (const r of regions) {
   console.log('Fetching', r)
   execSync(
@@ -33,8 +37,7 @@ for (const r of regions) {
   )
 }
 
-// 正确合并
 console.log('Merging XML...')
-execSync(`npx epg-grabber merge "tmp/*.xml" > output/epg_beinsports_raw.xml`, {
+execSync(`npx epg-grabber merge tmp/*.xml > output/epg_beinsports_raw.xml`, {
   stdio: 'inherit'
 })
