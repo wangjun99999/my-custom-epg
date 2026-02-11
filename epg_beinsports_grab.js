@@ -1,24 +1,18 @@
 const { execSync } = require('child_process')
 const fs = require('fs')
 
-// ----------------------------
-// 自动安装依赖（给 config.js 用）
-// ----------------------------
+// 自动装依赖给 config.js 用
 function ensure(pkg) {
-  try {
-    require.resolve(pkg)
-  } catch {
-    console.log(`${pkg} 不存在，正在安装...`)
+  try { require.resolve(pkg) }
+  catch {
+    console.log(`Installing ${pkg}...`)
     execSync(`npm install ${pkg}`, { stdio: 'inherit' })
   }
 }
-
 ensure('axios')
 ensure('dayjs')
 
-// ----------------------------
 // beIN 全区
-// ----------------------------
 const regions = [
   'beinsports.com_mena-en',
   'beinsports.com_us-en',
@@ -28,44 +22,24 @@ const regions = [
   'beinsports.com_nz-en'
 ]
 
-// ----------------------------
-// 目录准备
-// ----------------------------
+// 目录
 if (!fs.existsSync('tmp')) fs.mkdirSync('tmp')
 if (!fs.existsSync('output')) fs.mkdirSync('output')
 
-// ----------------------------
-// 抓各区（每个区输出到一个目录）
-// ----------------------------
+// 抓取每个区 → 单独 XML
 for (const r of regions) {
   console.log('Fetching', r)
-
-  // 清理旧目录
-  const dir = `tmp/${r}`
-  if (fs.existsSync(dir)) {
-    fs.rmSync(dir, { recursive: true, force: true })
-  }
-
   execSync(
     `npx epg-grabber ` +
-      `--config=epg_beinsports/beinsports.com.config.js ` +
-      `--channels=epg_beinsports/${r}.channels.xml ` +
-      `--output=${dir}`,
+    `--config=epg_beinsports/beinsports.com.config.js ` +
+    `--channels=epg_beinsports/${r}.channels.xml ` +
+    `--output=tmp/${r}.xml`,
     { stdio: 'inherit' }
   )
 }
 
-// ----------------------------
-// 正确 merge（合并目录，不是 XML）
-// ----------------------------
-console.log('Merging all regions...')
+// 用 Python 合并（稳定 & 可控）
+console.log('Merging XML with Python...')
+execSync('python epg_beinsports_merge.py', { stdio: 'inherit' })
 
-execSync(
-  `npx epg-grabber merge ` +
-    `--config=epg_beinsports/beinsports.com.config.js ` +
-    `--output=output/epg_beinsports_raw.xml ` +
-    `tmp/beinsports.com_*`,
-  { stdio: 'inherit' }
-)
-
-console.log('✅ beIN 全区 EPG 抓取完成')
+console.log('✅ beIN 全区 EPG 生成完成')
