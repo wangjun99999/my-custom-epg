@@ -38,6 +38,11 @@ for (const r of regions) {
 }
 
 console.log('Merging XML...')
-execSync(`npx epg-grabber merge tmp/*.xml > output/epg_beinsports_raw.xml`, {
-  stdio: 'inherit'
-})
+execSync(
+  `npx epg-grabber merge ` +
+  `--config=epg_beinsports/beinsports.com.config.js ` +
+  `tmp/*.xml ` +
+  `--output output/epg_beinsports_raw.xml`,
+  { stdio: 'inherit' }
+)
+
