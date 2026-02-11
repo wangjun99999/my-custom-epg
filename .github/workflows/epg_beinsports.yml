@@ -27,9 +27,9 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install epg-grabber
+      - name: Install epg-grabber and deps
         run: |
-          npm install -g epg-grabber
+          npm install -g epg-grabber axios dayjs
 
       # 抓全区 beIN → output/epg_beinsports_raw.xml
       - name: Run beIN grabber
