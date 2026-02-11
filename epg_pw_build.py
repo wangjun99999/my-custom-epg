@@ -59,14 +59,15 @@ def bj(t):
     dt += timedelta(hours=8)
     return dt.strftime("%Y%m%d%H%M%S") + " +0800"
 
-# 输出节目
+# 输出节目（保持原始时区）
 for p in root.findall("programme"):
     cid = p.attrib.get("channel")
     if cid in valid:
         new = ET.SubElement(out, "programme")
         new.attrib["channel"] = cid
-        new.attrib["start"] = bj(p.attrib["start"])
-        new.attrib["stop"] = bj(p.attrib["stop"])
+        new.attrib["start"] = p.attrib["start"]
+        new.attrib["stop"] = p.attrib["stop"]
+
         for c in p:
             new.append(c)
 
