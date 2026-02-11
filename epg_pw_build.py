@@ -55,7 +55,9 @@ for cid, real_name in valid.items():
 
 # UTC → 北京时间
 def bj(t):
-    dt = datetime.strptime(t[:14], "%Y%m%d%H%M%S")
+    # t = "20260210003500 +0000"
+    base = t[:14]
+    dt = datetime.strptime(base, "%Y%m%d%H%M%S")
     dt += timedelta(hours=8)
     return dt.strftime("%Y%m%d%H%M%S") + " +0800"
 
@@ -65,8 +67,8 @@ for p in root.findall("programme"):
     if cid in valid:
         new = ET.SubElement(out, "programme")
         new.attrib["channel"] = cid
-        new.attrib["start"] = p.attrib["start"]
-        new.attrib["stop"] = p.attrib["stop"]
+        new.attrib["start"] = bj(p.attrib["start"])
+        new.attrib["stop"] = bj(p.attrib["stop"])
 
         for c in p:
             new.append(c)
