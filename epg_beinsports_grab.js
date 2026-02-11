@@ -1,6 +1,14 @@
 const { execSync } = require('child_process')
 const fs = require('fs')
 
+// --- 自动安装依赖 ---
+try {
+  require.resolve('axios')
+} catch (e) {
+  console.log('axios 不存在，正在安装...')
+  execSync('npm install axios', { stdio: 'inherit' })
+}
+
 const regions = [
   'beinsports.com_mena-en',
   'beinsports.com_us-en',
