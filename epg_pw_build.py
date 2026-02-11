@@ -77,4 +77,13 @@ for p in root.findall("programme"):
 os.makedirs("output", exist_ok=True)
 ET.ElementTree(out).write("output/epg_pw.xml", encoding="utf-8", xml_declaration=True)
 
-print("Done. output/epg_pw.xml generated")
+import gzip
+import shutil
+
+with open("output/epg_pw.xml", "rb") as f_in:
+    with gzip.open("output/epg_pw.xml.gz", "wb") as f_out:
+        shutil.copyfileobj(f_in, f_out)
+
+print("Done.")
+print("output/epg_pw.xml")
+print("output/epg_pw.xml.gz")
