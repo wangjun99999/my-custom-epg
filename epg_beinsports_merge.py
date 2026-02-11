@@ -8,43 +8,54 @@ files = glob.glob("tmp/*.xml")
 if not files:
     raise SystemExit("❌ No tmp/*.xml files found")
 
-# 存储
 channels = {}
-programmes = defaultdict(dict)  # {channel_id: {(start, stop, title): programme}}
+programmes = []
+
+def norm(name):
+    return name.strip().lower().replace(" ", "_")
 
 for file in files:
     print(" -", file)
     tree = ET.parse(file)
     root = tree.getroot()
 
-    # channels
     for ch in root.findall("channel"):
-        cid = ch.attrib["id"]
+        name = ch.findtext("display-name", "unknown")
+        cid = norm(name)
+
         if cid not in channels:
-            channels[cid] = ch
+            new_ch = ET.Element("channel", id=cid)
+            dn = ET.SubElement(new_ch, "display-name")
+            dn.text = name
+            channels[cid] = new_ch
 
-    # programmes
     for p in root.findall("programme"):
-        cid = p.attrib["channel"]
-        key = (p.attrib["start"], p.attrib["stop"], p.findtext("title", ""))
-        programmes[cid][key] = p   # 自动去重
+        name = p.findtext("title", "")
+        chname = root.find("channel/display-name")
+        if chname is not None:
+            cid = norm(chname.text)
+        else:
+            cid = p.attrib.get("channel", "unknown")
 
-# 生成新 XML
+        p.attrib["channel"] = cid
+        programmes.append(p)
+
+# 排序
+programmes.sort(key=lambda x: x.attrib["start"])
+
+# 输出 XMLTV
 tv = ET.Element("tv")
 
-# 写 channels
 for ch in channels.values():
     tv.append(ch)
 
-# 写 programmes（按时间排序）
-for cid in sorted(programmes.keys()):
-    plist = list(programmes[cid].values())
-    plist.sort(key=lambda p: p.attrib["start"])
-    for p in plist:
-        tv.append(p)
+for p in programmes:
+    tv.append(p)
 
-# 输出
-tree = ET.ElementTree(tv)
-tree.write("output/epg_beinsports_raw.xml", encoding="utf-8", xml_declaration=True)
+ET.ElementTree(tv).write(
+    "output/epg_beinsports_raw.xml",
+    encoding="utf-8",
+    xml_declaration=True
+)
 
 print("✅ Merged to output/epg_beinsports_raw.xml")
