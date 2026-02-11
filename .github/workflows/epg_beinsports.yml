@@ -1,4 +1,4 @@
-name: beIN Sports
+name: beIN Sports EPG
 
 on:
   schedule:
@@ -27,28 +27,27 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install epg-grabber and deps
+      - name: Install epg-grabber
         run: |
           npm install -g epg-grabber
-          npm install axios dayjs
 
-      # 运行 beIN 抓取
+      # 抓全区 beIN → output/epg_beinsports_raw.xml
       - name: Run beIN grabber
         run: node epg_beinsports_grab.js
 
-      # 转为北京时间
+      # 转为北京时间 → output/epg_beinsports.xml
       - name: Convert to Beijing Time
         run: python epg_beinsports_to_cst.py
 
       # 压缩
       - name: Gzip output
-        run: gzip -f output/bein_sports_epg.xml
+        run: gzip -f output/epg_beinsports.xml
 
-      # 提交到仓库
+      # 提交
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add output/bein_sports_epg.xml.gz
+          git add output/epg_beinsports.xml.gz
           git commit -m "Update beIN Sports EPG" || exit 0
           git push
