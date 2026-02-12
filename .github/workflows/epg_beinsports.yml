@@ -39,9 +39,12 @@ jobs:
       - name: Convert to Beijing Time
         run: python epg_beinsports_to_cst.py
 
+      - name: Map beIN channel IDs to names
+        run: python epg_beinsports_map_ids.py
+
       # 压缩
       - name: Gzip output
-        run: gzip -f output/epg_beinsports.xml > output/epg_beinsports.xml.gz
+        run: gzip -f output/epg_beinsports_mapped.xml
 
       # 提交
       - name: Commit and push
