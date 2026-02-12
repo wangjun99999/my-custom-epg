@@ -3,72 +3,43 @@ import glob
 
 print("🔗 Loading beIN channel maps...")
 
-name_to_xmltv = {}
+id_map = {}
 
-# 解析 beIN 私有 channels.xml
-for fn in glob.glob("epg_beinsports/*.channels.xml"):
-    print(" -", fn)
-    tree = ET.parse(fn)
+# 读取所有地区 channels.xml
+for f in glob.glob("epg_beinsports/*.channels.xml"):
+    print(" -", f)
+    tree = ET.parse(f)
     root = tree.getroot()
 
-    for ch in root.findall(".//channel"):
-        xmltv = ch.findtext("id")
-        name = ch.findtext("name")
+    for ch in root.findall("channel"):
+        site_id = ch.attrib.get("site_id")
+        xmltv_id = ch.attrib.get("xmltv_id")
 
-        if not xmltv or not name:
-            continue
+        if site_id and xmltv_id:
+            id_map[site_id] = xmltv_id
 
-        key = name.strip().lower()
-        name_to_xmltv[key] = xmltv.strip()
+print(f"Loaded {len(id_map)} channel IDs")
 
-print("Loaded", len(name_to_xmltv), "channel names")
-
-# 读取 EPG
-epg = ET.parse("output/epg_beinsports.xml")
-root = epg.getroot()
-
-# UUID → display-name
-uuid_to_name = {}
-
-for p in root.findall("programme"):
-    uuid = p.attrib.get("channel")
-    disp = p.findtext("display-name")
-
-    if uuid and disp:
-        uuid_to_name[uuid] = disp.strip().lower()
+# 读取合并后的原始 EPG
+tree = ET.parse("output/epg_beinsports_raw.xml")
+root = tree.getroot()
 
 mapped = 0
-new_channels = {}
 
-for uuid, name in uuid_to_name.items():
-    if name in name_to_xmltv:
-        new_channels[name_to_xmltv[name]] = name
+# 替换 EPG 里的 channel id
+for ch in root.findall("channel"):
+    old = ch.attrib.get("id")
+    if old in id_map:
+        ch.attrib["id"] = id_map[old]
         mapped += 1
 
-print("Mapped channels:", mapped)
-
-# 生成新 EPG
-new_root = ET.Element("tv")
-
-# channels
-for xmltv, name in new_channels.items():
-    ch = ET.SubElement(new_root, "channel", id=xmltv)
-    ET.SubElement(ch, "display-name").text = name
-
-# programmes
+# 同步 programme 的 channel
 for p in root.findall("programme"):
-    uuid = p.attrib.get("channel")
-    name = uuid_to_name.get(uuid)
+    old = p.attrib.get("channel")
+    if old in id_map:
+        p.attrib["channel"] = id_map[old]
 
-    if not name:
-        continue
+print(f"Mapped channels: {mapped}")
 
-    xmltv = name_to_xmltv.get(name)
-    if not xmltv:
-        continue
-
-    p.attrib["channel"] = xmltv
-    new_root.append(p)
-
-ET.ElementTree(new_root).write("output/epg_beinsports_mapped.xml", encoding="utf-8", xml_declaration=True)
+tree.write("output/epg_beinsports_mapped.xml", encoding="utf-8", xml_declaration=True)
 print("Saved: output/epg_beinsports_mapped.xml")
