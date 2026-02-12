@@ -1,0 +1,24 @@
+# 阿联酋 AE
+Abu.Dhabi.HD.ae
+Emarat.HD.ae
+Yas.TV.HD.ae
+Baynounah.TV.HD.ae
+Nat.Geo.Abu.Dhabi.HD.ae
+
+# 英国 UK
+TNTSBoxOff2HD.uk
+TNT.Sport.BoxOffice.HD.uk
+TNT.Sports.10.HD.uk
+TNT.Sports.1.HD.uk
+TNT.Sports.2.HD.uk
+TNT.Sports.3.HD.uk
+TNT.Sports.4.HD.uk
+TNT.Sports.5.HD.uk
+TNT.Sports.6.HD.uk
+TNT.Sports.7.HD.uk
+TNT.Sports.8.HD.uk
+TNT.Sports.9.HD.uk
+TNT.Sports.Box.Office.2.uk
+TNT.Sports.Box.Office.uk
+TNT.Sports.Ultimate.HD.uk
+TNT.Sports.Ultimate.uk
