@@ -1,33 +1,33 @@
 import xml.etree.ElementTree as ET
 import glob
-from collections import defaultdict
 
 print("🔗 Loading beIN channel maps...")
 
 name_to_xmltv = {}
 
+# 解析 beIN 私有 channels.xml
 for fn in glob.glob("epg_beinsports/*.channels.xml"):
     print(" -", fn)
     tree = ET.parse(fn)
     root = tree.getroot()
 
     for ch in root.findall(".//channel"):
-        xmltv = ch.attrib.get("xmltv_id")
-        name = ch.findtext("display-name")
+        xmltv = ch.findtext("id")
+        name = ch.findtext("name")
 
         if not xmltv or not name:
             continue
 
         key = name.strip().lower()
-        name_to_xmltv[key] = xmltv
+        name_to_xmltv[key] = xmltv.strip()
 
 print("Loaded", len(name_to_xmltv), "channel names")
 
-# --- 读取 EPG ---
+# 读取 EPG
 epg = ET.parse("output/epg_beinsports.xml")
 root = epg.getroot()
 
-# 建立 UUID → display-name 映射
+# UUID → display-name
 uuid_to_name = {}
 
 for p in root.findall("programme"):
@@ -37,27 +37,25 @@ for p in root.findall("programme"):
     if uuid and disp:
         uuid_to_name[uuid] = disp.strip().lower()
 
-# 重建 channel 列表
-new_channels = {}
 mapped = 0
+new_channels = {}
 
 for uuid, name in uuid_to_name.items():
     if name in name_to_xmltv:
-        xmltv = name_to_xmltv[name]
-        new_channels[xmltv] = name
+        new_channels[name_to_xmltv[name]] = name
         mapped += 1
 
 print("Mapped channels:", mapped)
 
-# 构建新 EPG
+# 生成新 EPG
 new_root = ET.Element("tv")
 
-# 写 channels
+# channels
 for xmltv, name in new_channels.items():
     ch = ET.SubElement(new_root, "channel", id=xmltv)
     ET.SubElement(ch, "display-name").text = name
 
-# 写 programmes
+# programmes
 for p in root.findall("programme"):
     uuid = p.attrib.get("channel")
     name = uuid_to_name.get(uuid)
