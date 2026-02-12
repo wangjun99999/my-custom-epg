@@ -1,9 +1,10 @@
 import xml.etree.ElementTree as ET
 import glob
+from collections import defaultdict
 
 print("🔗 Loading beIN channel maps...")
 
-id_map = {}
+name_to_xmltv = {}
 
 for fn in glob.glob("epg_beinsports/*.channels.xml"):
     print(" -", fn)
@@ -12,33 +13,64 @@ for fn in glob.glob("epg_beinsports/*.channels.xml"):
 
     for ch in root.findall(".//channel"):
         xmltv = ch.attrib.get("xmltv_id")
-        if not xmltv:
+        name = ch.findtext("display-name")
+
+        if not xmltv or not name:
             continue
 
-        # 统一成小写用于匹配
-        key = xmltv.lower()
+        key = name.strip().lower()
+        name_to_xmltv[key] = xmltv
 
-        # 频道名
-        name = ch.findtext("display-name", default=xmltv)
+print("Loaded", len(name_to_xmltv), "channel names")
 
-        id_map[key] = name
-
-print("Loaded", len(id_map), "channels")
-
-# --- 读取你抓好的 beIN EPG ---
+# --- 读取 EPG ---
 epg = ET.parse("output/epg_beinsports.xml")
 root = epg.getroot()
 
+# 建立 UUID → display-name 映射
+uuid_to_name = {}
+
+for p in root.findall("programme"):
+    uuid = p.attrib.get("channel")
+    disp = p.findtext("display-name")
+
+    if uuid and disp:
+        uuid_to_name[uuid] = disp.strip().lower()
+
+# 重建 channel 列表
+new_channels = {}
 mapped = 0
 
-for ch in root.findall("channel"):
-    cid = ch.attrib.get("id", "").lower()
-
-    if cid in id_map:
-        ch.attrib["id"] = cid  # 确保id是xmltv_id
+for uuid, name in uuid_to_name.items():
+    if name in name_to_xmltv:
+        xmltv = name_to_xmltv[name]
+        new_channels[xmltv] = name
         mapped += 1
 
 print("Mapped channels:", mapped)
 
-epg.write("output/epg_beinsports_mapped.xml", encoding="utf-8", xml_declaration=True)
+# 构建新 EPG
+new_root = ET.Element("tv")
+
+# 写 channels
+for xmltv, name in new_channels.items():
+    ch = ET.SubElement(new_root, "channel", id=xmltv)
+    ET.SubElement(ch, "display-name").text = name
+
+# 写 programmes
+for p in root.findall("programme"):
+    uuid = p.attrib.get("channel")
+    name = uuid_to_name.get(uuid)
+
+    if not name:
+        continue
+
+    xmltv = name_to_xmltv.get(name)
+    if not xmltv:
+        continue
+
+    p.attrib["channel"] = xmltv
+    new_root.append(p)
+
+ET.ElementTree(new_root).write("output/epg_beinsports_mapped.xml", encoding="utf-8", xml_declaration=True)
 print("Saved: output/epg_beinsports_mapped.xml")
